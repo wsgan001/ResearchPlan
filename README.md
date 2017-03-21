@@ -1,4 +1,4 @@
 ResearchPlan
 
- [Go to documentation page](https://github.com/vitormorais/ResearchPlan/tree/master/3.documentation)
+ [Go to Research/SoA page](https://github.com/vitormorais/ResearchPlan/tree/master/1.Research)
 ***

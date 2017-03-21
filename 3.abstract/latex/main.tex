@@ -1,0 +1,77 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{natbib}
+\usepackage{graphicx}
+\usepackage{framed}
+\usepackage{multirow}
+\usepackage{outlines}
+\usepackage{geometry}
+%\usepackage[nolist,nohyperlinks]{acronym}
+\setcitestyle{square}
+
+\usepackage{array}
+\newcolumntype{C}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+
+\title{ PDEEC - Abstract for Thesis Research Plan \\
+\hrulefill \\ Smart Metering towards energy efficiency increasing in railways systems}
+\author{Student: \textbf{Vítor A. Morais}\\
+	 \small Supervisor: António Pina Martins}
+
+\begin{document}
+
+\maketitle
+
+\textbf{\textit{Introduction}}
+
+
+	The railway system is responsible for 1.3\% of entire European energy consumption, \citep{iea-uic2016}. The discussion of the energy efficiency in railways is a grown topic due to its contribution to the global energy consumption.
+	The energy efficiency analysis and management requires a detailed mapping of the energy consumption/generation in the railway system. 
+	This detailed mapping of the energy flows should include, not only the rolling stock level but also the traction substations and the auxiliary services.
+	The knowledge of all the load curves permits the load prevision, peak shaving and energy cost optimization for all global railway system.
+
+
+%\vspace{1em}
+
+\textbf{\textit{Shift2Rail Framework}}
+
+	This work is supported by the iRail PhD programme – Innovation in Railway Systems and Technologies whose objectives are aligned with the Shift2Rail objectives: 1. Cutting the life-cycle cost of railway transport by as much as 50\%; 2. Doubling the railway capacity; 3. Increasing the reliability and punctuality by as much as 50\%, \citep{shift2rail2015}.
+	
+	Framed on the Shift2Rail (S2R) Innovation Programme 3 (IP3) with the focus on ”Cost efficient and reliable infrastructure”, it is proposed to develop a Smart Metering Demonstrator (SMD) that reach a detailed monitoring and supervision of various energy flows on the premises of embrace the entire Railway System.
+	The purpose of any energy management strategy is to build the dynamics of every loads and generators of the power system. 
+	This should be performed based on an extensive knowledge of every energy flows. 
+	This way, the SMD is required to propose and validate a standard metering architecture that involves the coordination of every measurements either in on-board and in ground. 
+	In advance, energy data analysis should be provided based on relevant stored data. 
+	
+\textbf{\textit{Research Plan}}
+
+Based on the state of the art, current metering systems focus on rolling stock on-board energy meters for energy billing purposes only, where the metering devices are located close to the pantograph, \citep{shift2rail2015}.
+
+An advance beyond the state of the art is the expansion of the measurement system at railway system level, making it a distributed one, including both on-board and track-side measurements, thus achieving detailed mappings. 
+
+\vspace{2em}
+
+Other point in the state of the art is the intrusion level of currently used metering systems, that in one way, became a critical subsystem of the rolling stock and in other way, requires relatively long implementation, \citep{shift2rail2015}. 
+
+An advance beyond the state of the art is a solution based on non-intrusive technology. More detailed simulation models in conjunction with field measurements is the methodology to be investigated.
+
+
+
+%\textbf{\textit{Research Plan}}
+
+	Specific challenges and requirements of this research are the development of non-intrusive Wireless Sensor Networks (WSN)  in the railway environment. 
+	It is intended that this technology should be based on an open system and open interfaces for the data collection, aggregation and analysis. 
+	Issues like metering redundancy, outlier detection, fault tolerance and communication reliability, should be considered during the research.
+	In addition, it is expected to design and specify a set of user applications.
+	Those applications are focused in the energy analysis process with the aim of providing more information and detailed knowledge.
+	It is expected that this detailed knowledge would be useful in a decision support system related with, in e.g., eco-driving strategies, timetable planning and preventive maintenance.
+	
+
+
+
+\bibliographystyle{IEEEtran}
+
+\bibliography{IEEEabrv,references}
+
+
+\end{document}
