@@ -1,84 +1,61 @@
 \begin{thebibliography}{}
 
-\bibitem[\protect\citeauthoryear{Abid, Kachouri, and Mahfoudhi}{Abid
-  et~al.}{2016}]{nn:abid:2016}
-Abid, A., A.~Kachouri, and A.~Mahfoudhi (2016, mar).
-\newblock Anomaly detection through outlier and neighborhood data in wireless
-  sensor networks.
-\newblock In {\em 2016 2nd International Conference on Advanced Technologies
-  for Signal and Image Processing ({ATSIP})}. Institute of Electrical and
-  Electronics Engineers ({IEEE}).
+\bibitem[\protect\citeauthoryear{IEEE}{IEEE}{2016}]{ieee2012}
+IEEE (2016).
+\newblock {\textit{Wireless LAN Medium Access Control (MAC) and Physical Layer
+  (PHY) Specifications}}.
+\newblock IEEE Std. 802.11-2016.
 
-\bibitem[\protect\citeauthoryear{Birol and Loubinoux}{Birol and
-  Loubinoux}{2016}]{iea-uic2016}
-Birol, F. and J.-P. Loubinoux (2016).
-\newblock 2016 edition of the uic-iea railway handbook on energy consumption
-  and co2 emissions focuses on sustainability targets.
-\newblock Technical report, IEA - International Energy Agency; UIC -
-  International Union of Railways.
+\bibitem[\protect\citeauthoryear{Mohassel, Fung, Mohammadi, and
+  Raahemifar}{Mohassel et~al.}{2014}]{Mohassel2014}
+Mohassel, R.~R., A.~Fung, F.~Mohammadi, and K.~Raahemifar (2014).
+\newblock {Electrical Power and Energy Systems A survey on Advanced Metering
+  Infrastructure}.
+\newblock {\em INTERNATIONAL JOURNAL OF ELECTRICAL POWER AND ENERGY
+  SYSTEMS\/}~{\em 63}, 473--484.
 
-\bibitem[\protect\citeauthoryear{Branch, Szymanski, Giannella, Wolff, and
-  Kargupta}{Branch et~al.}{2006}]{class:branch:2006}
-Branch, J., B.~Szymanski, C.~Giannella, R.~Wolff, and H.~Kargupta (2006).
-\newblock In-network outlier detection in wireless sensor networks.
-\newblock In {\em 26th {IEEE} International Conference on Distributed Computing
-  Systems ({ICDCS}06)}. Institute of Electrical and Electronics Engineers
-  ({IEEE}).
+\bibitem[\protect\citeauthoryear{Petersen and Carlsen}{Petersen and
+  Carlsen}{2011}]{Petersen2011}
+Petersen, S. and S.~Carlsen (2011).
+\newblock Wirelesshart versus isa100.11a: The format war hits the factory
+  floor.
+\newblock {\em IEEE Industrial Electronics Magazine\/}~{\em 5\/}(4), 23--34.
+\newblock cited By 131.
 
-\bibitem[\protect\citeauthoryear{Chandola, Banerjee, and Kumar}{Chandola
-  et~al.}{2009}]{gen:chandola:2009}
-Chandola, V., A.~Banerjee, and V.~Kumar (2009, jul).
-\newblock Anomaly detection.
-\newblock {\em {ACM} Computing Surveys\/}~{\em 41\/}(3), 1--58.
+\bibitem[\protect\citeauthoryear{Reddy, Kumar, Mallick, Sharon, and
+  Lokeswaran}{Reddy et~al.}{2014}]{Reddy2014}
+Reddy, K.~S., M.~Kumar, T.~K. Mallick, H.~Sharon, and S.~Lokeswaran (2014).
+\newblock {A review of Integration , Control , Communication and Metering (
+  ICCM ) of renewable energy based smart grid}.
+\newblock {\em Renewable and Sustainable Energy Reviews\/}~{\em 38}, 180--192.
 
-\bibitem[\protect\citeauthoryear{Ghorbel, Ayedi, Snoussi, and Abid}{Ghorbel
-  et~al.}{2015}]{stat:ghorbel:2015}
-Ghorbel, O., W.~Ayedi, H.~Snoussi, and M.~Abid (2015, jun).
-\newblock Fast and efficient outlier detection method in wireless sensor
-  networks.
-\newblock {\em {IEEE} Sensors Journal\/}~{\em 15\/}(6), 3403--3411.
+\bibitem[\protect\citeauthoryear{Seppo and Elektraflex}{Seppo and
+  Elektraflex}{2012}]{Seppo2012}
+Seppo, K. and O.~Elektraflex (2012).
+\newblock {Task XVII: Integration of Demand Side Management, Distributed
+  Generation, Renewable Energy Sources and Energy Storages — Subtask 5,
+  Report No. 5}.
+\newblock {\em International Energy Agency DemandSide Management Programme\/}.
 
-\bibitem[\protect\citeauthoryear{Martins, Palma, Cardoso, and Gil}{Martins
-  et~al.}{2015}]{class:martins:2015b}
-Martins, H., L.~Palma, A.~Cardoso, and P.~Gil (2015, may).
-\newblock A support vector machine based technique for online detection of
-  outliers in transient time series.
-\newblock In {\em 2015 10th Asian Control Conference ({ASCC})}. Institute of
-  Electrical and Electronics Engineers ({IEEE}).
+\bibitem[\protect\citeauthoryear{Siano}{Siano}{2014}]{Siano2014}
+Siano, P. (2014).
+\newblock {Demand response and smart grids — A survey}.
+\newblock {\em Renewable and Sustainable Energy Reviews\/}~{\em 30}, 461--478.
 
-\bibitem[\protect\citeauthoryear{Rajasegarar, Leckie, Palaniswami, and
-  Bezdek}{Rajasegarar et~al.}{2007}]{class:rajasegarar:2007}
-Rajasegarar, S., C.~Leckie, M.~Palaniswami, and J.~C. Bezdek (2007, jun).
-\newblock Quarter sphere based distributed anomaly detection in wireless sensor
-  networks.
-\newblock In {\em 2007 {IEEE} International Conference on Communications}.
-  Institute of Electrical and Electronics Engineers ({IEEE}).
+\bibitem[\protect\citeauthoryear{Song, Han, Mok, Chen, Lucas, Nixon, and
+  Pratt}{Song et~al.}{2008}]{Song2008}
+Song, J., S.~Han, A.~Mok, D.~Chen, M.~Lucas, M.~Nixon, and W.~Pratt (2008).
+\newblock Wirelesshart: Applying wireless technology in real-time industrial
+  process control.
+\newblock In {\em Proceedings of the IEEE Real-Time and Embedded Technology and
+  Applications Symposium, RTAS}, pp.\  377--386.
+\newblock cited By 246.
 
-\bibitem[\protect\citeauthoryear{Sheng, Li, Mao, and Jin}{Sheng
-  et~al.}{2007}]{stat:sheng:2007}
-Sheng, B., Q.~Li, W.~Mao, and W.~Jin (2007).
-\newblock Outlier detection in sensor networks.
-\newblock In {\em Proceedings of the 8th {ACM} international symposium on
-  Mobile ad hoc networking and computing - {MobiHoc} 07}. Association for
-  Computing Machinery ({ACM}).
-
-\bibitem[\protect\citeauthoryear{{Shift2Rail Joint Undertaking}}{{Shift2Rail
-  Joint Undertaking}}{2015}]{shift2rail2015}
-{Shift2Rail Joint Undertaking} (2015).
-\newblock Shift2rail joint undertaking multi-annual action plan.
-\newblock Technical report, Shift2Rail.
-
-\bibitem[\protect\citeauthoryear{Zhang, Meratnia, and Havinga}{Zhang
-  et~al.}{2010}]{gen:zhang:2010}
-Zhang, Y., N.~Meratnia, and P.~Havinga (2010).
-\newblock Outlier detection techniques for wireless sensor networks: A survey.
-\newblock {\em {IEEE} Communications Surveys {\&} Tutorials\/}~{\em 12\/}(2),
-  159--170.
-
-\bibitem[\protect\citeauthoryear{Zhuang and Chen}{Zhuang and
-  Chen}{2006}]{nn:zhuang:2006}
-Zhuang, Y. and L.~Chen (2006).
-\newblock In-network outlier cleaning for data collection in sensor networks.
-\newblock In {\em In CleanDB, Workshop in VLDB 2006}, pp.\  41--48. APPENDIX.
+\bibitem[\protect\citeauthoryear{Usman and Shami}{Usman and
+  Shami}{2013}]{Usman2013}
+Usman, A. and S.~H. Shami (2013).
+\newblock Evolution of communication technologies for smart grid applications.
+\newblock {\em Renewable and Sustainable Energy Reviews\/}~{\em 19}, 191 --
+  199.
 
 \end{thebibliography}

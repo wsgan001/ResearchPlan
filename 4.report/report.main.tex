@@ -1,4 +1,4 @@
-\documentclass[11pt,a4paper,twoside,openright]{report}
+\documentclass[10pt,a4paper,twoside]{report}
 \usepackage[utf8]{inputenc}
 
 \usepackage[]{feupteses}
@@ -40,34 +40,49 @@
 \input{chapters/1.Introduction}
 
 
-\chapter{Railways Remote Monitoring Systems}
-\input{chapters/2.Railways}
+\chapter{Objectives and Contributions}
+\input{chapters/2.Objectives}
 
+\chapter{Literature Review}
+\input{chapters/3.Literature}
 
-\chapter{Railways Energy Model}
-\input{chapters/3.Models}
+\input{chapters/31.SmartM}
 
-\chapter{Outliers Detection}
-\input{chapters/4.Outliers}
+\input{chapters/32.WirelessN}
 
-\chapter{Future Research}
-\input{chapters/4.Future}
+\input{chapters/33.EnergyS}
 
-\chapter{Conclusion}
-\input{chapters/5.Conclusions}
+\input{chapters/34.PowerS}
+
+\input{chapters/35.DSS}
+
+\input{chapters/36.OutlierD}
+
+%\chapter{Results and Discussion}
+%\input{chapters/4.Results}
+
+\chapter{Methodology and Work Plan}
+\input{chapters/4.Methodology}
+
+%\chapter{Preliminary Work}
+%\input{chapters/4.Preliminary}
 
 
 
 \bibliographystyle{chicago}
 %chicago}
 
-\bibliography{outliers,shift2rail,references}
+%nota: não ter espaços entre ficheiros
+\bibliography{bib/outliers,bib/shift2rail,bib/references,bib/31.SmartM,bib/32.WirelessN,bib/33.EnergyS,bib/34.PowerS,bib/35.DSS,bib/36.OutlierD}
 %\bibliography{outliers}
 %\PrintBib{outliers, }
 
 
 %\bibliographystyle{plainnat}
 %\bibliography{references}
+
+%\chapter*{Attachment 1 --- \large{Overview of communication systems for Smart Grids}}
+%\includepdf[pages=-, scale=0.9, offset=-10 0, pagecommand={\thispagestyle{plain}}]  {chapters/communication}
 
 
 \end{document}
