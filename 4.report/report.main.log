@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.6)  20 JUL 2017 19:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.6)  22 JUL 2017 17:08
 entering extended mode
 **./report.main.tex
 (report.main.tex
@@ -2074,39 +2074,51 @@ Chapter 2.
 Chapter 3.
 (chapters/3.Literature.tex) (chapters/31.SmartM.tex [4
 
-])
-(chapters/32.WirelessN.tex [5] [6] [7]) (chapters/33.EnergyS.tex)
-(chapters/34.PowerS.tex) (chapters/35.DSS.tex) (chapters/36.OutlierD.tex)
-[8]
+]) [5]
+(chapters/32.WirelessN.tex [6] [7]
+<figures/simul_VS_emul.png, id=250, 935.495pt x 305.14pt>
+File: figures/simul_VS_emul.png Graphic file (type png)
+
+<use figures/simul_VS_emul.png>
+Package pdftex.def Info: figures/simul_VS_emul.png used on input line 123.
+(pdftex.def)             Requested size: 277.41176pt x 90.48576pt.
+ [8 <./figures/simul_VS_emul.png>] [9]
+Overfull \hbox (5.86797pt too wide) in paragraph at lines 222--224
+[]\T1/jkp/m/n/10 This Java-based sim-u-la-tor was made to pro-vide a sim-u-la-t
+ion and proof-of-concept
+ []
+
+) [10] (chapters/33.EnergyS.tex) [11] (chapters/34.PowerS.tex) [12]
+(chapters/35.DSS.tex) [13] (chapters/36.OutlierD.tex) [14]
 Chapter 4.
 (chapters/4.Methodology.tex
 LaTeX Font Info:    Try loading font information for TS1+jkp on input line 24.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\kpfonts\ts1jkp.fd"
 File: ts1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for TS1/jkp.
-) [9
+) [15
 
 ])
-(report.main.bbl [10]) [11
+(report.main.bbl [16]) [17
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
  (report.main.aux (report.info.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 88.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 88.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
 Package rerunfilecheck Info: File `report.main.out' has not changed.
-(rerunfilecheck)             Checksum: 18F6BC9D1BD0850FEA56C6523FA06A06;2097.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 88.
+(rerunfilecheck)             Checksum: 9D58EF20D9B8F3047990E3C9E87C0C8F;2103.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
  ) 
 Here is how much of TeX's memory you used:
- 31426 strings out of 493333
- 567881 string characters out of 3139189
- 739836 words of memory out of 3000000
- 34264 multiletter control sequences out of 15000+200000
+ 31454 strings out of 493333
+ 568298 string characters out of 3139189
+ 739887 words of memory out of 3000000
+ 34282 multiletter control sequences out of 15000+200000
  119197 words of font info for 94 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,75p,10426b,1185s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 57i,11n,77p,10426b,1185s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Program Files/Mi
 KTeX 2.9/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}<C:/Program Files/MiKTeX 2.
 9/fonts/type1/public/kpfonts/jkpbn8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
@@ -2117,9 +2129,9 @@ C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmnc.pfb><C:/Program F
 iles/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmne.pfb><C:/Program Files/MiKTeX 
 2.9/fonts/type1/public/kpfonts/jkpmsc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/
 type1/public/kpfonts/jkpssbsc8a.pfb>
-Output written on report.main.pdf (17 pages, 240004 bytes).
+Output written on report.main.pdf (23 pages, 268379 bytes).
 PDF statistics:
- 316 PDF objects out of 1000 (max. 8388607)
- 61 named destinations out of 1000 (max. 500000)
- 218 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 349 PDF objects out of 1000 (max. 8388607)
+ 69 named destinations out of 1000 (max. 500000)
+ 223 words of extra memory for PDF output out of 10000 (max. 10000000)
 
