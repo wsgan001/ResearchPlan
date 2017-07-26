@@ -8,26 +8,74 @@
 \contentsline {subsection}{\numberline {3.1.1}Smart grids and the need for smart meters}{4}{subsection.3.1.1}
 \contentsline {subsection}{\numberline {3.1.2}Features of Smart Meters and metering systems}{5}{subsection.3.1.2}
 \contentsline {subsection}{\numberline {3.1.3}Metering systems in railways}{5}{subsection.3.1.3}
-\contentsline {subsection}{\numberline {3.1.4}Wireless sensor networks \IeC {\textendash } overview}{5}{subsection.3.1.4}
-\contentsline {subsection}{\numberline {3.1.5}Smart metering with WSN in Railway Transportation System (RTS)}{5}{subsection.3.1.5}
-\contentsline {section}{\numberline {3.2}Section 2: Wireless networks}{6}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Network technologies \IeC {\textendash } historic overview}{6}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Current Wireless technologies and standards}{6}{subsection.3.2.2}
-\contentsline {subsubsection}{\numberline {3.2.2.1}IEEE 802.11 (Wireless LAN (WLAN) or Wi-Fi)}{6}{subsubsection.3.2.2.1}
-\contentsline {subsubsection}{\numberline {3.2.2.2}IEEE 802.15.4 (ZigBee)}{6}{subsubsection.3.2.2.2}
-\contentsline {subsubsection}{\numberline {3.2.2.3}DASH7}{6}{subsubsection.3.2.2.3}
-\contentsline {subsubsection}{\numberline {3.2.2.4}6LoWPAN}{7}{subsubsection.3.2.2.4}
-\contentsline {subsubsection}{\numberline {3.2.2.5}Wibree}{7}{subsubsection.3.2.2.5}
-\contentsline {subsubsection}{\numberline {3.2.2.6}Industrial Wireless Communications: WirelessHART and ISA100.11a}{7}{subsubsection.3.2.2.6}
-\contentsline {subsubsection}{\numberline {3.2.2.7}IEEE 802.16 (WiMAX)}{7}{subsubsection.3.2.2.7}
-\contentsline {subsubsection}{\numberline {3.2.2.8}Broadband communications: GSM/GPRS and LTE/LTE-Advanced}{7}{subsubsection.3.2.2.8}
-\contentsline {subsection}{\numberline {3.2.3}Emerging Technologies and Research Trends}{8}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Network Simulators and Network Emulators}{8}{subsection.3.2.4}
-\contentsline {section}{\numberline {3.3}Section 3: Energy sensors}{11}{section.3.3}
-\contentsline {section}{\numberline {3.4}Section 4: Power system of RTS}{12}{section.3.4}
-\contentsline {section}{\numberline {3.5}Section 5: Decision Support Systems (DSS)}{13}{section.3.5}
-\contentsline {section}{\numberline {3.6}Section 6: Outlier detection in RTS energy measurement}{14}{section.3.6}
-\contentsline {chapter}{\numberline {4}Methodology and Work Plan}{15}{chapter.4}
-\contentsline {section}{\numberline {4.1}RTS wireless network}{15}{section.4.1}
-\contentsline {section}{\numberline {4.2}Non-intrusive self-powered sensor node}{15}{section.4.2}
-\contentsline {section}{\numberline {4.3}Rolling stock traction transformer model}{16}{section.4.3}
+\contentsline {subsection}{\numberline {3.1.4}Smart metering with WSN in Railway Transportation System (RTS)}{7}{subsection.3.1.4}
+\contentsline {section}{\numberline {3.2}Section 2: Wireless networks}{8}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Network technologies \IeC {\textendash } historic overview}{8}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Current Wireless technologies and standards}{8}{subsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.1}IEEE 802.11 (Wireless LAN (WLAN) or Wi-Fi)}{8}{subsubsection.3.2.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2.2}IEEE 802.15.4 (ZigBee)}{8}{subsubsection.3.2.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.3}DASH7}{8}{subsubsection.3.2.2.3}
+\contentsline {subsubsection}{\numberline {3.2.2.4}6LoWPAN}{9}{subsubsection.3.2.2.4}
+\contentsline {subsubsection}{\numberline {3.2.2.5}Wibree}{9}{subsubsection.3.2.2.5}
+\contentsline {subsubsection}{\numberline {3.2.2.6}Industrial Wireless Communications: WirelessHART and ISA100.11a}{9}{subsubsection.3.2.2.6}
+\contentsline {subsubsection}{\numberline {3.2.2.7}IEEE 802.16 (WiMAX)}{9}{subsubsection.3.2.2.7}
+\contentsline {subsubsection}{\numberline {3.2.2.8}Broadband communications: GSM/GPRS and LTE/LTE-Advanced}{9}{subsubsection.3.2.2.8}
+\contentsline {subsection}{\numberline {3.2.3}Protocols and standards}{10}{subsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.3.1}IEEE 802.15}{10}{subsubsection.3.2.3.1}
+\contentsline {subsubsection}{\numberline {3.2.3.2}802.15.4-based wireless standards}{11}{subsubsection.3.2.3.2}
+\contentsline {subsection}{\numberline {3.2.4}Communication KPI\IeC {\textquoteright }s}{11}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Emerging Technologies and Research Trends}{12}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Network Simulators and Network Emulators}{12}{subsection.3.2.6}
+\contentsline {section}{\numberline {3.3}Section 3: Energy sensors}{15}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Sensor overview \IeC {\textendash } historic perspective}{15}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Current transducers and voltage transducers}{15}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}High power measurement challenges in RTS}{15}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Energy measurement technologies in RTS }{15}{subsection.3.3.4}
+\contentsline {section}{\numberline {3.4}Section 4: Power system of RTS}{16}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Overview of existing worldwide power systems (25kV/15kV/DC 50Hz/16,6Hz)}{16}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Overview in the perspective of production-distribution-consumption}{16}{subsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.2.1}Traction substation (Production)}{16}{subsubsection.3.4.2.1}
+\contentsline {subsubsection}{\numberline {3.4.2.2}Catenary (Distribution line)}{16}{subsubsection.3.4.2.2}
+\contentsline {subsubsection}{\numberline {3.4.2.3}Rolling stock (Consumption/load)}{16}{subsubsection.3.4.2.3}
+\contentsline {subsection}{\numberline {3.4.3}Traction substation transformer overview}{16}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Train power transformer}{16}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Train motor and power converter}{16}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3.4.6}Auxiliary loads}{16}{subsection.3.4.6}
+\contentsline {section}{\numberline {3.5}Section 5: Decision Support Systems (DSS)}{17}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Overview/definition}{17}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Eco-driving \IeC {\textendash } driving assistant}{17}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.5.3}Timetable scheduling}{17}{subsection.3.5.3}
+\contentsline {subsection}{\numberline {3.5.4}Maintenance support}{17}{subsection.3.5.4}
+\contentsline {section}{\numberline {3.6}Section 6: Outlier detection in RTS energy measurement}{18}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Definition of outlier detection}{18}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Literature review of Outlier detection in WSN}{19}{subsection.3.6.2}
+\contentsline {subsubsection}{\numberline {3.6.2.1}Motivation}{20}{subsubsection.3.6.2.1}
+\contentsline {subsubsection}{\numberline {3.6.2.2}Research areas}{20}{subsubsection.3.6.2.2}
+\contentsline {subsubsection}{\numberline {3.6.2.3}Challenges}{20}{subsubsection.3.6.2.3}
+\contentsline {subsection}{\numberline {3.6.3}Taxonomy of Outlier Detection Techniques}{21}{subsection.3.6.3}
+\contentsline {subsection}{\numberline {3.6.4}Classification based techniques}{21}{subsection.3.6.4}
+\contentsline {subsubsection}{\numberline {3.6.4.1}Bayesian Networks}{22}{subsubsection.3.6.4.1}
+\contentsline {subsubsection}{\numberline {3.6.4.2}Rule-based techniques}{25}{subsubsection.3.6.4.2}
+\contentsline {subsubsection}{\numberline {3.6.4.3}Support Vector Machines}{25}{subsubsection.3.6.4.3}
+\contentsline {subsection}{\numberline {3.6.5}Statistical based techniques}{26}{subsection.3.6.5}
+\contentsline {subsubsection}{\numberline {3.6.5.1}Parametric --- Gaussian based}{27}{subsubsection.3.6.5.1}
+\contentsline {subsubsection}{\numberline {3.6.5.2}Non-parametric --- Histogram based}{27}{subsubsection.3.6.5.2}
+\contentsline {subsubsection}{\numberline {3.6.5.3}Non-parametric --- Kernel function based}{27}{subsubsection.3.6.5.3}
+\contentsline {subsection}{\numberline {3.6.6}Nearest Neighbor-based techniques}{27}{subsection.3.6.6}
+\contentsline {subsubsection}{\numberline {3.6.6.1}Using distance}{28}{subsubsection.3.6.6.1}
+\contentsline {subsubsection}{\numberline {3.6.6.2}Using relative density}{28}{subsubsection.3.6.6.2}
+\contentsline {subsection}{\numberline {3.6.7}Clustering based techniques}{28}{subsection.3.6.7}
+\contentsline {subsection}{\numberline {3.6.8}Spectral Decomposition-based approach}{29}{subsection.3.6.8}
+\contentsline {chapter}{\numberline {4}Methodology and Work Plan}{30}{chapter.4}
+\contentsline {section}{\numberline {4.1}RTS wireless network}{30}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Purpose}{30}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Contribution}{30}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Methodology}{30}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}Non-intrusive self-powered sensor node}{31}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Purpose}{31}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Contributions}{31}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Methodology}{31}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Rolling-stock traction transformer model}{32}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Purpose}{32}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Contributions}{32}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Methodology}{32}{subsection.4.3.3}

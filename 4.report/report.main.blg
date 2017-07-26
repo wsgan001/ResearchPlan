@@ -1,21 +1,35 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: report.main.aux
 A level-1 auxiliary file: report.info.aux
 The style file: chicago.bst
-Database file #1: bib/outliers.bib
-Database file #2: bib/shift2rail.bib
-Database file #3: bib/references.bib
-Database file #4: bib/31.SmartM.bib
-Database file #5: bib/32.WirelessN.bib
+Database file #1: bib/shift2rail.bib
+Database file #2: bib/references.bib
+Database file #3: bib/31.SmartM.bib
+Database file #4: bib/32.WirelessN.bib
 Repeated entry---line 25 of file bib/32.WirelessN.bib
  : @article{Usman2013
  :                   ,
 I'm skipping whatever remains of this entry
 Warning--entry type for "ieee2012" isn't style-file defined
 --line 42 of file bib/32.WirelessN.bib
-Database file #6: bib/33.EnergyS.bib
-Database file #7: bib/34.PowerS.bib
-Database file #8: bib/35.DSS.bib
-Database file #9: bib/36.OutlierD.bib
+Repeated entry---line 167 of file bib/32.WirelessN.bib
+ : @inproceedings{Hackmann2006
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 174 of file bib/32.WirelessN.bib
+ : @misc{nancy2014
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 182 of file bib/32.WirelessN.bib
+ : @inproceedings{Radmand2010
+ :                           ,
+I'm skipping whatever remains of this entry
+Database file #5: bib/33.EnergyS.bib
+Database file #6: bib/34.PowerS.bib
+Database file #7: bib/35.DSS.bib
+Database file #8: bib/36.OutlierD.bib
+Warning--empty booktitle in Hackmann2006
+Warning--no number and no volume in class:islam:2016
+Warning--page numbers missing in class:islam:2016
 Warning--no number and no volume in Seppo2012
 Warning--page numbers missing in Seppo2012
-(There was 1 error message)
+(There were 4 error messages)

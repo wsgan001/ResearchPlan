@@ -36,8 +36,79 @@ Smart-meter types are also distinguished based on features like data-storage, co
 
 \subsection{Metering systems in railways}
 
+Towards na increase of interoperability of the rail system within the Community \cite{eur-lex2008}, the Directive 2008/57/EC specifies the need of Technical Specifications for Interoperability (TSIs), presenting essential requirements in which each rail subsystem should meet to ensure the interoperability of the railway system within the EU. Those TSIs are of the responsibility of European Union Agency for Railways (ERA) and are listed as following:
 
-\subsection{Wireless sensor networks – overview}
+\begin{itemize}
+	\setlength\itemsep{-0.5em}
+	\item Locomotives and passenger rolling stock - 1302/2014;
+	\item Noise - 1304/2014;
+	\item Wagons - 321/2013;
+	\item Infrastructure - 1299/2014/EU;
+	\item Energy - 1301/2014;
+	\item Control command and signalling - 2012/88/EU;
+	\item Persons with reduced mobility - 1300/2014/EU;
+	\item Safety in railway tunnels - 1303/2014;
+	\item Operation and traffic management - 2015/995/EU;
+	\item Telematics applications for freight service - 1305/2014/EU;
+	\item Telematics applications for passenger service - 454/2011;
+		
+\end{itemize}
+
+
+On the energy field and with the purpose of implementing on-ground energy data collecting systems (data collecting service - DCS), technical specifications for interoperability relating to the ‘energy’ subsystem of the rail system in the Union are specified in the Commission Regulation (EU) No 1301/2014, \cite{eur-lex2014}. 
+
+
+
+The On-Board energy measurement systems are pointed in Appendix D of Commission Regulation (EU) No 1302/2014 \cite{eur-lex2014b}. This regulation appendix presents the requirements for such energy measurement system. The general architecture is defined as following:
+
+\begin{itemize}
+	\setlength\itemsep{-0.5em}
+	\item \textbf{Energy measurement function (EMF)}, measuring the voltage and current, calculating the energy and producing energy data;
+	\item \textbf{Data handling system (DHS)}, producing compiled energy billing data sets for energy billing purposes, by merging data from the EMF with time data and geographical position, and storing it to be sent to on-ground data collection system (DCS) by a communication system;
+	\item \textbf{On-board location function}, giving geographical position of the traction unit. Contrary to fixed installation revenue meters, train meters must have the knowledge of time and geographical position \cite{metas2015};
+\end{itemize}
+
+Figure \ref{fig:EMS} presents the general overview of the on-board energy measurement system.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.85\textwidth,keepaspectratio]{figures/EMS}
+	\caption{Functions, data flow and regulation scope of on-board energy measurement system.}
+	\label{fig:EMS}
+\end{figure}
+
+As global requirements, all active and reactive energy should be measured, the measurement equipments should be rated to match the traction unit current and voltage rating, the system should be protected from intrusion, and finally, the loss of power in the  measurement system should not affect the data stored in EMS.
+
+Complementary to the previously presented system requirements, each component of the energy measurement system has specific requirements as listed as following:
+
+\begin{description}
+	\setlength\itemsep{-0.5em}
+	
+	\item [Energy measurement function (EMF)] Has specific metrological requirements to specify the accuracy of the sensors and it has the requirement of having the reference period of 5 minutes defined by the UTC clock time (shorter measuring period is allowed in the case that the data is aggregated into 5 minutes time reference period);
+	
+	\item [Data handling system (DHS)] Should compile the data (without corrupting them), using the same time reference as EMF. This system should store compiled data of, at least, 60 days' continuous work and should have an alternative method of accessing the data. Finally, this system should produce compiled energy billing data sets (CEBD) by including an EMS identification number, a timestamp, a location data and the consumed/regenerated active and reactive energy.
+	
+	\item [Location function] Has specific location requirements to define the latitude and longitude, as well as a accuracy of 250m and the location data information should have the same timestamp.
+	
+	\item [On-board to ground communication] The specification related to interface protocols and transferred data format are an open point.
+	
+\end{description} 
+
+
+ \cite{metas2015} lists the standards that should be considered to the certification of Energy Measurement Systems on on-board trains:
+ 
+ \begin{description}
+ 	\setlength\itemsep{-0.5em}
+	\item [EN 50463-1] General;
+	\item [EN 50463-3] Data Handling System;
+	\item [EN 50463-4] Communication;
+	\item [EN 50463-5] Conformity Assessment.
+ \end{description} 
+
+
+
+
+%\subsection{Wireless sensor networks – overview}
 
 
 \subsection{Smart metering with WSN in Railway Transportation System (RTS)}
