@@ -1,5 +1,11 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citeauthoryear{Abad}{Abad}{2016}]{abad2016}
+Abad, Gonzalo;~Briz, F. M. A. A. X. A. I. G. D. E.~A. (2016).
+\newblock {\em Power Electronics and Electric Drives for Traction
+  Applications}.
+\newblock John Wiley \& Sons, Ltd.
+
 \bibitem[\protect\citeauthoryear{Abid, Kachouri, and Mahfoudhi}{Abid
   et~al.}{2016}]{nn:abid:2016}
 Abid, A., A.~Kachouri, and A.~Mahfoudhi (2016, mar).
@@ -236,12 +242,12 @@ Song, J., S.~Han, A.~Mok, D.~Chen, M.~Lucas, M.~Nixon, and W.~Pratt (2008).
   Applications Symposium, RTAS}, pp.\  377--386.
 \newblock cited By 246.
 
-\bibitem[\protect\citeauthoryear{Usman and Shami}{Usman and
-  Shami}{2013}]{Usman2013}
-Usman, A. and S.~H. Shami (2013).
-\newblock Evolution of communication technologies for smart grid applications.
-\newblock {\em Renewable and Sustainable Energy Reviews\/}~{\em 19}, 191 --
-  199.
+\bibitem[\protect\citeauthoryear{Usman and Haider}{Usman and
+  Haider}{2013}]{Usman2013}
+Usman, A. and S.~Haider (2013).
+\newblock {Evolution of Communication Technologies for Smart Grid
+  applications}.
+\newblock {\em Renewable and Sustainable Energy Reviews\/}~{\em 19}, 191--199.
 
 \bibitem[\protect\citeauthoryear{Wang and Li}{Wang and
   Li}{2013}]{stat:wang:2013}
