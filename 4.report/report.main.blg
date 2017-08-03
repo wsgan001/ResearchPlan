@@ -25,8 +25,13 @@ Repeated entry---line 57 of file bib/34.SmartM.bib
  : @article{USMAN2013
  :                   ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 117 of file bib/34.SmartM.bib
+ : @techreport{shift2rail2015
+ :                           ,
+I'm skipping whatever remains of this entry
 Database file #7: bib/35.DSS.bib
 Database file #8: bib/36.OutlierD.bib
+Database file #9: bib/4.Method.bib
 Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
 while executing---line 1563 of file chicago.bst
 Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
@@ -133,4 +138,4 @@ Warning--no number and no volume in class:islam:2016
 Warning--page numbers missing in class:islam:2016
 Warning--no number and no volume in Seppo2012
 Warning--page numbers missing in Seppo2012
-(There were 54 error messages)
+(There were 55 error messages)

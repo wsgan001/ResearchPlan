@@ -15,6 +15,16 @@ Abid, A., A.~Kachouri, and A.~Mahfoudhi (2016, mar).
   for Signal and Image Processing ({ATSIP})}. Institute of Electrical and
   Electronics Engineers ({IEEE}).
 
+\bibitem[\protect\citeauthoryear{Almagro and Marano}{Almagro and
+  Marano}{2017}]{almagro2017}
+Almagro, F. and A.~Marano (2017).
+\newblock An open source software for railway electrical supply system
+  simulation.
+\newblock In {\em Procedings of International Conference on Electrical Systems
+  for Aircraft, Railway, Ship Propulsion and Road Vehicles and International
+  Transportation Electrification Conference}.
+\newblock cited By 0.
+
 \bibitem[\protect\citeauthoryear{Andrade, Montez, Moraes, Pinto, Vasques, and
   Da~Silva}{Andrade et~al.}{2016}]{cluster:andrade2016}
 Andrade, A. T.~C., C.~Montez, R.~Moraes, A.~R. Pinto, F.~Vasques, and G.~L.
@@ -23,6 +33,14 @@ Andrade, A. T.~C., C.~Montez, R.~Moraes, A.~R. Pinto, F.~Vasques, and G.~L.
   for wireless sensor networks.
 \newblock In {\em IECON Proceedings (Industrial Electronics Conference)}, pp.\
   4683--4688.
+
+\bibitem[\protect\citeauthoryear{Birol and Loubinoux}{Birol and
+  Loubinoux}{2016}]{iea-uic2016}
+Birol, F. and J.-P. Loubinoux (2016).
+\newblock 2016 edition of the uic-iea railway handbook on energy consumption
+  and co2 emissions focuses on sustainability targets.
+\newblock Technical report, IEA - International Energy Agency; UIC -
+  International Union of Railways.
 
 \bibitem[\protect\citeauthoryear{Branch, Szymanski, Giannella, Wolff, and
   Kargupta}{Branch et~al.}{2006}]{class:branch:2006}
@@ -176,6 +194,15 @@ Petersen, S. and S.~Carlsen (2011).
 \newblock {\em IEEE Industrial Electronics Magazine\/}~{\em 5\/}(4), 23--34.
 \newblock cited By 131.
 
+\bibitem[\protect\citeauthoryear{Pilo, Rouco, Fernández, and
+  Hernández-Velilla}{Pilo et~al.}{2000}]{pilo2000}
+Pilo, E., L.~Rouco, A.~Fernández, and A.~Hernández-Velilla (2000).
+\newblock A simulation tool for the design of the electrical supply system of
+  high-speed railway lines.
+\newblock In {\em Proceedings of the IEEE Power Engineering Society
+  Transmission and Distribution Conference}, Volume~2, pp.\  1053--1058.
+\newblock cited By 21.
+
 \bibitem[\protect\citeauthoryear{Radmand, Talevski, Petersen, and
   Carlsen}{Radmand et~al.}{2010}]{Radmand2010}
 Radmand, P., A.~Talevski, S.~Petersen, and S.~Carlsen (2010).
@@ -227,6 +254,12 @@ Sheng, B., Q.~Li, W.~Mao, and W.~Jin (2007).
 \newblock In {\em Proceedings of the 8th {ACM} international symposium on
   Mobile ad hoc networking and computing - {MobiHoc} 07}. Association for
   Computing Machinery ({ACM}).
+
+\bibitem[\protect\citeauthoryear{{Shift2Rail Joint Undertaking}}{{Shift2Rail
+  Joint Undertaking}}{2015}]{shift2rail2015}
+{Shift2Rail Joint Undertaking} (2015).
+\newblock Shift2rail joint undertaking multi-annual action plan.
+\newblock Technical report, Shift2Rail.
 
 \bibitem[\protect\citeauthoryear{Siano}{Siano}{2014}]{Siano2014}
 Siano, P. (2014).

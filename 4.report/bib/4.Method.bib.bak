@@ -1,0 +1,17 @@
+% Encoding: UTF-8
+
+@Conference{pilo2000,
+  author        = {Pilo, E. and Rouco, L. and Fernández, A. and Hernández-Velilla, A.},
+  title         = {A simulation tool for the design of the electrical supply system of high-speed railway lines},
+  booktitle     = {Proceedings of the IEEE Power Engineering Society Transmission and Distribution Conference},
+  year          = {2000},
+  volume        = {2},
+  pages         = {1053-1058},
+  note          = {cited By 21},
+  document_type = {Conference Paper},
+  journal       = {Proceedings of the IEEE Power Engineering Society Transmission and Distribution Conference},
+  source        = {Scopus},
+  url           = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-0038492670&partnerID=40&md5=515f08ddbfb032a3416afe4261c4f5d0},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
