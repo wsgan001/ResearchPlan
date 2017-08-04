@@ -1,17 +1,25 @@
 
 
-
-
-
 \section{Objectives}
 
-This work is focused on measuring the energy flows in the railway system.
-The aim of this work is to improve the energy efficiency in the railway transportation system (RTS) and reduce the maintenance cost of RTS power systems.
-The implementation of smart meters (SM) in RTS promote a better overview of power flow and, based on the information of SM, algorithms focusing on energy efficiency can be implemented.
-The SM requires sensors such as voltage and current sensors. The level of intrusion as well as the level of electric <<valor da grandeza electrica>> of such sensors implies considerable costs of the sensors.
-Therefore, the implementation of complex processing on smart meters is of added value. This complex processing can be the implementation of fault monitoring algorithms in SM based on the energy measurements.
-Framed in the shif2rail, the work is focused on the implementation of a smart meter demonstrator for the RTS. To embrace the entire railway system, the power flow should consider the energy flux from and to the catenary. Therefore, the key point should be the measurement of the energy in the traction substations and in the train power transformer 
-Based on this thesis proposal, the objectives are the following:
+Nowadays, the need for increasing of the energy efficiency in the Railway Transportation System (RTS) is a relevant topic.
+We can see two ways to increase the energy efficiency: (1) we act in the construction of new trains, with the usage of the most energy efficiency technologies or (2) we adapt the current operation of RTS to better use the resources available.
+On a higher level, this work will contribute for the increase of energy efficiency in the RTS operation, with the optimization of the resources available.
+
+Currently there is a lack of knowledge on the RTS energy flow, which results in poor operation of this system. The decisions taken in the train operation have lack of information from field infrastructure, in both the existence of such information and in terms of quality of the information. Nowadays, we have present trains that does not have available, for the operation point of view, the information on power flow. In recent years, the European Union (EU) has promoted the implementation of automatic metering systems in train operations, mainly for billing purposes. However, even with this EU regulation, the periodicity of available data is around 5 minutes, which can put into question the quality of the information.
+
+To have the knowledge necessary to take actions towards the better operation of the RTS, we have to obtain the information of energy usage from the field.
+This work is focused on collecting information from the field of operation and make it available, in a centralized database (for knowledge extraction mechanisms). To collect informations, we have to perform measurements of the energy related variables.
+
+To conclude, the objectives can be synthesized in the following two points:
+
+%This work is focused on measuring the energy flows in the railway system.
+%The aim of this work is to improve the energy efficiency in the railway transportation system (RTS) and reduce the maintenance cost of RTS power systems.
+%The implementation of smart meters (SM) in RTS promote a better overview of power flow and, based on the information of SM, algorithms focusing on energy efficiency can be implemented.
+%The SM requires sensors such as voltage and current sensors. The level of intrusion as well as the level of electric <<valor da grandeza electrica>> of such sensors implies considerable costs of the sensors.
+%Therefore, the implementation of complex processing on smart meters is of added value. This complex processing can be the implementation of fault monitoring algorithms in SM based on the energy measurements.
+%Framed in the shif2rail, the work is focused on the implementation of a smart meter demonstrator for the RTS. To embrace the entire railway system, the power flow should consider the energy flux from and to the catenary. Therefore, the key point should be the measurement of the energy in the traction substations and in the train power transformer 
+%Based on this thesis proposal, the objectives are the following:
 
 \begin{itemize}
 	\setlength\itemsep{0em}
@@ -23,21 +31,22 @@ Based on this thesis proposal, the objectives are the following:
 	
 \end{itemize}
 
-
+\newpage
 \section{Contributions}
 
 \begin{itemize}
 	\setlength\itemsep{0em}
 	
+	\item New energy metering architecture using a non-intrusive approach.
+	
+	\item Accurate estimation of injected power into catenary, that is needed for train operation, based on on-board measurements.
+	
 	\item Availability of measured data from trains where currently no energy measurement is performed.
 	
 	\item Data-rate increase of energy measurements, which will result on direct increase on the quality of information of energy.
 	
-	\item A further contribution can be the avoidance of broadband real-time/continuous communication (such as LTE), being possible to collect and store data in train data concentrator and, while the train is waiting at stations, the data is transferred between train and station AP (and then to a remote server). A possible contribution will be the cost reduction of information transmission of energy sensor network data.
+	\item A further contribution can be the avoidance of broadband real-time/continuous communication (such as LTE), with the direct cost reduction of information transmission of energy RTS data.
 	
-	\item New advanced sensor node for AC current measurement;
-	
-	\item Possible contribution: Given the measurement characteristics, a self powered wireless sensor node can implement features of high processing.
 	
 \end{itemize}
 
