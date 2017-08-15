@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.21)  15 AUG 2017 15:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.6)  21 AUG 2017 17:37
 entering extended mode
 **./report.main.tex
 (report.main.tex
@@ -898,37 +898,21 @@ Package: mdframed 2013/07/01 1.9b: mdframed
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
-Package: expl3 2017/02/10 v6878 L3 programming layer (loader) 
+Package: expl3 2017/04/01 L3 programming layer (loader) 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
-Package: expl3 2017/02/10 v6878 L3 programming layer (code)
-L3 Module: l3bootstrap 2016/12/28 v6805 L3 Bootstrap code
-L3 Module: l3names 2016/12/28 v6805 L3 Namespace for primitives
-L3 Module: l3basics 2016/12/28 v6805 L3 Basic definitions
-L3 Module: l3expan 2016/12/28 v6805 L3 Argument expansion
-L3 Module: l3tl 2017/02/06 v6842 L3 Token lists
-L3 Module: l3str 2017/01/01 v6809 L3 Strings
-L3 Module: l3seq 2017/02/06 v6842 L3 Sequences and stacks
-L3 Module: l3int 2016/12/28 v6805 L3 Integers
+Package: expl3 2017/04/01 L3 programming layer (code)
 \c_max_int=\count144
 \l_tmpa_int=\count145
 \l_tmpb_int=\count146
 \g_tmpa_int=\count147
 \g_tmpb_int=\count148
-L3 Module: l3quark 2016/12/28 v6805 L3 Quarks
-L3 Module: l3prg 2017/01/01 v6811 L3 Control structures
 \g__prg_map_int=\count149
-L3 Module: l3clist 2017/02/06 v6842 L3 Comma separated lists
-L3 Module: l3token 2016/12/28 v6805 L3 Experimental token manipulation
-L3 Module: l3prop 2016/12/28 v6805 L3 Property lists
-L3 Module: l3msg 2016/12/28 v6805 L3 Messages
-L3 Module: l3file 2016/12/28 v6805 L3 File and I/O operations
-\l_iow_line_count_int=\count150
-\l__iow_target_count_int=\count151
-\l__iow_current_line_int=\count152
-\l__iow_current_word_int=\count153
-\l__iow_current_indentation_int=\count154
-L3 Module: l3skip 2017/01/01 v6809 L3 Dimensions and skips
+\c_log_iow=\count150
+\l_iow_line_count_int=\count151
+\l__iow_line_target_int=\count152
+\l__iow_one_indent_int=\count153
+\l__iow_indent_int=\count154
 \c_zero_dim=\dimen176
 \c_max_dim=\dimen177
 \l_tmpa_dim=\dimen178
@@ -947,9 +931,7 @@ L3 Module: l3skip 2017/01/01 v6809 L3 Dimensions and skips
 \l_tmpb_muskip=\muskip15
 \g_tmpa_muskip=\muskip16
 \g_tmpb_muskip=\muskip17
-L3 Module: l3keys 2017/01/01 v6811 L3 Key-value interfaces
 \l_keys_choice_int=\count155
-L3 Module: l3fp 2016/12/28 v6805 L3 Floating points
 \c__fp_leading_shift_int=\count156
 \c__fp_middle_shift_int=\count157
 \c__fp_trailing_shift_int=\count158
@@ -962,7 +944,6 @@ L3 Module: l3fp 2016/12/28 v6805 L3 Floating points
 \c__fp_rand_size_int=\count165
 \c__fp_rand_four_int=\count166
 \c__fp_rand_eight_int=\count167
-L3 Module: l3sort 2017/02/07 v6847 L3 Sorting functions
 \l__sort_length_int=\count168
 \l__sort_min_int=\count169
 \l__sort_top_int=\count170
@@ -974,13 +955,11 @@ L3 Module: l3sort 2017/02/07 v6847 L3 Sorting functions
 \l__sort_A_int=\count176
 \l__sort_B_int=\count177
 \l__sort_C_int=\count178
-L3 Module: l3box 2016/12/28 v6805 L3 Experimental boxes
 \c_empty_box=\box39
 \l_tmpa_box=\box40
 \l_tmpb_box=\box41
 \g_tmpa_box=\box42
 \g_tmpb_box=\box43
-L3 Module: l3coffins 2016/12/28 v6805 L3 Coffin code layer
 \l__coffin_internal_box=\box44
 \l__coffin_internal_dim=\dimen182
 \l__coffin_offset_x_dim=\dimen183
@@ -1000,9 +979,6 @@ L3 Module: l3coffins 2016/12/28 v6805 L3 Coffin code layer
 \l__coffin_display_offset_dim=\dimen189
 \l__coffin_display_x_dim=\dimen190
 \l__coffin_display_y_dim=\dimen191
-L3 Module: l3color 2016/12/28 v6805 L3 Experimental color support
-L3 Module: l3sys 2017/01/01 v6811 L3 Experimental system/runtime functions
-L3 Module: l3candidates 2017/01/30 v6835 L3 Experimental additions to l3kernel
 \l__box_top_dim=\dimen192
 \l__box_bottom_dim=\dimen193
 \l__box_left_dim=\dimen194
@@ -1019,14 +995,13 @@ L3 Module: l3candidates 2017/01/30 v6835 L3 Experimental additions to l3kernel
 \l__coffin_top_corner_dim=\dimen260
 \l__coffin_scaled_total_height_dim=\dimen261
 \l__coffin_scaled_width_dim=\dimen262
-L3 Module: l3luatex 2016/12/28 v6805 L3 Experimental LuaTeX-specific functions
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def"
-File: l3pdfmode.def 2016/12/28 v6805 L3 Experimental driver: PDF mode
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count179
 \l__driver_tmp_box=\box54
 ))
-Package: xparse 2017/02/10 v6878 L3 Experimental document command parser
+Package: xparse 2017/04/01 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count180
 \g__xparse_grabber_int=\count181
 \l__xparse_m_args_int=\count182
@@ -2238,8 +2213,34 @@ usion: multiple pdfs with page group included in a single page
 
 pdfTeX warning: pdflatex.exe (file ./figures/31.PowerS/abad2016h.pdf): PDF incl
 usion: multiple pdfs with page group included in a single page
->]) [9] (chapters/32.EnergyS.tex) [10] (chapters/33.WirelessN.tex [11] [12]
-<figures/nancy2014.png, id=554, 1118.67938pt x 577.40718pt>
+>]) [9] (chapters/32.EnergyS.tex
+<figures/32.EnergyS/traction.pdf, id=514, 316.00659pt x 168.8689pt>
+File: figures/32.EnergyS/traction.pdf Graphic file (type pdf)
+
+<use figures/32.EnergyS/traction.pdf>
+Package pdftex.def Info: figures/32.EnergyS/traction.pdf used on input line 24.
+
+(pdftex.def)             Requested size: 204.85802pt x 109.4723pt.
+
+<figures/32.EnergyS/generation.pdf, id=515, 316.00659pt x 168.8689pt>
+File: figures/32.EnergyS/generation.pdf Graphic file (type pdf)
+
+<use figures/32.EnergyS/generation.pdf>
+Package pdftex.def Info: figures/32.EnergyS/generation.pdf used on input line 3
+2.
+(pdftex.def)             Requested size: 204.85802pt x 109.4723pt.
+
+<figures/32.EnergyS/liran2014.pdf, id=517, 230.90265pt x 137.45753pt>
+File: figures/32.EnergyS/liran2014.pdf Graphic file (type pdf)
+
+<use figures/32.EnergyS/liran2014.pdf>
+Package pdftex.def Info: figures/32.EnergyS/liran2014.pdf used on input line 49
+.
+(pdftex.def)             Requested size: 256.07578pt x 152.4601pt.
+ [10 <./figures/32.EnergyS/traction.pdf> <./figures/32.EnergyS/generation.pdf> 
+<./figures/32.EnergyS/liran2014.pdf>])
+[11] (chapters/33.WirelessN.tex [12] [13]
+<figures/nancy2014.png, id=604, 1118.67938pt x 577.40718pt>
 File: figures/nancy2014.png Graphic file (type png)
 
 <use figures/nancy2014.png>
@@ -2250,14 +2251,14 @@ Overfull \hbox (42.68173pt too wide) in paragraph at lines 112--113
  [][] 
  []
 
-[13 <./figures/nancy2014.png>]
-<figures/radmand2010.png, id=572, 534.49687pt x 352.31625pt>
+[14 <./figures/nancy2014.png>]
+<figures/radmand2010.png, id=621, 534.49687pt x 352.31625pt>
 File: figures/radmand2010.png Graphic file (type png)
 
 <use figures/radmand2010.png>
 Package pdftex.def Info: figures/radmand2010.png used on input line 139.
 (pdftex.def)             Requested size: 256.07741pt x 168.79807pt.
- [14 <./figures/radmand2010.png>]
+ [15 <./figures/radmand2010.png>]
 Overfull \hbox (1.42397pt too wide) in paragraph at lines 155--156
 []\T1/jkp/m/n/10 This KPI is not di-rectly re-lated with the com-mu-ni-ca-tion 
 link. How-
@@ -2269,28 +2270,28 @@ Overfull \hbox (2.27798pt too wide) in paragraph at lines 157--158
  spe-cific con-di-tions (in-door/outdoor;
  []
 
-<figures/simul_VS_emul.png, id=586, 935.495pt x 305.14pt>
+<figures/simul_VS_emul.png, id=635, 935.495pt x 305.14pt>
 File: figures/simul_VS_emul.png Graphic file (type png)
 
 <use figures/simul_VS_emul.png>
 Package pdftex.def Info: figures/simul_VS_emul.png used on input line 184.
 (pdftex.def)             Requested size: 426.79135pt x 139.2114pt.
- [15 <./figures/simul_VS_emul.png>] [16]
+ [16 <./figures/simul_VS_emul.png>] [17]
 Overfull \hbox (5.86797pt too wide) in paragraph at lines 283--285
 []\T1/jkp/m/n/10 This Java-based sim-u-la-tor was made to pro-vide a sim-u-la-t
 ion and proof-of-concept
  []
 
-) [17] (chapters/34.SmartM.tex [18] [19]
-<figures/EMS.png, id=646, 813.0375pt x 429.605pt>
+) [18] (chapters/34.SmartM.tex [19] [20]
+<figures/EMS.png, id=695, 813.0375pt x 429.605pt>
 File: figures/EMS.png Graphic file (type png)
  <use figures/EMS.png>
 Package pdftex.def Info: figures/EMS.png used on input line 75.
 (pdftex.def)             Requested size: 362.77525pt x 191.6882pt.
 
-[20 <./figures/EMS.png>]) [21] (chapters/35.DSS.tex) [22]
+[21 <./figures/EMS.png>]) [22] (chapters/35.DSS.tex) [23]
 (chapters/36.OutlierD.tex
-<figures/general.png, id=671, 4979.60374pt x 3319.40125pt>
+<figures/general.png, id=720, 4979.60374pt x 3319.40125pt>
 File: figures/general.png Graphic file (type png)
 
 <use figures/general.png>
@@ -2300,13 +2301,13 @@ Package pdftex.def Info: figures/general.png used on input line 50.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[23]
+[24]
 Overfull \hbox (0.10779pt too wide) in paragraph at lines 64--65
 []\T1/jkp/m/n/10 The De-ci-sion Sup-port Sub-sys-tem out-
  []
 
-[24 <./figures/general.png (PNG copy)>] [25] [26] [27]
-<figures/xiang2016.pdf, id=746, 254.3904pt x 239.93639pt>
+[25 <./figures/general.png (PNG copy)>] [26] [27] [28]
+<figures/xiang2016.pdf, id=794, 254.3904pt x 239.93639pt>
 File: figures/xiang2016.pdf Graphic file (type pdf)
 
 <use figures/xiang2016.pdf>
@@ -2318,7 +2319,7 @@ Overfull \hbox (5.03793pt too wide) in paragraph at lines 230--231
 re the spatio-temporal
  []
 
-[28 <./figures/xiang2016.pdf>] [29] [30] [31] [32] [33]
+[29 <./figures/xiang2016.pdf>] [30] [31] [32] [33] [34]
 Overfull \hbox (22.24728pt too wide) in paragraph at lines 524--525
 \T1/jkp/m/n/10 The us-age of Prin-ci-pal Com-po-nent Anal-y-sis (PCA) tech-niqu
 e is in-her-ent to the spec-tral decomposition-
@@ -2329,70 +2330,70 @@ Overfull \hbox (10.00774pt too wide) in paragraph at lines 547--548
 []\T1/jkp/m/n/10 The eigen-struc-ture as-so-ci-ated to an un-der-ly-ing space
  []
 
-) [34]
+) [35]
 Chapter 4.
 (chapters/4.Methodology.tex
-<figures/4.Method/pyramid.png, id=870, 2903.84875pt x 2867.71375pt>
+<figures/4.Method/pyramid.png, id=918, 2903.84875pt x 2867.71375pt>
 File: figures/4.Method/pyramid.png Graphic file (type png)
 
 <use figures/4.Method/pyramid.png>
 Package pdftex.def Info: figures/4.Method/pyramid.png used on input line 16.
 (pdftex.def)             Requested size: 128.0387pt x 126.41608pt.
 
-<figures/4.Method/data_flow.png, id=872, 6516.345pt x 741.77126pt>
+<figures/4.Method/data_flow.png, id=920, 6516.345pt x 741.77126pt>
 File: figures/4.Method/data_flow.png Graphic file (type png)
 
 <use figures/4.Method/data_flow.png>
 Package pdftex.def Info: figures/4.Method/data_flow.png used on input line 25.
 (pdftex.def)             Requested size: 341.43437pt x 38.85641pt.
- [35
+ [36
 
  <./figures/4.Method/pyramid.png (PNG copy)> <./figures/4.Method/data_flow.png 
 (PNG copy)>]
 Package epstopdf Info: Source file: <figures/architecture.eps>
-(epstopdf)                    date: 2017-08-15 11:37:13
-(epstopdf)                    size: 162958 bytes
+(epstopdf)                    date: 2017-07-27 14:26:06
+(epstopdf)                    size: 159697 bytes
 (epstopdf)             Output file: <figures/architecture-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2017-08-15 11:37:13
+(epstopdf)                    date: 2017-07-27 14:26:30
 (epstopdf)                    size: 85283 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/architecture-eps-co
 nverted-to.pdf figures/architecture.eps>
 (epstopdf)             \includegraphics on input line 39.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/architecture-eps-converted-to.pdf, id=882, 543.02875pt x 228.855pt>
+<figures/architecture-eps-converted-to.pdf, id=930, 543.02875pt x 228.855pt>
 File: figures/architecture-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/architecture-eps-converted-to.pdf>
 Package pdftex.def Info: figures/architecture-eps-converted-to.pdf used on inpu
 t line 39.
 (pdftex.def)             Requested size: 426.79135pt x 179.87505pt.
- [36 <./figures/architecture-eps-converted-to.pdf>]
-<figures/4.Method/powerSensing.pdf, id=903, 7050.34pt x 7132.6475pt>
+ [37 <./figures/architecture-eps-converted-to.pdf>]
+<figures/4.Method/powerSensing.pdf, id=952, 7050.34pt x 7132.6475pt>
 File: figures/4.Method/powerSensing.pdf Graphic file (type pdf)
 
 <use figures/4.Method/powerSensing.pdf>
 Package pdftex.def Info: figures/4.Method/powerSensing.pdf used on input line 7
 1.
 (pdftex.def)             Requested size: 298.75264pt x 302.23563pt.
- [37 <./figures/4.Method/powerSensing.pdf>] <figures/4.Method/methodElectrical.
-pdf, id=918, 8868.13126pt x 4653.385pt>
+ [38 <./figures/4.Method/powerSensing.pdf>] <figures/4.Method/methodElectrical.
+pdf, id=966, 8868.13126pt x 4653.385pt>
 File: figures/4.Method/methodElectrical.pdf Graphic file (type pdf)
 
 <use figures/4.Method/methodElectrical.pdf>
 Package pdftex.def Info: figures/4.Method/methodElectrical.pdf used on input li
 ne 101.
 (pdftex.def)             Requested size: 384.1096pt x 201.51175pt.
- [38 <./figures/4.Method/methodElectrical.pdf>]
-<figures/4.Method/methodWireless.pdf, id=938, 9170.26pt x 4653.385pt>
+ [39 <./figures/4.Method/methodElectrical.pdf>]
+<figures/4.Method/methodWireless.pdf, id=986, 9170.26pt x 4653.385pt>
 File: figures/4.Method/methodWireless.pdf Graphic file (type pdf)
 
 <use figures/4.Method/methodWireless.pdf>
 Package pdftex.def Info: figures/4.Method/methodWireless.pdf used on input line
  154.
 (pdftex.def)             Requested size: 384.1096pt x 194.9083pt.
- [39 <./figures/4.Method/methodWireless.pdf>]) (report.main.bbl [40]
+ [40 <./figures/4.Method/methodWireless.pdf>]) (report.main.bbl [41]
 LaTeX Font Info:    Try loading font information for T1+jkptt on input line 82.
 
 
@@ -2404,7 +2405,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--93
  / TXT / ?uri = uriserv : OJ . L _ .2014 . 356 . 01 .
  []
 
-[41
+[42
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 96--102
@@ -2412,39 +2413,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--102
  / TXT / ?uri = uriserv : OJ . L _ .2014 . 356 . 01 .
  []
 
-[42] [43]) [44]
+[43] [44]) [45]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
  (report.main.aux (report.info.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
 Package rerunfilecheck Info: File `report.main.out' has not changed.
-(rerunfilecheck)             Checksum: 74C955E62662EC5A186DBCB6A5EE7DB7;4865.
+(rerunfilecheck)             Checksum: 30615CCA2E32CEB1077C7D12BE022E1B;4865.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
  ) 
 Here is how much of TeX's memory you used:
- 31852 strings out of 493333
- 575583 string characters out of 3139194
- 742073 words of memory out of 3000000
- 34498 multiletter control sequences out of 15000+200000
+ 32004 strings out of 493333
+ 578848 string characters out of 3139189
+ 750824 words of memory out of 3000000
+ 34641 multiletter control sequences out of 15000+200000
  137540 words of font info for 106 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,12n,77p,10426b,1175s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Program Files/Mi
 KTeX 2.9/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}<C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/kpfonts/jkpbn8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/kpfonts/jkpbsc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-kpfonts/jkpmi.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmi
-t8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmne.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/kpfonts/jkpmsc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/kpfonts/jkpssbsc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
-lic/kpfonts/jkpsy.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/j
-kpttmn8a.pfb>
-Output written on report.main.pdf (50 pages, 7040237 bytes).
+9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/kpfonts/jkpbn8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts
+/jkpbsc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmi.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmit8a.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/kpfonts/jkpmne.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/kpfonts/jkpmsc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfon
+ts/jkpssbsc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpsy
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpttmn8a.pfb>
+Output written on report.main.pdf (51 pages, 7804791 bytes).
 PDF statistics:
- 1060 PDF objects out of 1200 (max. 8388607)
- 195 named destinations out of 1000 (max. 500000)
- 587 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1111 PDF objects out of 1200 (max. 8388607)
+ 200 named destinations out of 1000 (max. 500000)
+ 602 words of extra memory for PDF output out of 10000 (max. 10000000)
 

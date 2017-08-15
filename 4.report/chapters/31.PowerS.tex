@@ -6,7 +6,7 @@
 \section{Section 1: Power system of RTS}
 
 
-In this section is started the literature review of this document, with the coverage of the Railway Transportation System (RTS). This system is reported to transport <<need data>> of people and <<data>> goods. With high influence in the transportation of goods and people in the last century, this system had substantial technological enhancements. Currently we have a RTS with substantial differences in the supply system.
+In this section is started the literature review of this document, with the coverage of the power system of Railway Transportation System (RTS). This system is reported to transport <<need data>> of people and <<data>> goods. With high influence in the transportation of goods and people in the last century, this system had substantial technological enhancements. Currently we have a RTS with substantial differences in the supply system.
 
 In subsection \ref{subs:311} is presented an overview on European railway electrical supply systems. Later on, in subsection \ref{subs:312}, a comparison between different catenary supply systems is presented and in subsection \ref{subs:313} is presented a comparison of the power system architecture of trains. A further detail on train electrical components is presented in subsection \ref{subs:314}.
 
@@ -154,38 +154,43 @@ An important market share in railway traction is occupied by diesel trains. This
 
 \subsection{Train Power Components}
 \label{subs:314}
-\paragraph{1.Pantograph\\}
+\paragraph{1. Pantograph\\}
 
 	The pantograph is a device capable of maintain an electrical contact between train and catenary while in motion.
 	
-\paragraph{2.Surge Arrester\\}
+\paragraph{2. Surge Arrester\\}
 
 	This equipment ensures over-voltage protection of train internal circuit, against external events (such as lightings) or internal events (switching faults)
 	
-\paragraph{3.High-speed Circuit Breaker\\}
+\paragraph{3. High-speed Circuit Breaker\\}
 	
 	This device allows the safe interruption of high current faults.
 	
-\paragraph{4.Input LC filter\\}
+\paragraph{4. Low frequency Traction Transformer\\}
+	
+	The traction transformer reduces the alternate voltage of the catenary to be compliant with the voltage level of the power semiconductor box.
+	
+\paragraph{5. Input LC Filter\\}
 
 	The main objective is to improve the power quality of the energy supply with the reduction of harmonic distortion (with the absorption of high frequency harmonics and injection of low frequency ones).
 
-\paragraph{5.Filter inductor and DC-link capacitor\\}
+\paragraph{6. Filter Inductor and DC-link Capacitor\\}
 
 	Coupled with electronic power converters/inverters, the filter inductor and DC-link capacitor allows the rectification of the AC voltage into DC. (?)
 	
-\paragraph{6.Power semiconductors\\}
+\paragraph{7. Power Semiconductors\\}
 
+	The power semiconductor devices are present in train power conditioning and they act as on-off switches. The power conditioning is responsible for the conversion between alternate and continuous  electrical waveforms, as they are needed for the interface between traction transformer (AC) and the electric traction motors (AC). The relevant technologies are the Gate Turn-off Thyristors (GTO) and the Insulated Gate Bipolar Transistors (IGBT).
 
-\paragraph{7.Braking resistor\\}
+\paragraph{8. Braking Resistor\\}
 
-	Avoid the occurrence of dangerous DC-link voltages (if the main AC grid does not support the generated energy)
+	Avoid the occurrence of dangerous DC-link voltages (in particular, if the main AC grid does not support absorption of the braking generated energy, the excess of energy is burnt into resistors)
 
-\paragraph{8.Power converter box\\}
+\paragraph{9. Power Converter Box\\}
 
 	Includes the power semiconductors (in power inverter arrangement) and cooling media.
 
-\paragraph{9.Electric traction motor\\}
+\paragraph{10. Electric Traction Motor\\}
 
 	Enables mechanical propulsion. The most common technology is the squirrel cage induction motor.
 

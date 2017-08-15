@@ -1,0 +1,93 @@
+% Encoding: UTF-8
+
+@Article{Feng2017,
+  author        = {Feng, Jianghua and Xu, Junfeng and Liao, Wu and Liu, Yong},
+  title         = {Review on the Traction System Sensor Technology of a Rail Transit Train},
+  journal       = {Sensors},
+  year          = {2017},
+  volume        = {17},
+  number        = {6},
+  pages         = {1356},
+  __markedentry = {[VMORAIS:1]},
+  file          = {:3.EnergyS\\Feng2017.pdf:PDF},
+  publisher     = {Multidisciplinary Digital Publishing Institute},
+}
+
+@InProceedings{Liran2014,
+  author       = {Liran, Wu and Mingli, Wu and Kejian, Song},
+  title        = {Analysis of electrical load characteristics of HX D 1B locomotive based on measured data},
+  booktitle    = {Transportation Electrification Asia-Pacific (ITEC Asia-Pacific), 2014 IEEE Conference and Expo},
+  year         = {2014},
+  pages        = {1--6},
+  organization = {IEEE},
+  file         = {:3.EnergyS\\Liran2014.pdf:PDF},
+}
+
+@InProceedings{Kumar2014,
+  author    = {A. Kumar and V. John},
+  title     = {Power electronic converter for characterization of hall-effect current sensors},
+  booktitle = {2014 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES)},
+  year      = {2014},
+  pages     = {1-6},
+  month     = {Dec},
+  abstract  = {Hall-effect current sensors are widely used in industrial applications. Characterization of their steady state, dynamic capabilities and thermal endurance verification is important to ensure the sensor performance. It is shown that an H-bridge inverter topology with an RCD snubber, packaged as proposed, can be used for large signal sinusoidal current characterization and step current characterization of the current sensor. Analytical expression of step current is derived and used to produce rising and falling step excitation with controlled peak value and transition time. A hybrid PWM technique with a frequency adaptive proportional-resonant current controller is used to produce large magnitude sinusoidal current with controlled frequency and magnitude. Using IGBT and MOSFET legs in the H-bridge reduces overall power consumption of the current source during sinusoidal current generation. The hardware is fabricated in the laboratory, and its performance is validated using high bandwidth current probe.},
+  doi       = {10.1109/PEDES.2014.7042086},
+  file      = {:3.EnergyS\\Kumar2014.pdf:PDF},
+  keywords  = {MOSFET;PWM invertors;PWM power convertors;adaptive control;electric current control;frequency control;frequency convertors;insulated gate bipolar transistors;power consumption;proportional control;H-bridge inverter topology;IGBT;MOSFET;RCD snubber;frequency adaptive proportional-resonant current controller;frequency control;hall-effect current sensor characterization;hardware fabrication;high bandwidth current probe;hybrid PWM technique;large magnitude sinusoidal current;large signal sinusoidal current characterization;magnitude control;power consumption reduction;power electronic converter;sinusoidal current generation;step current characterization;step excitation;thermal endurance verification;Frequency control;Insulated gate bipolar transistors;MOSFET;Sensor phenomena and characterization;Snubbers;Thermal sensors;Current sensor characterization;Hall-effect current sensor;current source;frequency adaptive PR current controller;power converter;step current, rank1},
+}
+
+@Article{Dalessandro2007,
+  author   = {L. Dalessandro and N. Karrer and J. W. Kolar},
+  title    = {High-Performance Planar Isolated Current Sensor for Power Electronics Applications},
+  journal  = {IEEE Transactions on Power Electronics},
+  year     = {2007},
+  volume   = {22},
+  number   = {5},
+  pages    = {1682-1692},
+  month    = {Sept},
+  issn     = {0885-8993},
+  doi      = {10.1109/TPEL.2007.904198},
+  file     = {:3.EnergyS\\Dalessandro2007.pdf:PDF},
+  keywords = {current transformers;electric sensing devices;finite element analysis;power electronics;Hall-effect element;current step response;finite-element simulations;frequency bandwidth;high-performance planar isolated current sensor;magnetic current transformer;power electronics;Bandwidth;Costs;Current transformers;Electromagnetic interference;Frequency;Linearity;Magnetic analysis;Magnetic sensors;Power electronics;Robustness;Current measurement;Hall-effect sensor;current transformer;permeance-capacitance analogy},
+}
+
+@Article{McNeill2004,
+  author        = {McNeill, N. and Gupta, N.K. and Armstrong, W.G.},
+  title         = {Active current transformer circuits for low distortion sensing in switched mode power converters},
+  journal       = {IEEE Transactions on Power Electronics},
+  year          = {2004},
+  volume        = {19},
+  number        = {4},
+  pages         = {908-917},
+  note          = {cited By 19},
+  document_type = {Article},
+  doi           = {10.1109/TPEL.2004.830075},
+  file          = {:3.EnergyS\\mcneill2004.pdf:PDF},
+  keywords      = {rank2},
+  source        = {Scopus},
+  url           = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-3843128616&doi=10.1109%2fTPEL.2004.830075&partnerID=40&md5=467780a995d884671406e8d5b03d1c5b},
+}
+
+@InProceedings{Jian2009,
+  author    = {Liu Jian and Song Zhen and Cheng Hongli and Zhang Juntao and Jia Shuwen},
+  title     = {A current transformer feeding power supply for distribution automation systems},
+  booktitle = {2009 2nd International Conference on Power Electronics and Intelligent Transportation System (PEITS)},
+  year      = {2009},
+  volume    = {3},
+  pages     = {105-109},
+  month     = {Dec},
+  doi       = {10.1109/PEITS.2009.5406806},
+  file      = {:3.EnergyS\\Jian2009.pdf:PDF},
+  keywords  = {current transformers;distribution networks;network topology;power supply quality;circuit topology;compact design;current transformer;distribution automation systems;feeder switches;feeding power supply;insulation design;minimum primary current;Automation;Capacitors;Current transformers;Intelligent transportation systems;Power supplies;Power transformer insulation;Pulse width modulation;Switches;Switching converters;Voltage transformers;DC-DC converters;PWM regulation;current transformers;distribution automation;switching converters},
+}
+
+@Book{webster2012,
+  title     = {Sensors and Signal Conditioning},
+  publisher = {Wiley},
+  year      = {2012},
+  author    = {Pall{\~A}!`s-Areny, R.{\~A}. and Webster, J.G.},
+  isbn      = {9781118585931},
+  url       = {https://books.google.pt/books?id=BDmQDQAAQBAJ},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
