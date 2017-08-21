@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.6)  21 AUG 2017 17:37
+=======
+<<<<<<< HEAD
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.21)  15 AUG 2017 15:21
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.6)  4 AUG 2017 16:51
+>>>>>>> master
+>>>>>>> master
 entering extended mode
 **./report.main.tex
 (report.main.tex
@@ -2420,6 +2428,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
 Package rerunfilecheck Info: File `report.main.out' has not changed.
+<<<<<<< HEAD
 (rerunfilecheck)             Checksum: 30615CCA2E32CEB1077C7D12BE022E1B;4865.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
  ) 
@@ -2428,11 +2437,33 @@ Here is how much of TeX's memory you used:
  578848 string characters out of 3139189
  750824 words of memory out of 3000000
  34641 multiletter control sequences out of 15000+200000
+=======
+<<<<<<< HEAD
+(rerunfilecheck)             Checksum: 74C955E62662EC5A186DBCB6A5EE7DB7;4865.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
+ ) 
+Here is how much of TeX's memory you used:
+ 31852 strings out of 493333
+ 575583 string characters out of 3139194
+ 742073 words of memory out of 3000000
+ 34498 multiletter control sequences out of 15000+200000
+=======
+(rerunfilecheck)             Checksum: 07904F22181AA12DF1FE2AAE63EF3887;4882.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
+ ) 
+Here is how much of TeX's memory you used:
+ 31970 strings out of 493333
+ 578085 string characters out of 3139189
+ 750106 words of memory out of 3000000
+ 34616 multiletter control sequences out of 15000+200000
+>>>>>>> master
+>>>>>>> master
  137540 words of font info for 106 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,12n,77p,10426b,1175s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Program Files/Mi
 KTeX 2.9/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}<C:/Program Files/MiKTeX 2.
+<<<<<<< HEAD
 9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
 type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/kpfonts/jkpbn8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts
@@ -2445,6 +2476,23 @@ blic/kpfonts/jkpmsc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfon
 ts/jkpssbsc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpsy
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpttmn8a.pfb>
 Output written on report.main.pdf (51 pages, 7804791 bytes).
+=======
+9/fonts/type1/public/kpfonts/jkpbn8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/kpfonts/jkpbsc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+kpfonts/jkpmi.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmi
+t8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmne.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/kpfonts/jkpmsc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/kpfonts/jkpssbsc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/kpfonts/jkpsy.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/j
+kpttmn8a.pfb>
+<<<<<<< HEAD
+Output written on report.main.pdf (50 pages, 7040237 bytes).
+=======
+Output written on report.main.pdf (50 pages, 7039680 bytes).
+>>>>>>> master
+>>>>>>> master
 PDF statistics:
  1111 PDF objects out of 1200 (max. 8388607)
  200 named destinations out of 1000 (max. 500000)
