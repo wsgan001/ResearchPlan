@@ -20,7 +20,7 @@
   year         = {2014},
   pages        = {1--6},
   organization = {IEEE},
-  file         = {:3.EnergyS\\Liran2014.pdf:PDF},
+  file         = {:32.EnergyS\\Liran2014.pdf:PDF},
 }
 
 @InProceedings{Kumar2014,
@@ -85,7 +85,7 @@
   title     = {Sensors and Signal Conditioning},
   publisher = {Wiley},
   year      = {2012},
-  author    = {Pall{\~A}!`s-Areny, R.{\~A}. and Webster, J.G.},
+  author    = {Pallàs-Areny, R. and Webster, J.G.},
   isbn      = {9781118585931},
   url       = {https://books.google.pt/books?id=BDmQDQAAQBAJ},
 }

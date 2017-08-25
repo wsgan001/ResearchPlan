@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.6)  21 AUG 2017 17:37
-=======
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.21)  15 AUG 2017 15:21
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.6)  4 AUG 2017 16:51
->>>>>>> master
->>>>>>> master
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.6)  25 AUG 2017 18:26
 entering extended mode
 **./report.main.tex
 (report.main.tex
@@ -2019,7 +2011,7 @@ ABD: EveryShipout initializing macros
  (report.info.tex)
 \@crestbox=\box74
 
-<figures/uporto.pdf, id=238, 2405.98875pt x 522.95375pt>
+<figures/uporto.pdf, id=218, 2405.98875pt x 522.95375pt>
 File: figures/uporto.pdf Graphic file (type pdf)
 
 <use figures/uporto.pdf>
@@ -2096,7 +2088,7 @@ LaTeX Font Info:    Try loading font information for TS1+jkp on input line 19.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\kpfonts\ts1jkp.fd"
 File: ts1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for TS1/jkp.
 )
-<figures/1.Intro/IPs.jpg, id=339, 602.25pt x 332.24126pt>
+<figures/1.Intro/IPs.jpg, id=314, 602.25pt x 332.24126pt>
 File: figures/1.Intro/IPs.jpg Graphic file (type jpg)
 
 <use figures/1.Intro/IPs.jpg>
@@ -2125,7 +2117,7 @@ Overfull \hbox (25.6084pt too wide) in paragraph at lines 5--19
  [][][] 
  []
 
-) <figures/31.PowerS/abad2016.pdf, id=382, 313.6764pt x 317.14882pt>
+) <figures/31.PowerS/abad2016.pdf, id=357, 313.6764pt x 317.14882pt>
 File: figures/31.PowerS/abad2016.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/abad2016.pdf>
@@ -2134,7 +2126,7 @@ Package pdftex.def Info: figures/31.PowerS/abad2016.pdf used on input line 29.
  [5
 
 ]
-<figures/31.PowerS/abad2016b.pdf, id=395, 244.2726pt x 132.68773pt>
+<figures/31.PowerS/abad2016b.pdf, id=370, 244.2726pt x 132.68773pt>
 File: figures/31.PowerS/abad2016b.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/abad2016b.pdf>
@@ -2142,7 +2134,7 @@ Package pdftex.def Info: figures/31.PowerS/abad2016b.pdf used on input line 66.
 
 (pdftex.def)             Requested size: 213.39568pt x 115.91722pt.
 
-<figures/31.PowerS/abad2016f.pdf, id=400, 296.31424pt x 172.46414pt>
+<figures/31.PowerS/abad2016f.pdf, id=375, 296.31424pt x 172.46414pt>
 File: figures/31.PowerS/abad2016f.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/abad2016f.pdf>
@@ -2157,7 +2149,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Underfull \vbox (badness 3323) has occurred while \output is active []
 
  [6 <./figures/31.PowerS/abad2016.pdf>]
-<figures/31.PowerS/abad2016d.pdf, id=420, 369.23532pt x 127.32253pt>
+<figures/31.PowerS/abad2016d.pdf, id=395, 369.23532pt x 127.32253pt>
 File: figures/31.PowerS/abad2016d.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/abad2016d.pdf>
@@ -2165,7 +2157,7 @@ Package pdftex.def Info: figures/31.PowerS/abad2016d.pdf used on input line 97.
 
 (pdftex.def)             Requested size: 192.0548pt x 66.22556pt.
 
-<figures/31.PowerS/abad2016e.pdf, id=425, 373.86523pt x 144.6847pt>
+<figures/31.PowerS/abad2016e.pdf, id=400, 373.86523pt x 144.6847pt>
 File: figures/31.PowerS/abad2016e.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/abad2016e.pdf>
@@ -2173,7 +2165,7 @@ Package pdftex.def Info: figures/31.PowerS/abad2016e.pdf used on input line 105
 .
 (pdftex.def)             Requested size: 192.0548pt x 74.32468pt.
 
-<figures/31.PowerS/abad2016c.pdf, id=431, 400.70424pt x 191.34549pt>
+<figures/31.PowerS/abad2016c.pdf, id=406, 400.70424pt x 191.34549pt>
 File: figures/31.PowerS/abad2016c.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/abad2016c.pdf>
@@ -2184,7 +2176,7 @@ Package pdftex.def Info: figures/31.PowerS/abad2016c.pdf used on input line 126
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/31.PowerS/abad2016g.pdf, id=437, 432.82423pt x 176.5153pt>
+<figures/31.PowerS/abad2016g.pdf, id=412, 432.82423pt x 176.5153pt>
 File: figures/31.PowerS/abad2016g.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/abad2016g.pdf>
@@ -2206,7 +2198,7 @@ usion: multiple pdfs with page group included in a single page
 
 pdfTeX warning: pdflatex.exe (file ./figures/31.PowerS/abad2016e.pdf): PDF incl
 usion: multiple pdfs with page group included in a single page
->] <figures/31.PowerS/abad2016h.pdf, id=475, 270.00072pt x 89.61479pt>
+>] <figures/31.PowerS/abad2016h.pdf, id=450, 270.00072pt x 89.61479pt>
 File: figures/31.PowerS/abad2016h.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/abad2016h.pdf>
@@ -2222,7 +2214,7 @@ usion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex.exe (file ./figures/31.PowerS/abad2016h.pdf): PDF incl
 usion: multiple pdfs with page group included in a single page
 >]) [9] (chapters/32.EnergyS.tex
-<figures/32.EnergyS/traction.pdf, id=514, 316.00659pt x 168.8689pt>
+<figures/32.EnergyS/traction.pdf, id=489, 316.00659pt x 168.8689pt>
 File: figures/32.EnergyS/traction.pdf Graphic file (type pdf)
 
 <use figures/32.EnergyS/traction.pdf>
@@ -2230,7 +2222,7 @@ Package pdftex.def Info: figures/32.EnergyS/traction.pdf used on input line 24.
 
 (pdftex.def)             Requested size: 204.85802pt x 109.4723pt.
 
-<figures/32.EnergyS/generation.pdf, id=515, 316.00659pt x 168.8689pt>
+<figures/32.EnergyS/generation.pdf, id=490, 316.00659pt x 168.8689pt>
 File: figures/32.EnergyS/generation.pdf Graphic file (type pdf)
 
 <use figures/32.EnergyS/generation.pdf>
@@ -2238,7 +2230,7 @@ Package pdftex.def Info: figures/32.EnergyS/generation.pdf used on input line 3
 2.
 (pdftex.def)             Requested size: 204.85802pt x 109.4723pt.
 
-<figures/32.EnergyS/liran2014.pdf, id=517, 230.90265pt x 137.45753pt>
+<figures/32.EnergyS/liran2014.pdf, id=492, 230.90265pt x 137.45753pt>
 File: figures/32.EnergyS/liran2014.pdf Graphic file (type pdf)
 
 <use figures/32.EnergyS/liran2014.pdf>
@@ -2246,9 +2238,21 @@ Package pdftex.def Info: figures/32.EnergyS/liran2014.pdf used on input line 49
 .
 (pdftex.def)             Requested size: 256.07578pt x 152.4601pt.
  [10 <./figures/32.EnergyS/traction.pdf> <./figures/32.EnergyS/generation.pdf> 
-<./figures/32.EnergyS/liran2014.pdf>])
-[11] (chapters/33.WirelessN.tex [12] [13]
-<figures/nancy2014.png, id=604, 1118.67938pt x 577.40718pt>
+<./figures/32.EnergyS/liran2014.pdf>]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
+
+[11] <figures/32.EnergyS/ecos.pdf, id=545, 190.35918pt x 195.77943pt>
+File: figures/32.EnergyS/ecos.pdf Graphic file (type pdf)
+
+<use figures/32.EnergyS/ecos.pdf>
+Package pdftex.def Info: figures/32.EnergyS/ecos.pdf used on input line 104.
+(pdftex.def)             Requested size: 213.39568pt x 219.48654pt.
+) [12 <./figures/32.EnergyS/ecos.pdf>]
+(chapters/33.WirelessN.tex [13] [14]
+<figures/nancy2014.png, id=601, 1118.67938pt x 577.40718pt>
 File: figures/nancy2014.png Graphic file (type png)
 
 <use figures/nancy2014.png>
@@ -2259,14 +2263,14 @@ Overfull \hbox (42.68173pt too wide) in paragraph at lines 112--113
  [][] 
  []
 
-[14 <./figures/nancy2014.png>]
-<figures/radmand2010.png, id=621, 534.49687pt x 352.31625pt>
+[15 <./figures/nancy2014.png>]
+<figures/radmand2010.png, id=618, 534.49687pt x 352.31625pt>
 File: figures/radmand2010.png Graphic file (type png)
 
 <use figures/radmand2010.png>
 Package pdftex.def Info: figures/radmand2010.png used on input line 139.
 (pdftex.def)             Requested size: 256.07741pt x 168.79807pt.
- [15 <./figures/radmand2010.png>]
+ [16 <./figures/radmand2010.png>]
 Overfull \hbox (1.42397pt too wide) in paragraph at lines 155--156
 []\T1/jkp/m/n/10 This KPI is not di-rectly re-lated with the com-mu-ni-ca-tion 
 link. How-
@@ -2278,28 +2282,28 @@ Overfull \hbox (2.27798pt too wide) in paragraph at lines 157--158
  spe-cific con-di-tions (in-door/outdoor;
  []
 
-<figures/simul_VS_emul.png, id=635, 935.495pt x 305.14pt>
+<figures/simul_VS_emul.png, id=632, 935.495pt x 305.14pt>
 File: figures/simul_VS_emul.png Graphic file (type png)
 
 <use figures/simul_VS_emul.png>
 Package pdftex.def Info: figures/simul_VS_emul.png used on input line 184.
 (pdftex.def)             Requested size: 426.79135pt x 139.2114pt.
- [16 <./figures/simul_VS_emul.png>] [17]
+ [17 <./figures/simul_VS_emul.png>] [18]
 Overfull \hbox (5.86797pt too wide) in paragraph at lines 283--285
 []\T1/jkp/m/n/10 This Java-based sim-u-la-tor was made to pro-vide a sim-u-la-t
 ion and proof-of-concept
  []
 
-) [18] (chapters/34.SmartM.tex [19] [20]
-<figures/EMS.png, id=695, 813.0375pt x 429.605pt>
+) [19] (chapters/34.SmartM.tex [20] [21]
+<figures/EMS.png, id=692, 813.0375pt x 429.605pt>
 File: figures/EMS.png Graphic file (type png)
  <use figures/EMS.png>
 Package pdftex.def Info: figures/EMS.png used on input line 75.
 (pdftex.def)             Requested size: 362.77525pt x 191.6882pt.
 
-[21 <./figures/EMS.png>]) [22] (chapters/35.DSS.tex) [23]
+[22 <./figures/EMS.png>]) [23] (chapters/35.DSS.tex) [24]
 (chapters/36.OutlierD.tex
-<figures/general.png, id=720, 4979.60374pt x 3319.40125pt>
+<figures/general.png, id=717, 4979.60374pt x 3319.40125pt>
 File: figures/general.png Graphic file (type png)
 
 <use figures/general.png>
@@ -2309,52 +2313,28 @@ Package pdftex.def Info: figures/general.png used on input line 50.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[24]
+[25]
 Overfull \hbox (0.10779pt too wide) in paragraph at lines 64--65
 []\T1/jkp/m/n/10 The De-ci-sion Sup-port Sub-sys-tem out-
  []
 
-[25 <./figures/general.png (PNG copy)>] [26] [27] [28]
-<figures/xiang2016.pdf, id=794, 254.3904pt x 239.93639pt>
-File: figures/xiang2016.pdf Graphic file (type pdf)
-
-<use figures/xiang2016.pdf>
-Package pdftex.def Info: figures/xiang2016.pdf used on input line 216.
-(pdftex.def)             Requested size: 256.07741pt x 241.53935pt.
-
-Overfull \hbox (5.03793pt too wide) in paragraph at lines 230--231
-[]\T1/jkp/m/n/10 Phase where the Bayesian Be-lief Net-work is trained to cap-tu
-re the spatio-temporal
- []
-
-[29 <./figures/xiang2016.pdf>] [30] [31] [32] [33] [34]
-Overfull \hbox (22.24728pt too wide) in paragraph at lines 524--525
-\T1/jkp/m/n/10 The us-age of Prin-ci-pal Com-po-nent Anal-y-sis (PCA) tech-niqu
-e is in-her-ent to the spec-tral decomposition-
- []
-
-
-Overfull \hbox (10.00774pt too wide) in paragraph at lines 547--548
-[]\T1/jkp/m/n/10 The eigen-struc-ture as-so-ci-ated to an un-der-ly-ing space
- []
-
-) [35]
+[26 <./figures/general.png (PNG copy)>] [27]) [28]
 Chapter 4.
 (chapters/4.Methodology.tex
-<figures/4.Method/pyramid.png, id=918, 2903.84875pt x 2867.71375pt>
+<figures/4.Method/pyramid.png, id=781, 2903.84875pt x 2867.71375pt>
 File: figures/4.Method/pyramid.png Graphic file (type png)
 
 <use figures/4.Method/pyramid.png>
 Package pdftex.def Info: figures/4.Method/pyramid.png used on input line 16.
 (pdftex.def)             Requested size: 128.0387pt x 126.41608pt.
 
-<figures/4.Method/data_flow.png, id=920, 6516.345pt x 741.77126pt>
+<figures/4.Method/data_flow.png, id=783, 6516.345pt x 741.77126pt>
 File: figures/4.Method/data_flow.png Graphic file (type png)
 
 <use figures/4.Method/data_flow.png>
 Package pdftex.def Info: figures/4.Method/data_flow.png used on input line 25.
 (pdftex.def)             Requested size: 341.43437pt x 38.85641pt.
- [36
+ [29
 
  <./figures/4.Method/pyramid.png (PNG copy)> <./figures/4.Method/data_flow.png 
 (PNG copy)>]
@@ -2370,131 +2350,144 @@ nverted-to.pdf figures/architecture.eps>
 (epstopdf)             \includegraphics on input line 39.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/architecture-eps-converted-to.pdf, id=930, 543.02875pt x 228.855pt>
+<figures/architecture-eps-converted-to.pdf, id=793, 543.02875pt x 228.855pt>
 File: figures/architecture-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/architecture-eps-converted-to.pdf>
 Package pdftex.def Info: figures/architecture-eps-converted-to.pdf used on inpu
 t line 39.
 (pdftex.def)             Requested size: 426.79135pt x 179.87505pt.
- [37 <./figures/architecture-eps-converted-to.pdf>]
-<figures/4.Method/powerSensing.pdf, id=952, 7050.34pt x 7132.6475pt>
+ [30 <./figures/architecture-eps-converted-to.pdf>]
+<figures/4.Method/powerSensing.pdf, id=818, 7050.34pt x 7132.6475pt>
 File: figures/4.Method/powerSensing.pdf Graphic file (type pdf)
 
 <use figures/4.Method/powerSensing.pdf>
 Package pdftex.def Info: figures/4.Method/powerSensing.pdf used on input line 7
 1.
 (pdftex.def)             Requested size: 298.75264pt x 302.23563pt.
- [38 <./figures/4.Method/powerSensing.pdf>] <figures/4.Method/methodElectrical.
-pdf, id=966, 8868.13126pt x 4653.385pt>
+ [31 <./figures/4.Method/powerSensing.pdf>] <figures/4.Method/methodElectrical.
+pdf, id=835, 8868.13126pt x 4653.385pt>
 File: figures/4.Method/methodElectrical.pdf Graphic file (type pdf)
 
 <use figures/4.Method/methodElectrical.pdf>
 Package pdftex.def Info: figures/4.Method/methodElectrical.pdf used on input li
 ne 101.
 (pdftex.def)             Requested size: 384.1096pt x 201.51175pt.
- [39 <./figures/4.Method/methodElectrical.pdf>]
-<figures/4.Method/methodWireless.pdf, id=986, 9170.26pt x 4653.385pt>
+
+<figures/4.Method/voltage_sensor.jpg, id=846, 730.22812pt x 508.90125pt>
+File: figures/4.Method/voltage_sensor.jpg Graphic file (type jpg)
+
+<use figures/4.Method/voltage_sensor.jpg>
+Package pdftex.def Info: figures/4.Method/voltage_sensor.jpg used on input line
+ 131.
+(pdftex.def)             Requested size: 153.64441pt x 107.07431pt.
+
+<figures/4.Method/voltage_sensor_eq.pdf, id=847, 148.94847pt x 92.57787pt>
+File: figures/4.Method/voltage_sensor_eq.pdf Graphic file (type pdf)
+
+<use figures/4.Method/voltage_sensor_eq.pdf>
+Package pdftex.def Info: figures/4.Method/voltage_sensor_eq.pdf used on input l
+ine 139.
+(pdftex.def)             Requested size: 172.84813pt x 107.43982pt.
+
+Underfull \hbox (badness 2753) in paragraph at lines 141--141
+[]\T1/jkp/m/n/10 Figure 4.7: |Equiv-a-lent cir-cuit of non-
+ []
+
+[32 <./figures/4.Method/methodElectrical.pdf>]
+<figures/4.Method/scope_0.png, id=866, 803.0pt x 504.88625pt>
+File: figures/4.Method/scope_0.png Graphic file (type png)
+
+<use figures/4.Method/scope_0.png>
+Package pdftex.def Info: figures/4.Method/scope_0.png used on input line 155.
+(pdftex.def)             Requested size: 192.0548pt x 120.75145pt.
+
+Underfull \hbox (badness 1052) in paragraph at lines 157--157
+[]\T1/jkp/m/n/10 Figure 4.8: |Wave-forms of ac-quired and
+ []
+
+<figures/4.Method/scope_2.png, id=867, 803.0pt x 504.88625pt>
+File: figures/4.Method/scope_2.png Graphic file (type png)
+
+<use figures/4.Method/scope_2.png>
+Package pdftex.def Info: figures/4.Method/scope_2.png used on input line 163.
+(pdftex.def)             Requested size: 192.0548pt x 120.75145pt.
+
+Underfull \hbox (badness 1052) in paragraph at lines 165--165
+[]\T1/jkp/m/n/10 Figure 4.9: |Wave-forms of ac-quired and
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33 <./figures/4.Method/voltage_sensor.jpg> <./figures/4.Method/voltage_sensor
+_eq.pdf> <./figures/4.Method/scope_0.png (PNG copy)> <./figures/4.Method/scope_
+2.png (PNG copy)>] <figures/4.Method/methodWireless.pdf, id=884, 9170.26pt x 46
+53.385pt>
 File: figures/4.Method/methodWireless.pdf Graphic file (type pdf)
 
 <use figures/4.Method/methodWireless.pdf>
 Package pdftex.def Info: figures/4.Method/methodWireless.pdf used on input line
- 154.
+ 214.
 (pdftex.def)             Requested size: 384.1096pt x 194.9083pt.
- [40 <./figures/4.Method/methodWireless.pdf>]) (report.main.bbl [41]
-LaTeX Font Info:    Try loading font information for T1+jkptt on input line 82.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (report.main.bbl [34] [35 <./figures/4.Method/methodWireless.pdf>]
+LaTeX Font Info:    Try loading font information for T1+jkptt on input line 71.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\kpfonts\t1jkptt.fd"
 File: t1jkptt.fd 2007/01/26 Fontinst v1.928 font definitions for T1/jkptt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 86--93
+Underfull \hbox (badness 10000) in paragraph at lines 75--82
 [][]$\T1/jkptt/m/n/10 http : / / eur-[]lex . europa . eu / legal-[]content / EN
  / TXT / ?uri = uriserv : OJ . L _ .2014 . 356 . 01 .
  []
 
-[42
+[36
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 96--102
+Underfull \hbox (badness 10000) in paragraph at lines 85--91
 [][]$\T1/jkptt/m/n/10 http : / / eur-[]lex . europa . eu / legal-[]content / EN
  / TXT / ?uri = uriserv : OJ . L _ .2014 . 356 . 01 .
  []
 
-[43] [44]) [45]
+[37]) [38]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
  (report.main.aux (report.info.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
 Package rerunfilecheck Info: File `report.main.out' has not changed.
-<<<<<<< HEAD
-(rerunfilecheck)             Checksum: 30615CCA2E32CEB1077C7D12BE022E1B;4865.
+(rerunfilecheck)             Checksum: 1E056DCD11B71A91A2C30759815E2C5B;4410.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
  ) 
 Here is how much of TeX's memory you used:
- 32004 strings out of 493333
- 578848 string characters out of 3139189
- 750824 words of memory out of 3000000
- 34641 multiletter control sequences out of 15000+200000
-=======
-<<<<<<< HEAD
-(rerunfilecheck)             Checksum: 74C955E62662EC5A186DBCB6A5EE7DB7;4865.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
- ) 
-Here is how much of TeX's memory you used:
- 31852 strings out of 493333
- 575583 string characters out of 3139194
- 742073 words of memory out of 3000000
- 34498 multiletter control sequences out of 15000+200000
-=======
-(rerunfilecheck)             Checksum: 07904F22181AA12DF1FE2AAE63EF3887;4882.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
- ) 
-Here is how much of TeX's memory you used:
- 31970 strings out of 493333
- 578085 string characters out of 3139189
- 750106 words of memory out of 3000000
- 34616 multiletter control sequences out of 15000+200000
->>>>>>> master
->>>>>>> master
- 137540 words of font info for 106 fonts, out of 3000000 for 9000
+ 31987 strings out of 493333
+ 578561 string characters out of 3139189
+ 749185 words of memory out of 3000000
+ 34645 multiletter control sequences out of 15000+200000
+ 146879 words of font info for 128 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,12n,77p,10426b,1175s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Program Files/Mi
 KTeX 2.9/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}<C:/Program Files/MiKTeX 2.
-<<<<<<< HEAD
 9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
 type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/kpfonts/jkpbn8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts
-/jkpbsc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmi.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmit8a.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/kpfonts/jkpmne.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/kpfonts/jkpmsc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfon
-ts/jkpssbsc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpsy
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpttmn8a.pfb>
-Output written on report.main.pdf (51 pages, 7804791 bytes).
-=======
-9/fonts/type1/public/kpfonts/jkpbn8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/kpfonts/jkpbsc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-kpfonts/jkpmi.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmi
-t8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmne.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/kpfonts/jkpmsc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/kpfonts/jkpssbsc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
-lic/kpfonts/jkpsy.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/j
-kpttmn8a.pfb>
-<<<<<<< HEAD
-Output written on report.main.pdf (50 pages, 7040237 bytes).
-=======
-Output written on report.main.pdf (50 pages, 7039680 bytes).
->>>>>>> master
->>>>>>> master
+/jkpbne.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpbsc8a.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmi.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpmit8a.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/kpfonts/jkpmn8a.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/kpfonts/jkpmn8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/kpfonts/jkpmne.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts
+/jkpmsc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpssbsc8
+a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpttmn8a.pfb>
+Output written on report.main.pdf (44 pages, 10998277 bytes).
 PDF statistics:
- 1111 PDF objects out of 1200 (max. 8388607)
- 200 named destinations out of 1000 (max. 500000)
- 602 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1000 PDF objects out of 1000 (max. 8388607)
+ 175 named destinations out of 1000 (max. 500000)
+ 582 words of extra memory for PDF output out of 10000 (max. 10000000)
 

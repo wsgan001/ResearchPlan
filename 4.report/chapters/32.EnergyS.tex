@@ -59,14 +59,85 @@ The energy calculation depends on the voltage and currents measured in the caten
 \label{subs:322}	
 	According to \cite{webster2012}, a transducer is a device capable to convert different physical signal forms. In the scope of energy measurements, current and voltage transducers are employed. These devices converts the field energy waveforms into a voltage (or current) waveform capable of be acquired by a processing unit (such as a microcontroller, PLC, etc).
 	
+	\cite{Dalessandro2007} identifies multiple different physical effects associated to the current sensors\footnote{In the scope of energy measurements, voltage transducers combine the measurement of a current in a given load (or resistor). Therefore this subsection will only cover the measurement of currents} as following:
 	
-a.	Commonly used technologies and principles
-b.	New breakthroughs
+	\begin{description}
+		\setlength\itemsep{-0em}
+		\item [Magnetic coupling] Using the knowledge of transformers, it is possible to perform isolated current measurements. The current transformers are widely used in energy measurement and are based on the magnetic coupling concept, with a ferromagnetic core. With the same magnetic coupling principle, the Rogowski coil is a helix wound around a non-magnetic torus and uses the magnetic coupling physical effect to measure the current, as the integrative of the induced voltage on coil terminals;
+		%5-7
+		\item [Magneto resistance] The anisotropic magneto-resistive current sensors uses a magneto-resistive sensing element (composed of a nickel iron alloy) to measure the magnetic field induced by a current on a conductor;
+		%8,9
+		\item [Faraday induction] Fiber optic current sensors relies on Faraday effect to integrate the magnetic field along the closest path. The magnetic field will cause a magnetooptic phase shift of the light waves and this phase shift is measured with a technique known as fiber gyroscopes;
+		%10
+		\item [Hall Effect] Similarly to magneto-resistive current sensors, the hall effect sensors uses a sensing element to measure the magnetic field in the air-gap of a magnetic circuit. For AC-only current measurement, no compensation of the flux in the magnetic core is made. The implementation of "Zero flux" compensation avoids the saturation of the magnetic core. This active compensation allows the measurement of currents with DC component.
+		
+	\end{description}
+	
 
 \subsection{High power measurement challenges in RTS}	
 \label{subs:323}
+
+	Currently, the European Commission requires the implementation of mechanisms in RTS for energy liberalization, where the Railway Undertakings (RUs) can purchase energy from suppliers of their choice.
+	
+	The impact of such requirement is the liberalization of the energy market, which brings new challenges in the railway sector. In practical, on-board energy metering is important to make energy savings visible and to allocate the profits of these savings to the respective RUs.
+	
+	EcoS energy meter for railway, presented in figure \ref{fig:ecos}, identifies the following requirements to comply with:
+	
+	\begin{description}
+	\setlength\itemsep{-0em}
+	
+	\item [EN 50463 standard] This standard defines the architecture of the Energy Measurement System. It is composed by two blocks: (1) the Energy Measurement Function, responsible for the measurement of voltage and current and for the calculation of the energy and (2) the Data Handling System, that joins the timestamp and the GPS location to the energy data;
+	
+	\item [EN 50155 standard] This standard defines the aspects of temperature, humidity, shock, vibration, and other parameters that covers electronic equipment used on rolling stock for railway applications;
+	
+	\item [AC and DC measurement channels] The energy meter comply with multiple catenary topologies;
+	
+	\item [Multiple Connectivity] EcoS uses WiFi, Ethernet and 2G/3G/4G. In addiction it is used the localization and time sync from GPS and Train Communication \& Management System (TCMS);
+	
+	\item [Multiple access and customization] EcoS implements web interface and a SoftPLC for expansions and customizations.
+	\end{description}
+
+
+\begin{figure}[h!]
+	\centering
+
+		\includegraphics[width=0.5\textwidth,keepaspectratio]{figures/32.EnergyS/ecos}
+%		\vspace{-0.75em}
+		\caption{EcoS railway energy meter. Adapted from railware.it}
+		\label{fig:ecos}
+	
+\end{figure}
+
+\begin{comment}
+
+
 
 
 \subsection{Energy measurement technologies in RTS }
 \label{subs:324}
 
+
+
+\begin{figure}[h!]
+	\centering
+	\begin{minipage}{0.40\textwidth}
+		\centering
+		%		\vspace{2.5em}
+		\includegraphics[width=0.75\textwidth,keepaspectratio]{figures/32.EnergyS/current_t}
+		%		\vspace{2em}
+		\captionof{figure}{25 kV current transformer. Adapted from ?}%\footnotetext{www.railware.it}}
+		\label{fig:current_t}
+	\end{minipage}%
+	\begin{minipage}{0.05\textwidth}  ~\end{minipage}	
+	\begin{minipage}{0.40\textwidth}
+		\centering
+		\includegraphics[width=0.59625\textwidth,keepaspectratio]{figures/32.EnergyS/voltage_t}
+		
+		
+		%		\vspace{0.5em}
+		\captionof{figure}{25 kV voltage transformer. Adapted from ?}%\footnotetext{www.railware.it}}
+		\label{fig:voltage_t}
+	\end{minipage}
+\end{figure}
+
+\end{comment}

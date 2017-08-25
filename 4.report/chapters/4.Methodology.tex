@@ -62,7 +62,7 @@ Based on the field measurements, a data concentrator will receive the current va
 In the scope of Shift2Rail, is expected to develop a smart metering system for RTS. Assuming that a non-intrusive measurement system is of extreme interest, this proposal of a non-intrusive and self powered sensor node goes along the goals of Shif2Rail.
 
 On the field of measurement, non-intrusive technical solutions has been used for several years for current measurement, such as hall-effect current sensors, rogowsky probes or current transformers.
-For self-powering purposes, some studies on using current transformers for energy harvesting has been proposed <<apresentar papers>>
+For self-powering purposes, some studies on using current transformers for energy harvesting has been proposed in the literature (\cite{ahola2008}, \cite{brunelli2016}, MAIS PAPERS).
 
 
 \begin{figure}[h!]
@@ -92,7 +92,7 @@ The methodology is divided into two parts. The first part will be related to the
 
 As a starting point of the methodology, it is expected to work on the \textbf{development of models} similar to the ones presented in figure \ref{fig:4.methodElectrical}. The modeling of such architecture allows the evaluation of the power contribution of a train, at a certain instant, to the power injected to the catenary. This methodology will contribute to \textbf{implementation of processing algorithms} in the train data concentrator that, based on the measurement of AC secondary winding's voltages and currents, will generate the accurate value of the energy injected in the catenary by the traction substation. The expected result will be the comparison between the estimation and the measured injected power in the catenary.
 
-In this second part of the methodology, or the acquisition part, the sensor will be defined and validated. As a first step in the methodology, using Ansys or similar Finit Element Method (FEM) software, the \textbf{current and electric field of one winding will be simulated}. With the results of this simulation, the current and voltage sensors will be evaluated. In a further step, \textbf{real experiments on low voltage} will test the proposed sensor node.
+In this second part of the methodology, or the acquisition part, the sensor will be defined and validated. As a first step in the methodology, using Ansys or similar Finit Element Method (FEM) software, the \textbf{current and electric field of one winding will be simulated}. With the results of this simulation, the current and voltage sensors will be evaluated. In a further step, \textbf{real experiments on low voltage test-bench} will test the proposed sensor node.
 
 
 
@@ -112,6 +112,66 @@ In this second part of the methodology, or the acquisition part, the sensor will
 Mathworks suggests also the usage of \textbf{MatLAB and Simulink} for rail electrical systems modeling. 
 Similarly, \textbf{Ansys} products are suggested for the simulation of railway power systems as well as \textbf{PSIM}. The three previously presented products are also flexible to work in co-simulation, with the advantage of choosing the best software for the most straightforward application.
 
+\subsection{Preliminary work: evaluation of the non-intrusive voltage sensor}
+
+	A critical issue is identified as the measurement of voltage waveforms using a non-intrusive approach. 
+	The work of \cite{brunelli2016} presents a possible non-intrusive voltage measurement for energy meters.
+	In this work is referred that, for the authors knowledge, there is no commercially available non-intrusive sensor for voltage measurement in low-voltage wires (230-400 VAC). 
+	Despite that, some studies are proposed in the literature for extra/high-voltage monitoring systems based on a capacitive cell.
+	
+	Based on the solution of \cite{brunelli2016}, a voltage sensor was implemented/tested, as presented in figure \ref{fig:4.voltage_sensor}, with the equivalent circuit in \ref{fig:4.voltage_sensor_eq}. 
+	
+	
+	
+	\begin{figure}[h!]
+		\centering
+		\begin{minipage}{.45\textwidth}
+			\centering
+			%		\vspace{2.5em}
+			\includegraphics[width=0.8\textwidth,keepaspectratio]{figures/4.Method/voltage_sensor}
+			%		\vspace{2em}
+			\captionof{figure}{Photo of implemented non-intrusive voltage sensor.}
+			\label{fig:4.voltage_sensor}
+		\end{minipage}%
+		\begin{minipage}{.03\textwidth}  ~\end{minipage}	
+		\begin{minipage}{.45\textwidth}
+			\centering
+			\includegraphics[width=0.9\textwidth,keepaspectratio]{figures/4.Method/voltage_sensor_eq}
+			%		\vspace{2em}
+			\captionof{figure}{Equivalent circuit of non-intrusive voltage sensor.}
+			\label{fig:4.voltage_sensor_eq}
+		\end{minipage}
+	\end{figure}
+
+	
+	To evaluate this sensor, two tests was performed: one with normal conditions of the grid, and other near a Voltage Source Converter (VSC), respectively in figure \ref{fig:4.scope_0} and \ref{fig:4.scope_2}. 
+	The VSC is connected to the grid with a low-frequency transformer, which results in a line-to-line voltage of 200V (RMS) in the VSC, \cite{martins2016}.
+	
+		\begin{figure}[h!]
+		\centering
+		\begin{minipage}{.45\textwidth}
+			\centering
+			%		\vspace{2.5em}
+			\includegraphics[width=\textwidth,keepaspectratio]{figures/4.Method/scope_0}
+			%		\vspace{2em}
+			\captionof{figure}{Waveforms of acquired and sensed voltages in normal conditions: (orange) AC main voltage and (blue) voltage in sensor.}
+			\label{fig:4.scope_0}
+		\end{minipage}%
+		\begin{minipage}{.03\textwidth}  ~\end{minipage}	
+		\begin{minipage}{.45\textwidth}
+			\centering
+			\includegraphics[width=\textwidth,keepaspectratio]{figures/4.Method/scope_2}
+			%		\vspace{2em}
+			\captionof{figure}{Waveforms of acquired and sensed voltages in inverter: (orange) AC main voltage and (blue) voltage in sensor.}
+			\label{fig:4.scope_2}
+		\end{minipage}
+	\end{figure}
+
+	The purpose of this preliminary work is to evaluate if this solution presented in the state of the art is feasible to be implemented in an environment with huge amount of noise. At first evaluation the answer is negative, due to the need of extra work to estimate the voltage using the blue waveform of figure \ref{fig:4.scope_2}.
+	If it is possible to extract the voltage waveform, this can be considered as a contribution to the field of voltage measurement in noisy environments, and in particular, in the railway environment.
+	Therefore and as previously presented in the second part of the methodology, the future work will start with the simulation of the electric field in a wire subjected to a VSC and the implementation of a solution that extracts the "real" voltage from the signal of the voltage sensor.
+	
+	
 %%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%

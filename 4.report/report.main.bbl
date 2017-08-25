@@ -15,6 +15,15 @@ Abid, A., A.~Kachouri, and A.~Mahfoudhi (2016, mar).
   for Signal and Image Processing ({ATSIP})}. Institute of Electrical and
   Electronics Engineers ({IEEE}).
 
+\bibitem[\protect\citeauthoryear{Ahola, Ahonen, Sarkimaki, Kosonen, Tamminen,
+  Tiainen, and Lindh}{Ahola et~al.}{2008}]{ahola2008}
+Ahola, J., T.~Ahonen, V.~Sarkimaki, A.~Kosonen, J.~Tamminen, R.~Tiainen, and
+  T.~Lindh (2008).
+\newblock Design considerations for current transformer based energy harvesting
+  for electronics attached to electric motor.
+\newblock In {\em Power Electronics, Electrical Drives, Automation and Motion,
+  2008. SPEEDAM 2008. International Symposium on}, pp.\  901--905. IEEE.
+
 \bibitem[\protect\citeauthoryear{Almagro and Marano}{Almagro and
   Marano}{2017}]{almagro2017}
 Almagro, F. and A.~Marano (2017).
@@ -24,15 +33,6 @@ Almagro, F. and A.~Marano (2017).
   for Aircraft, Railway, Ship Propulsion and Road Vehicles and International
   Transportation Electrification Conference}.
 \newblock cited By 0.
-
-\bibitem[\protect\citeauthoryear{Andrade, Montez, Moraes, Pinto, Vasques, and
-  Da~Silva}{Andrade et~al.}{2016}]{cluster:andrade2016}
-Andrade, A. T.~C., C.~Montez, R.~Moraes, A.~R. Pinto, F.~Vasques, and G.~L.
-  Da~Silva (2016).
-\newblock Outlier detection using k-means clustering and lightweight methods
-  for wireless sensor networks.
-\newblock In {\em IECON Proceedings (Industrial Electronics Conference)}, pp.\
-  4683--4688.
 
 \bibitem[\protect\citeauthoryear{Birol and Loubinoux}{Birol and
   Loubinoux}{2016}]{iea-uic2016}
@@ -50,28 +50,17 @@ Branch, J., B.~Szymanski, C.~Giannella, R.~Wolff, and H.~Kargupta (2006).
   Systems ({ICDCS}06)}. Institute of Electrical and Electronics Engineers
   ({IEEE}).
 
-\bibitem[\protect\citeauthoryear{Cenedese, Luvisotto, and Michieletto}{Cenedese
-  et~al.}{2017}]{clust:cenedese2017}
-Cenedese, A., M.~Luvisotto, and G.~Michieletto (2017).
-\newblock Distributed clustering strategies in industrial wireless sensor
-  networks.
-\newblock {\em IEEE Transactions on Industrial Informatics\/}~{\em 13\/}(1),
-  228--237.
+\bibitem[\protect\citeauthoryear{Brunelli, Villani, Balsamo, and
+  Benini}{Brunelli et~al.}{2016}]{brunelli2016}
+Brunelli, D., C.~Villani, D.~Balsamo, and L.~Benini (2016, Jul).
+\newblock Non-invasive voltage measurement in a three-phase autonomous meter.
+\newblock {\em Microsystem Technologies\/}~{\em 22\/}(7), 1915--1926.
 
 \bibitem[\protect\citeauthoryear{Chandola, Banerjee, and Kumar}{Chandola
   et~al.}{2009}]{gen:chandola:2009}
 Chandola, V., A.~Banerjee, and V.~Kumar (2009, jul).
 \newblock Anomaly detection.
 \newblock {\em {ACM} Computing Surveys\/}~{\em 41\/}(3), 1--58.
-
-\bibitem[\protect\citeauthoryear{Chatzigiannakis, Papavassiliou, Grammatikou,
-  and Maglaris}{Chatzigiannakis et~al.}{2006}]{spect:chatzigiannakis:2006}
-Chatzigiannakis, V., S.~Papavassiliou, M.~Grammatikou, and B.~Maglaris (2006).
-\newblock Hierarchical anomaly detection in distributed large-scale sensor
-  networks.
-\newblock In {\em 11th {IEEE} Symposium on Computers and Communications
-  ({ISCC}{\textquotesingle}06)}. Institute of Electrical and Electronics
-  Engineers ({IEEE}).
 
 \bibitem[\protect\citeauthoryear{{Council of European Union}}{{Council of
   European Union}}{2008}]{eur-lex2008}
@@ -100,15 +89,13 @@ Chatzigiannakis, V., S.~Papavassiliou, M.~Grammatikou, and B.~Maglaris (2006).
 \newblock
   \newline\url{http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.356.01.0179.01.ENG}.
 
-\bibitem[\protect\citeauthoryear{Ghorbel, Abid, and Snoussi}{Ghorbel
-  et~al.}{2014}]{stat:ghorbel:2014}
-Ghorbel, O., M.~Abid, and H.~Snoussi (2014, may).
-\newblock Kernel principal subspace based outlier detection method in wireless
-  sensor networks.
-\newblock In {\em 2014 28th International Conference on Advanced Information
-  Networking and Applications Workshops}, pp.\  737--742. Institute of
-  Electrical and Electronics Engineers ({IEEE}).
-\newblock cited By 0.
+\bibitem[\protect\citeauthoryear{Dalessandro, Karrer, and Kolar}{Dalessandro
+  et~al.}{2007}]{Dalessandro2007}
+Dalessandro, L., N.~Karrer, and J.~W. Kolar (2007, Sept).
+\newblock High-performance planar isolated current sensor for power electronics
+  applications.
+\newblock {\em IEEE Transactions on Power Electronics\/}~{\em 22\/}(5),
+  1682--1692.
 
 \bibitem[\protect\citeauthoryear{Ghorbel, Ayedi, Snoussi, and Abid}{Ghorbel
   et~al.}{2015}]{stat:ghorbel:2015}
@@ -116,13 +103,6 @@ Ghorbel, O., W.~Ayedi, H.~Snoussi, and M.~Abid (2015, jun).
 \newblock Fast and efficient outlier detection method in wireless sensor
   networks.
 \newblock {\em {IEEE} Sensors Journal\/}~{\em 15\/}(6), 3403--3411.
-
-\bibitem[\protect\citeauthoryear{Gil, Martins, and Janu{\'{a}}rio}{Gil
-  et~al.}{2016}]{class:gil:2016}
-Gil, P., H.~Martins, and F.~Janu{\'{a}}rio (2016, may).
-\newblock Detection and accommodation of outliers in wireless sensor networks
-  within a multi-agent framework.
-\newblock {\em Applied Soft Computing\/}~{\em 42}, 204--214.
 
 \bibitem[\protect\citeauthoryear{Hackmann}{Hackmann}{2006}]{Hackmann2006}
 Hackmann, G. (2006).
@@ -134,22 +114,6 @@ IEEE (2016).
   (PHY) Specifications}}.
 \newblock IEEE Std. 802.11-2016.
 
-\bibitem[\protect\citeauthoryear{Islam, Hossain, and Andersson}{Islam
-  et~al.}{2016}]{class:islam:2016}
-Islam, R.~U., M.~S. Hossain, and K.~Andersson (2016, nov).
-\newblock A novel anomaly detection algorithm for sensor data under
-  uncertainty.
-\newblock {\em Soft Computing\/}.
-
-\bibitem[\protect\citeauthoryear{Janakiram, Reddy, and Kumar}{Janakiram
-  et~al.}{2006}]{class:janakiram:2006}
-Janakiram, D., V.~Reddy, and A.~Kumar (2006).
-\newblock Outlier detection in wireless sensor networks using bayesian belief
-  networks.
-\newblock In {\em 2006 1st International Conference on Communication Systems
-  Software {\&} Middleware}. Institute of Electrical and Electronics Engineers
-  ({IEEE}).
-
 \bibitem[\protect\citeauthoryear{Liran, Mingli, and Kejian}{Liran
   et~al.}{2014}]{liran2014}
 Liran, W., W.~Mingli, and S.~Kejian (2014).
@@ -157,6 +121,13 @@ Liran, W., W.~Mingli, and S.~Kejian (2014).
   based on measured data.
 \newblock In {\em Transportation Electrification Asia-Pacific (ITEC
   Asia-Pacific), 2014 IEEE Conference and Expo}, pp.\  1--6. IEEE.
+
+\bibitem[\protect\citeauthoryear{Martins, Morais, Ferreira, and
+  Carvalho}{Martins et~al.}{2016}]{martins2016}
+Martins, A., V.~Morais, M.~Ferreira, and A.~Carvalho (2016, Oct).
+\newblock Control architecture based on {FPGA} for a renewable energy system.
+\newblock In {\em IECON 2016 - 42nd Annual Conference of the IEEE Industrial
+  Electronics Society}, pp.\  4048--4053.
 
 \bibitem[\protect\citeauthoryear{Martins, Palma, Cardoso, and Gil}{Martins
   et~al.}{2015}]{class:martins:2015b}
@@ -194,12 +165,6 @@ Panousopoulou, N. (2014).
   programming tools.
 \newblock lecture presentation slides.
 
-\bibitem[\protect\citeauthoryear{Paola, Gaglio, Re, Milazzo, and
-  Ortolani}{Paola et~al.}{2015}]{class:paola:2015}
-Paola, A.~D., S.~Gaglio, G.~L. Re, F.~Milazzo, and M.~Ortolani (2015, may).
-\newblock Adaptive distributed outlier detection for {WSNs}.
-\newblock {\em {IEEE} Transactions on Cybernetics\/}~{\em 45\/}(5), 902--913.
-
 \bibitem[\protect\citeauthoryear{Petersen and Carlsen}{Petersen and
   Carlsen}{2011}]{Petersen2011}
 Petersen, S. and S.~Carlsen (2011).
@@ -223,14 +188,6 @@ Radmand, P., A.~Talevski, S.~Petersen, and S.~Carlsen (2010).
 \newblock Comparison of industrial wsn standards.
 \newblock In {\em Digital Ecosystems and Technologies (DEST), 2010 4th IEEE
   International Conference on}, pp.\  632--637. IEEE.
-
-\bibitem[\protect\citeauthoryear{Rajasegarar, Leckie, Palaniswami, and
-  Bezdek}{Rajasegarar et~al.}{2006}]{clust:rajasegarar:2006}
-Rajasegarar, S., C.~Leckie, M.~Palaniswami, and J.~Bezdek (2006).
-\newblock Distributed anomaly detection in wireless sensor networks.
-\newblock In {\em 2006 10th {IEEE} Singapore International Conference on
-  Communication Systems}. Institute of Electrical and Electronics Engineers
-  ({IEEE}).
 
 \bibitem[\protect\citeauthoryear{Rajasegarar, Leckie, Palaniswami, and
   Bezdek}{Rajasegarar et~al.}{2007}]{class:rajasegarar:2007}
@@ -295,31 +252,6 @@ Usman, A. and S.~Haider (2013).
 \newblock {Evolution of Communication Technologies for Smart Grid
   applications}.
 \newblock {\em Renewable and Sustainable Energy Reviews\/}~{\em 19}, 191--199.
-
-\bibitem[\protect\citeauthoryear{Wang and Li}{Wang and
-  Li}{2013}]{stat:wang:2013}
-Wang, Y. and G.~Li (2013, aug).
-\newblock Incremental histogram based anomaly detection scheme in wireless
-  sensor networks.
-\newblock In {\em 2013 {IEEE} International Conference on Signal Processing,
-  Communication and Computing ({ICSPCC} 2013)}. Institute of Electrical and
-  Electronics Engineers ({IEEE}).
-
-\bibitem[\protect\citeauthoryear{Xiang, Tang, and Zhu}{Xiang
-  et~al.}{2016}]{class:xiang:2016}
-Xiang, Y., Y.~Tang, and W.~Zhu (2016, feb).
-\newblock Mobile sensor network noise reduction and recalibration using a
-  bayesian network.
-\newblock {\em Atmospheric Measurement Techniques\/}~{\em 9\/}(2), 347--357.
-
-\bibitem[\protect\citeauthoryear{Xu, Hu, Wang, and Zhang}{Xu
-  et~al.}{2012}]{class:xu:2012}
-Xu, S., C.~Hu, L.~Wang, and G.~Zhang (2012, sep).
-\newblock Support vector machines based on k nearest neighbor algorithm for
-  outlier detection in {WSNs}.
-\newblock In {\em 2012 8th International Conference on Wireless Communications,
-  Networking and Mobile Computing}. Institute of Electrical and Electronics
-  Engineers ({IEEE}).
 
 \bibitem[\protect\citeauthoryear{Zhang, Meratnia, and Havinga}{Zhang
   et~al.}{2010}]{gen:zhang:2010}
