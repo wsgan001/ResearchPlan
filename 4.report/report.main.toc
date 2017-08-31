@@ -32,7 +32,7 @@
 \contentsline {section}{\numberline {3.2}Section 2: Energy Sensors}{10}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Electric Energy Overview}{10}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}Current transducers and voltage transducers}{11}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}High power measurement challenges in RTS}{11}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.3}Energy measurement in RTS}{11}{subsection.3.2.3}
 \contentsline {section}{\numberline {3.3}Section 3: Wireless networks}{13}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Network technologies \IeC {\textendash } historic overview}{13}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Current Wireless technologies and standards}{13}{subsection.3.3.2}
@@ -54,29 +54,29 @@
 \contentsline {subsection}{\numberline {3.4.1}Smart grids and the need for smart meters}{20}{subsection.3.4.1}
 \contentsline {subsection}{\numberline {3.4.2}Features of Smart Meters and metering systems}{20}{subsection.3.4.2}
 \contentsline {subsection}{\numberline {3.4.3}Metering systems in railways}{21}{subsection.3.4.3}
-\contentsline {section}{\numberline {3.5}Section 5: Decision Support Systems (DSS)}{24}{section.3.5}
-\contentsline {subsection}{\numberline {3.5.1}Overview/definition}{24}{subsection.3.5.1}
+\contentsline {section}{\numberline {3.5}Section 5: Decision Support Systems}{24}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}The information and knowledge as the base of DSS}{24}{subsection.3.5.1}
 \contentsline {subsection}{\numberline {3.5.2}Eco-driving \IeC {\textendash } driving assistant}{24}{subsection.3.5.2}
-\contentsline {subsection}{\numberline {3.5.3}Timetable scheduling}{24}{subsection.3.5.3}
-\contentsline {subsection}{\numberline {3.5.4}Maintenance support}{24}{subsection.3.5.4}
-\contentsline {section}{\numberline {3.6}Section 6: Issues and problems in WSN}{25}{section.3.6}
-\contentsline {subsection}{\numberline {3.6.1}Outlier and outlier detection}{25}{subsection.3.6.1}
-\contentsline {subsection}{\numberline {3.6.2}Literature review of Outlier detection in WSN}{26}{subsection.3.6.2}
-\contentsline {subsubsection}{\numberline {3.6.2.1}Motivation}{27}{subsubsection.3.6.2.1}
-\contentsline {subsubsection}{\numberline {3.6.2.2}Research areas}{27}{subsubsection.3.6.2.2}
-\contentsline {subsubsection}{\numberline {3.6.2.3}Challenges}{27}{subsubsection.3.6.2.3}
-\contentsline {subsection}{\numberline {3.6.3}Taxonomy of Outlier Detection Techniques}{28}{subsection.3.6.3}
-\contentsline {chapter}{\numberline {4}Methodology and Work Plan}{29}{chapter.4}
-\contentsline {section}{\numberline {4.1}Architecture of proposed work}{29}{section.4.1}
-\contentsline {section}{\numberline {4.2}Non-intrusive self-powered sensor node}{30}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Purpose}{30}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Contributions}{31}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Methodology}{31}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Simulation tools and frameworks}{32}{subsection.4.2.4}
-\contentsline {subsection}{\numberline {4.2.5}Preliminary work: evaluation of the non-intrusive voltage sensor}{32}{subsection.4.2.5}
-\contentsline {section}{\numberline {4.3}RTS wireless network}{34}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Purpose}{34}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Contribution}{34}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Methodology}{34}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {4.3.4}Simulation tools and frameworks}{34}{subsection.4.3.4}
-\contentsline {section}{\numberline {4.4}Work plan}{34}{section.4.4}
+\contentsline {subsection}{\numberline {3.5.3}Timetable scheduling}{25}{subsection.3.5.3}
+\contentsline {section}{\numberline {3.6}Section 6: Issues and problems in WSN}{26}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Outlier and outlier detection}{26}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Literature review of Outlier detection in WSN}{27}{subsection.3.6.2}
+\contentsline {subsubsection}{\numberline {3.6.2.1}Motivation}{28}{subsubsection.3.6.2.1}
+\contentsline {subsubsection}{\numberline {3.6.2.2}Research areas}{28}{subsubsection.3.6.2.2}
+\contentsline {subsubsection}{\numberline {3.6.2.3}Challenges}{28}{subsubsection.3.6.2.3}
+\contentsline {subsection}{\numberline {3.6.3}Taxonomy of Outlier Detection Techniques}{29}{subsection.3.6.3}
+\contentsline {chapter}{\numberline {4}Methodology and Work Plan}{30}{chapter.4}
+\contentsline {section}{\numberline {4.1}Architecture of proposed work}{30}{section.4.1}
+\contentsline {section}{\numberline {4.2}Non-intrusive self-powered sensor node}{31}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Purpose}{31}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Contributions}{32}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Methodology}{32}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Simulation tools and frameworks}{33}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Preliminary work: evaluation of the non-intrusive voltage sensor}{33}{subsection.4.2.5}
+\contentsline {section}{\numberline {4.3}RTS wireless network}{35}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Purpose}{35}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Contribution}{35}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Methodology}{35}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Simulation tools and frameworks}{35}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Preliminary work: implementation of a point-to-point communication between a moving train and a station}{36}{subsection.4.3.5}
+\contentsline {section}{\numberline {4.4}Work plan}{36}{section.4.4}

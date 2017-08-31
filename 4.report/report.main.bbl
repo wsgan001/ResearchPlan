@@ -97,12 +97,33 @@ Dalessandro, L., N.~Karrer, and J.~W. Kolar (2007, Sept).
 \newblock {\em IEEE Transactions on Power Electronics\/}~{\em 22\/}(5),
   1682--1692.
 
+\bibitem[\protect\citeauthoryear{D{'}Ariano}{D{'}Ariano}{2009}]{dariano2009}
+D{'}Ariano, A. ({2009}, {WIN}).
+\newblock {Innovative Decision Support System for Railway Traffic Control}.
+\newblock {\em {IEEE INTELLIGENT TRANSPORTATION SYSTEMS MAGAZINE}\/}~{\em
+  {1}\/}({4}), {8--16}.
+
+\bibitem[\protect\citeauthoryear{Freling, Lentink, and Wagelmans}{Freling
+  et~al.}{2004}]{freling2004}
+Freling, R., R.~Lentink, and A.~Wagelmans ({2004}, {MAR}).
+\newblock {A decision support system for crew planning in passenger
+  transportation using a flexible branch-and-price algorithm}.
+\newblock {\em {ANNALS OF OPERATIONS RESEARCH}\/}~{\em {127}\/}({1-4}),
+  {203--222}.
+
 \bibitem[\protect\citeauthoryear{Ghorbel, Ayedi, Snoussi, and Abid}{Ghorbel
   et~al.}{2015}]{stat:ghorbel:2015}
 Ghorbel, O., W.~Ayedi, H.~Snoussi, and M.~Abid (2015, jun).
 \newblock Fast and efficient outlier detection method in wireless sensor
   networks.
 \newblock {\em {IEEE} Sensors Journal\/}~{\em 15\/}(6), 3403--3411.
+
+\bibitem[\protect\citeauthoryear{Guler}{Guler}{2013}]{guler2013}
+Guler, H. ({2013}, {MAY-JUN}).
+\newblock {Decision Support System for Railway Track Maintenance and Renewal
+  Management}.
+\newblock {\em {JOURNAL OF COMPUTING IN CIVIL ENGINEERING}\/}~{\em
+  {27}\/}({3}), {292--306}.
 
 \bibitem[\protect\citeauthoryear{Hackmann}{Hackmann}{2006}]{Hackmann2006}
 Hackmann, G. (2006).
@@ -113,6 +134,27 @@ IEEE (2016).
 \newblock {\textit{Wireless LAN Medium Access Control (MAC) and Physical Layer
   (PHY) Specifications}}.
 \newblock IEEE Std. 802.11-2016.
+
+\bibitem[\protect\citeauthoryear{Krasemann}{Krasemann}{2012}]{krasemann2012}
+Krasemann, J.~T. ({2012}, {FEB}).
+\newblock {Design of an effective algorithm for fast response to the
+  re-scheduling of railway traffic during disturbances}.
+\newblock {\em {TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES}\/}~{\em
+  {20}\/}({1, SI}), {62--78}.
+
+\bibitem[\protect\citeauthoryear{L.~S.~Pontryagin}{L.~S.~Pontryagin}{1963}]{pontryagin1963}
+L.~S.~Pontryagin, V. G.~Boltyanskii, R. V. G. E. F.~M. (1963).
+\newblock The mathematical theory of optimal processes.
+\newblock {\em ZAMM - Journal of Applied Mathematics and Mechanics\/}~{\em
+  43\/}(10-11), 514--515.
+
+\bibitem[\protect\citeauthoryear{Lai and Barkan}{Lai and
+  Barkan}{2011}]{lai2011}
+Lai, Y.-C. and C.~P.~L. Barkan ({2011}, {OCT}).
+\newblock {Comprehensive Decision Support Framework for Strategic Railway
+  Capacity Planning}.
+\newblock {\em {JOURNAL OF TRANSPORTATION ENGINEERING-ASCE}\/}~{\em
+  {137}\/}({10}), {738--749}.
 
 \bibitem[\protect\citeauthoryear{Liran, Mingli, and Kejian}{Liran
   et~al.}{2014}]{liran2014}
@@ -209,6 +251,13 @@ Reddy, K.~S., M.~Kumar, T.~K. Mallick, H.~Sharon, and S.~Lokeswaran (2014).
 Santschi, C. and J.-P. Braun (2015).
 \newblock The certification of railway electricity meters.
 \newblock Technical report, METAS - Federal Institute of Metrology.
+
+\bibitem[\protect\citeauthoryear{Scheepmaker, Goverde, and Kroon}{Scheepmaker
+  et~al.}{2017}]{scheepmaker2017}
+Scheepmaker, G.~M., R.~M. Goverde, and L.~G. Kroon (2017).
+\newblock Review of energy-efficient train control and timetabling.
+\newblock {\em European Journal of Operational Research\/}~{\em 257\/}(2), 355
+  -- 376.
 
 \bibitem[\protect\citeauthoryear{Seppo and Elektraflex}{Seppo and
   Elektraflex}{2012}]{Seppo2012}
