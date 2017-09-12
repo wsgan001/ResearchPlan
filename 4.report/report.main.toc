@@ -13,13 +13,13 @@
 \contentsline {subsection}{\numberline {3.1.2}Railway Power Supply System}{6}{subsection.3.1.2}
 \contentsline {paragraph}{1. DC supply system\\}{6}{subsection.3.1.2}
 \contentsline {paragraph}{2. AC 50Hz (or 60Hz) supply system\\}{7}{figure.caption.6}
-\contentsline {paragraph}{3. AC 16.7Hz supply systems\\}{7}{figure.caption.6}
+\contentsline {paragraph}{3. AC 16.7Hz supply systems\\}{7}{figure.caption.7}
 \contentsline {subsection}{\numberline {3.1.3}Train Power Supply System}{7}{subsection.3.1.3}
-\contentsline {paragraph}{1. DC supply system\\}{7}{subsection.3.1.3}
-\contentsline {paragraph}{2. AC supply system\\}{8}{figure.caption.8}
-\contentsline {paragraph}{3. Diesel-electric supply system\\}{8}{figure.caption.9}
-\contentsline {subsection}{\numberline {3.1.4}Train Power Components}{8}{subsection.3.1.4}
-\contentsline {paragraph}{1. Pantograph\\}{8}{subsection.3.1.4}
+\contentsline {paragraph}{1. DC supply system\\}{8}{subsection.3.1.3}
+\contentsline {paragraph}{2. AC supply system\\}{8}{figure.caption.9}
+\contentsline {paragraph}{3. Diesel-electric supply system\\}{8}{figure.caption.10}
+\contentsline {subsection}{\numberline {3.1.4}Train Power Components}{9}{subsection.3.1.4}
+\contentsline {paragraph}{1. Pantograph\\}{9}{subsection.3.1.4}
 \contentsline {paragraph}{2. Surge Arrester\\}{9}{subsection.3.1.4}
 \contentsline {paragraph}{3. High-speed Circuit Breaker\\}{9}{subsection.3.1.4}
 \contentsline {paragraph}{4. Low frequency Traction Transformer\\}{9}{subsection.3.1.4}
@@ -33,6 +33,7 @@
 \contentsline {subsection}{\numberline {3.2.1}Electric Energy Overview}{10}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}Current transducers and voltage transducers}{11}{subsection.3.2.2}
 \contentsline {subsection}{\numberline {3.2.3}Energy measurement in RTS}{11}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Energy measurement function}{12}{subsection.3.2.4}
 \contentsline {section}{\numberline {3.3}Section 3: Wireless networks}{13}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Network technologies \IeC {\textendash } historic overview}{13}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Current Wireless technologies and standards}{13}{subsection.3.3.2}
@@ -48,8 +49,8 @@
 \contentsline {subsubsection}{\numberline {3.3.3.1}IEEE 802.15}{16}{subsubsection.3.3.3.1}
 \contentsline {subsubsection}{\numberline {3.3.3.2}802.15.4-based wireless standards}{17}{subsubsection.3.3.3.2}
 \contentsline {subsection}{\numberline {3.3.4}Communication KPI\IeC {\textquoteright }s}{17}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}Emerging Technologies and Research Trends}{18}{subsection.3.3.5}
-\contentsline {subsection}{\numberline {3.3.6}Network Simulators and Network Emulators}{18}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.5}Network Simulators and Network Emulators}{18}{subsection.3.3.5}
+\contentsline {subsubsection}{\numberline {3.3.5.1}Evaluation of network tools}{20}{subsubsection.3.3.5.1}
 \contentsline {section}{\numberline {3.4}Section 4: Smart metering}{21}{section.3.4}
 \contentsline {subsection}{\numberline {3.4.1}Smart grids and the need for smart meters}{21}{subsection.3.4.1}
 \contentsline {subsection}{\numberline {3.4.2}Features of Smart Meters and metering systems}{21}{subsection.3.4.2}

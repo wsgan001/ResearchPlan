@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.6)  4 SEP 2017 15:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.6)  13 SEP 2017 10:53
 entering extended mode
 **./report.main.tex
 (report.main.tex
@@ -2117,30 +2117,22 @@ Overfull \hbox (25.6084pt too wide) in paragraph at lines 5--19
  [][][] 
  []
 
-) <figures/31.PowerS/abad2016.pdf, id=357, 313.6764pt x 317.14882pt>
+) <figures/31.PowerS/abad2016.pdf, id=357, 313.65181pt x 317.12076pt>
 File: figures/31.PowerS/abad2016.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/abad2016.pdf>
 Package pdftex.def Info: figures/31.PowerS/abad2016.pdf used on input line 29.
-(pdftex.def)             Requested size: 298.75264pt x 302.07848pt.
+(pdftex.def)             Requested size: 298.75264pt x 302.08078pt.
  [5
 
 ]
-<figures/31.PowerS/abad2016b.pdf, id=370, 244.2726pt x 132.68773pt>
-File: figures/31.PowerS/abad2016b.pdf Graphic file (type pdf)
-
-<use figures/31.PowerS/abad2016b.pdf>
-Package pdftex.def Info: figures/31.PowerS/abad2016b.pdf used on input line 66.
-
-(pdftex.def)             Requested size: 213.39568pt x 115.91722pt.
-
-<figures/31.PowerS/abad2016f.pdf, id=375, 296.31424pt x 172.46414pt>
+<figures/31.PowerS/abad2016f.pdf, id=369, 296.31424pt x 172.46414pt>
 File: figures/31.PowerS/abad2016f.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/abad2016f.pdf>
-Package pdftex.def Info: figures/31.PowerS/abad2016f.pdf used on input line 74.
+Package pdftex.def Info: figures/31.PowerS/abad2016f.pdf used on input line 87.
 
-(pdftex.def)             Requested size: 170.71393pt x 99.36084pt.
+(pdftex.def)             Requested size: 204.8627pt x 119.23459pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2149,52 +2141,22 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Underfull \vbox (badness 3323) has occurred while \output is active []
 
  [6 <./figures/31.PowerS/abad2016.pdf>]
-<figures/31.PowerS/abad2016d.pdf, id=395, 369.23532pt x 127.32253pt>
+<figures/31.PowerS/abad2016d.pdf, id=388, 369.23532pt x 127.32253pt>
 File: figures/31.PowerS/abad2016d.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/abad2016d.pdf>
-Package pdftex.def Info: figures/31.PowerS/abad2016d.pdf used on input line 97.
+Package pdftex.def Info: figures/31.PowerS/abad2016d.pdf used on input line 107
+.
+(pdftex.def)             Requested size: 204.8627pt x 70.64151pt.
 
-(pdftex.def)             Requested size: 192.0548pt x 66.22556pt.
-
-Underfull \hbox (badness 1565) in paragraph at lines 99--99
-[]\T1/jkp/m/n/10 Figure 3.4: |50Hz 25kV sup-ply sys-tem.
- []
-
-<figures/31.PowerS/abad2016e.pdf, id=400, 373.86523pt x 144.6847pt>
+<figures/31.PowerS/abad2016e.pdf, id=394, 373.86523pt x 144.6847pt>
 File: figures/31.PowerS/abad2016e.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/abad2016e.pdf>
-Package pdftex.def Info: figures/31.PowerS/abad2016e.pdf used on input line 105
+Package pdftex.def Info: figures/31.PowerS/abad2016e.pdf used on input line 123
 .
-(pdftex.def)             Requested size: 192.0548pt x 74.32468pt.
-
-<figures/31.PowerS/abad2016c.pdf, id=406, 400.70424pt x 191.34549pt>
-File: figures/31.PowerS/abad2016c.pdf Graphic file (type pdf)
-
-<use figures/31.PowerS/abad2016c.pdf>
-Package pdftex.def Info: figures/31.PowerS/abad2016c.pdf used on input line 126
-.
-(pdftex.def)             Requested size: 277.41176pt x 132.47523pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<figures/31.PowerS/abad2016g.pdf, id=412, 432.82423pt x 176.5153pt>
-File: figures/31.PowerS/abad2016g.pdf Graphic file (type pdf)
-
-<use figures/31.PowerS/abad2016g.pdf>
-Package pdftex.def Info: figures/31.PowerS/abad2016g.pdf used on input line 138
-.
-(pdftex.def)             Requested size: 277.41176pt x 113.13638pt.
-
-Underfull \vbox (badness 1454) has occurred while \output is active []
-
- [7 <./figures/31.PowerS/abad2016b.pdf> <./figures/31.PowerS/abad2016f.pdf
-
-pdfTeX warning: pdflatex.exe (file ./figures/31.PowerS/abad2016f.pdf): PDF incl
-usion: multiple pdfs with page group included in a single page
-> <./figures/31.PowerS/abad2016d.pdf
+(pdftex.def)             Requested size: 204.8627pt x 79.28098pt.
+ [7 <./figures/31.PowerS/abad2016f.pdf> <./figures/31.PowerS/abad2016d.pdf
 
 pdfTeX warning: pdflatex.exe (file ./figures/31.PowerS/abad2016d.pdf): PDF incl
 usion: multiple pdfs with page group included in a single page
@@ -2202,23 +2164,40 @@ usion: multiple pdfs with page group included in a single page
 
 pdfTeX warning: pdflatex.exe (file ./figures/31.PowerS/abad2016e.pdf): PDF incl
 usion: multiple pdfs with page group included in a single page
->] <figures/31.PowerS/abad2016h.pdf, id=450, 270.00072pt x 89.61479pt>
-File: figures/31.PowerS/abad2016h.pdf Graphic file (type pdf)
+>] <figures/31.PowerS/steimel2008a.pdf, id=426, 192.38274pt x 79.85835pt>
+File: figures/31.PowerS/steimel2008a.pdf Graphic file (type pdf)
 
-<use figures/31.PowerS/abad2016h.pdf>
-Package pdftex.def Info: figures/31.PowerS/abad2016h.pdf used on input line 149
-.
-(pdftex.def)             Requested size: 234.73654pt x 77.90953pt.
- [8 <./figures/31.PowerS/abad2016c.pdf> <./figures/31.PowerS/abad2016g.pdf
+<use figures/31.PowerS/steimel2008a.pdf>
+Package pdftex.def Info: figures/31.PowerS/steimel2008a.pdf used on input line 
+168.
+(pdftex.def)             Requested size: 204.8627pt x 85.0418pt.
 
-pdfTeX warning: pdflatex.exe (file ./figures/31.PowerS/abad2016g.pdf): PDF incl
-usion: multiple pdfs with page group included in a single page
-> <./figures/31.PowerS/abad2016h.pdf
+<figures/31.PowerS/steimel2008b.pdf, id=432, 191.22641pt x 77.90706pt>
+File: figures/31.PowerS/steimel2008b.pdf Graphic file (type pdf)
 
-pdfTeX warning: pdflatex.exe (file ./figures/31.PowerS/abad2016h.pdf): PDF incl
-usion: multiple pdfs with page group included in a single page
+<use figures/31.PowerS/steimel2008b.pdf>
+Package pdftex.def Info: figures/31.PowerS/steimel2008b.pdf used on input line 
+184.
+(pdftex.def)             Requested size: 204.8627pt x 83.4655pt.
+
+<figures/31.PowerS/steimel2008c.pdf, id=438, 199.89882pt x 63.95895pt>
+File: figures/31.PowerS/steimel2008c.pdf Graphic file (type pdf)
+
+<use figures/31.PowerS/steimel2008c.pdf>
+Package pdftex.def Info: figures/31.PowerS/steimel2008c.pdf used on input line 
+202.
+(pdftex.def)             Requested size: 204.8627pt x 65.54955pt.
+ [8 <./figures/31.PowerS/steimel2008a.pdf> <./figures/31.PowerS/steimel2008b.pd
+f
+
+pdfTeX warning: pdflatex.exe (file ./figures/31.PowerS/steimel2008b.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+> <./figures/31.PowerS/steimel2008c.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/31.PowerS/steimel2008c.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
 >]) [9] (chapters/32.EnergyS.tex
-<figures/32.EnergyS/traction.pdf, id=489, 316.00659pt x 168.8689pt>
+<figures/32.EnergyS/traction.pdf, id=479, 316.00659pt x 168.8689pt>
 File: figures/32.EnergyS/traction.pdf Graphic file (type pdf)
 
 <use figures/32.EnergyS/traction.pdf>
@@ -2226,7 +2205,7 @@ Package pdftex.def Info: figures/32.EnergyS/traction.pdf used on input line 25.
 
 (pdftex.def)             Requested size: 204.85802pt x 109.4723pt.
 
-<figures/32.EnergyS/generation.pdf, id=490, 316.00659pt x 168.8689pt>
+<figures/32.EnergyS/generation.pdf, id=480, 316.00659pt x 168.8689pt>
 File: figures/32.EnergyS/generation.pdf Graphic file (type pdf)
 
 <use figures/32.EnergyS/generation.pdf>
@@ -2234,7 +2213,7 @@ Package pdftex.def Info: figures/32.EnergyS/generation.pdf used on input line 3
 3.
 (pdftex.def)             Requested size: 204.85802pt x 109.4723pt.
 
-<figures/32.EnergyS/liran2014.pdf, id=492, 230.90265pt x 137.45753pt>
+<figures/32.EnergyS/liran2014.pdf, id=482, 230.90265pt x 137.45753pt>
 File: figures/32.EnergyS/liran2014.pdf Graphic file (type pdf)
 
 <use figures/32.EnergyS/liran2014.pdf>
@@ -2248,15 +2227,27 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 63.
 
-[11] <figures/32.EnergyS/ecos.pdf, id=546, 190.35918pt x 195.77943pt>
+[11] <figures/32.EnergyS/ecos.pdf, id=536, 190.35918pt x 195.77943pt>
 File: figures/32.EnergyS/ecos.pdf Graphic file (type pdf)
 
 <use figures/32.EnergyS/ecos.pdf>
-Package pdftex.def Info: figures/32.EnergyS/ecos.pdf used on input line 105.
-(pdftex.def)             Requested size: 213.39568pt x 219.48654pt.
-) [12 <./figures/32.EnergyS/ecos.pdf>]
-(chapters/33.WirelessN.tex
-<figures/33.WirelessN/comer2008.pdf, id=563, 387.94536pt x 207.27036pt>
+Package pdftex.def Info: figures/32.EnergyS/ecos.pdf used on input line 107.
+(pdftex.def)             Requested size: 119.5041pt x 122.90852pt.
+
+<figures/32.EnergyS/energy_calculation.pdf, id=538, 424.36943pt x 283.87657pt>
+File: figures/32.EnergyS/energy_calculation.pdf Graphic file (type pdf)
+
+<use figures/32.EnergyS/energy_calculation.pdf>
+Package pdftex.def Info: figures/32.EnergyS/energy_calculation.pdf used on inpu
+t line 125.
+(pdftex.def)             Requested size: 341.43437pt x 228.4097pt.
+) [12 <./figures/32.EnergyS/ecos.pdf> <./figures/32.EnergyS/energy_calculation.
+pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/32.EnergyS/energy_calculation.pdf)
+: PDF inclusion: multiple pdfs with page group included in a single page
+>] (chapters/33.WirelessN.tex
+<figures/33.WirelessN/comer2008.pdf, id=564, 387.94536pt x 207.27036pt>
 File: figures/33.WirelessN/comer2008.pdf Graphic file (type pdf)
 
 <use figures/33.WirelessN/comer2008.pdf>
@@ -2264,58 +2255,58 @@ Package pdftex.def Info: figures/33.WirelessN/comer2008.pdf used on input line
 34.
 (pdftex.def)             Requested size: 341.43437pt x 182.42377pt.
  [13 <./figures/33.WirelessN/comer2008.pdf>] [14] [15] <figures/nancy2014.png, 
-id=625, 1118.67938pt x 577.40718pt>
+id=627, 1118.67938pt x 577.40718pt>
 File: figures/nancy2014.png Graphic file (type png)
 
 <use figures/nancy2014.png>
-Package pdftex.def Info: figures/nancy2014.png used on input line 125.
+Package pdftex.def Info: figures/nancy2014.png used on input line 111.
 (pdftex.def)             Requested size: 469.47308pt x 242.31554pt.
 
-Overfull \hbox (42.68173pt too wide) in paragraph at lines 125--126
+Overfull \hbox (42.68173pt too wide) in paragraph at lines 111--112
  [][] 
  []
 
-[16 <./figures/nancy2014.png>]
-<figures/radmand2010.png, id=642, 534.49687pt x 352.31625pt>
+<figures/radmand2010.png, id=636, 534.49687pt x 352.31625pt>
 File: figures/radmand2010.png Graphic file (type png)
 
 <use figures/radmand2010.png>
-Package pdftex.def Info: figures/radmand2010.png used on input line 152.
+Package pdftex.def Info: figures/radmand2010.png used on input line 138.
 (pdftex.def)             Requested size: 256.07741pt x 168.79807pt.
-
-Overfull \hbox (1.42397pt too wide) in paragraph at lines 168--169
+ [16 <./figures/nancy2014.png>]
+Overfull \hbox (1.42397pt too wide) in paragraph at lines 154--155
 []\T1/jkp/m/n/10 This KPI is not di-rectly re-lated with the com-mu-ni-ca-tion 
 link. How-
  []
 
 
-Overfull \hbox (2.27798pt too wide) in paragraph at lines 170--171
+Overfull \hbox (2.27798pt too wide) in paragraph at lines 156--157
 \T1/jkp/m/n/10 sup-ports the data trans-fer with a given re-li-a-bil-ity and in
  spe-cific con-di-tions (in-door/outdoor;
  []
 
 [17 <./figures/radmand2010.png>]
-<figures/simul_VS_emul.png, id=656, 935.495pt x 305.14pt>
+<figures/simul_VS_emul.png, id=658, 935.495pt x 305.14pt>
 File: figures/simul_VS_emul.png Graphic file (type png)
 
 <use figures/simul_VS_emul.png>
-Package pdftex.def Info: figures/simul_VS_emul.png used on input line 197.
+Package pdftex.def Info: figures/simul_VS_emul.png used on input line 175.
 (pdftex.def)             Requested size: 426.79135pt x 139.2114pt.
  [18 <./figures/simul_VS_emul.png>]
-Overfull \hbox (5.86797pt too wide) in paragraph at lines 296--298
+Overfull \hbox (5.86797pt too wide) in paragraph at lines 274--276
 []\T1/jkp/m/n/10 This Java-based sim-u-la-tor was made to pro-vide a sim-u-la-t
 ion and proof-of-concept
  []
 
-[19]) [20] (chapters/34.SmartM.tex [21] [22]
-<figures/EMS.png, id=715, 813.0375pt x 429.605pt>
-File: figures/EMS.png Graphic file (type png)
- <use figures/EMS.png>
-Package pdftex.def Info: figures/EMS.png used on input line 75.
-(pdftex.def)             Requested size: 362.77525pt x 191.6882pt.
+[19]) [20] (chapters/34.SmartM.tex [21]
+<figures/34.SmartM/EMS.png, id=710, 813.0375pt x 429.605pt>
+File: figures/34.SmartM/EMS.png Graphic file (type png)
 
-[23 <./figures/EMS.png>]) [24] (chapters/35.DSS.tex
-<figures/35.DSS/scheepmaker2017a.pdf, id=745, 256.41396pt x 152.63423pt>
+<use figures/34.SmartM/EMS.png>
+Package pdftex.def Info: figures/34.SmartM/EMS.png used on input line 75.
+(pdftex.def)             Requested size: 426.79135pt x 225.51321pt.
+ [22] [23 <./figures/34.SmartM/EMS.png>])
+[24] (chapters/35.DSS.tex
+<figures/35.DSS/scheepmaker2017a.pdf, id=748, 256.41396pt x 152.63423pt>
 File: figures/35.DSS/scheepmaker2017a.pdf Graphic file (type pdf)
 
 <use figures/35.DSS/scheepmaker2017a.pdf>
@@ -2327,7 +2318,7 @@ Package pdftex.def Info: figures/35.DSS/scheepmaker2017a.pdf used on input line
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [25]) [26 <./figures/35.DSS/scheepmaker2017a.pdf>] (chapters/36.OutlierD.tex
-<figures/general.png, id=783, 4979.60374pt x 3319.40125pt>
+<figures/general.png, id=786, 4979.60374pt x 3319.40125pt>
 File: figures/general.png Graphic file (type png)
 
 <use figures/general.png>
@@ -2345,14 +2336,14 @@ Overfull \hbox (0.10779pt too wide) in paragraph at lines 64--65
 [28 <./figures/general.png (PNG copy)>] [29]) [30]
 Chapter 4.
 (chapters/4.Methodology.tex
-<figures/4.Method/pyramid.png, id=846, 2903.84875pt x 2867.71375pt>
+<figures/4.Method/pyramid.png, id=849, 2903.84875pt x 2867.71375pt>
 File: figures/4.Method/pyramid.png Graphic file (type png)
 
 <use figures/4.Method/pyramid.png>
 Package pdftex.def Info: figures/4.Method/pyramid.png used on input line 16.
 (pdftex.def)             Requested size: 128.0387pt x 126.41608pt.
 
-<figures/4.Method/data_flow.png, id=848, 6516.345pt x 741.77126pt>
+<figures/4.Method/data_flow.png, id=851, 6516.345pt x 741.77126pt>
 File: figures/4.Method/data_flow.png Graphic file (type png)
 
 <use figures/4.Method/data_flow.png>
@@ -2374,7 +2365,7 @@ nverted-to.pdf figures/architecture.eps>
 (epstopdf)             \includegraphics on input line 39.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/architecture-eps-converted-to.pdf, id=859, 543.02875pt x 228.855pt>
+<figures/architecture-eps-converted-to.pdf, id=862, 543.02875pt x 228.855pt>
 File: figures/architecture-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/architecture-eps-converted-to.pdf>
@@ -2382,7 +2373,7 @@ Package pdftex.def Info: figures/architecture-eps-converted-to.pdf used on inpu
 t line 39.
 (pdftex.def)             Requested size: 426.79135pt x 179.87505pt.
  [32 <./figures/architecture-eps-converted-to.pdf>]
-<figures/4.Method/powerSensing.pdf, id=884, 7050.34pt x 7132.6475pt>
+<figures/4.Method/powerSensing.pdf, id=887, 7050.34pt x 7132.6475pt>
 File: figures/4.Method/powerSensing.pdf Graphic file (type pdf)
 
 <use figures/4.Method/powerSensing.pdf>
@@ -2390,7 +2381,7 @@ Package pdftex.def Info: figures/4.Method/powerSensing.pdf used on input line 7
 1.
 (pdftex.def)             Requested size: 298.75264pt x 302.23563pt.
  [33 <./figures/4.Method/powerSensing.pdf>] <figures/4.Method/methodElectrical.
-pdf, id=900, 8868.13126pt x 4653.385pt>
+pdf, id=903, 8868.13126pt x 4653.385pt>
 File: figures/4.Method/methodElectrical.pdf Graphic file (type pdf)
 
 <use figures/4.Method/methodElectrical.pdf>
@@ -2398,7 +2389,7 @@ Package pdftex.def Info: figures/4.Method/methodElectrical.pdf used on input li
 ne 101.
 (pdftex.def)             Requested size: 384.1096pt x 201.51175pt.
 
-<figures/4.Method/voltage_sensor.jpg, id=911, 730.22812pt x 508.90125pt>
+<figures/4.Method/voltage_sensor.jpg, id=914, 730.22812pt x 508.90125pt>
 File: figures/4.Method/voltage_sensor.jpg Graphic file (type jpg)
 
 <use figures/4.Method/voltage_sensor.jpg>
@@ -2406,7 +2397,7 @@ Package pdftex.def Info: figures/4.Method/voltage_sensor.jpg used on input line
  131.
 (pdftex.def)             Requested size: 153.64441pt x 107.07431pt.
 
-<figures/4.Method/voltage_sensor_eq.pdf, id=912, 148.94847pt x 92.57787pt>
+<figures/4.Method/voltage_sensor_eq.pdf, id=915, 148.94847pt x 92.57787pt>
 File: figures/4.Method/voltage_sensor_eq.pdf Graphic file (type pdf)
 
 <use figures/4.Method/voltage_sensor_eq.pdf>
@@ -2419,7 +2410,7 @@ Underfull \hbox (badness 2753) in paragraph at lines 141--141
  []
 
 [34 <./figures/4.Method/methodElectrical.pdf>]
-<figures/4.Method/scope_0.png, id=931, 803.0pt x 504.88625pt>
+<figures/4.Method/scope_0.png, id=934, 803.0pt x 504.88625pt>
 File: figures/4.Method/scope_0.png Graphic file (type png)
 
 <use figures/4.Method/scope_0.png>
@@ -2430,7 +2421,7 @@ Underfull \hbox (badness 1052) in paragraph at lines 157--157
 []\T1/jkp/m/n/10 Figure 4.8: |Wave-forms of ac-quired and
  []
 
-<figures/4.Method/scope_2.png, id=932, 803.0pt x 504.88625pt>
+<figures/4.Method/scope_2.png, id=935, 803.0pt x 504.88625pt>
 File: figures/4.Method/scope_2.png Graphic file (type png)
 
 <use figures/4.Method/scope_2.png>
@@ -2446,7 +2437,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [35 <./figures/4.Method/voltage_sensor.jpg> <./figures/4.Method/voltage_sensor
 _eq.pdf> <./figures/4.Method/scope_0.png (PNG copy)> <./figures/4.Method/scope_
-2.png (PNG copy)>] <figures/4.Method/methodWireless.pdf, id=949, 9170.26pt x 46
+2.png (PNG copy)>] <figures/4.Method/methodWireless.pdf, id=952, 9170.26pt x 46
 53.385pt>
 File: figures/4.Method/methodWireless.pdf Graphic file (type pdf)
 
@@ -2489,14 +2480,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
 Package rerunfilecheck Info: File `report.main.out' has not changed.
-(rerunfilecheck)             Checksum: 169A1BBD4746135ECDF81048B6EED83D;4500.
+(rerunfilecheck)             Checksum: F24CBC0187C8860C95E264D0EBFDDE18;4486.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
  ) 
 Here is how much of TeX's memory you used:
- 32041 strings out of 493333
- 579654 string characters out of 3139189
- 749923 words of memory out of 3000000
- 34682 multiletter control sequences out of 15000+200000
+ 32051 strings out of 493333
+ 579981 string characters out of 3139189
+ 750079 words of memory out of 3000000
+ 34687 multiletter control sequences out of 15000+200000
  146879 words of font info for 128 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,12n,77p,10426b,1175s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2513,9 +2504,9 @@ ts/type1/public/kpfonts/jkpmn8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
 blic/kpfonts/jkpmne.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts
 /jkpmsc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpssbsc8
 a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/kpfonts/jkpttmn8a.pfb>
-Output written on report.main.pdf (47 pages, 11642378 bytes).
+Output written on report.main.pdf (47 pages, 11266804 bytes).
 PDF statistics:
- 1072 PDF objects out of 1200 (max. 8388607)
- 188 named destinations out of 1000 (max. 500000)
+ 1075 PDF objects out of 1200 (max. 8388607)
+ 192 named destinations out of 1000 (max. 500000)
  592 words of extra memory for PDF output out of 10000 (max. 10000000)
 

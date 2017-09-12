@@ -65,27 +65,13 @@ On the low-rate field of research, an alternative to Zigbee is the DASH7. Using 
 
 \subsubsection{6LoWPAN}
 
-IEEE 802.15.3: IEEE 802.15.3 [46] is a physical and MAC
-layer standard for high data rate WPAN. It is designed to
-support real-time multi-media streaming of video and music.
-IEEE 802.15.3 operates on a 2.4 GHz radio and has data
-rates starting from 11 Mbps to 55 Mbps
+This IETF development group promotes specifications for the usage of IPv6 on IEEE 802.15.4 networks. It allows the connection between low-power devices to IP networks, with the usage of fragmentation and compression of messages. In conclusion, 6LoWPAN creates an adaptation layer between the IEEE 802.15.4 and IPv6.
+
+
 
 \subsubsection{Wibree}
 
-Wibree [47] is a wireless communication technology
-designed for low power consumption, short-range
-communication, and low cost devices. Wibree allows the
-communication between small battery-powered devices
-and Bluetooth devices. Small battery powered devices include
-watches, wireless keyboard, and sports sensors
-which connect to host devices such as personal computer
-or cellular phones. Wibree operates on 2.4 GHz and has a
-data rate of 1 Mbps. The linking distance between the devices
-is 5–10 m. Wibree is designed to work with Bluetooth.
-Bluetooth with Wibree makes the devices smaller
-and more energy-efficient. Bluetooth–Wibree utilizes the existing Bluetooth RF and enables ultra-low power consumption.
-Wibree was released publicly in October 2006.
+This wireless communication technology is designed for low power consumption and short-range communication. It is designed to work with Bluetooth and, the Bluetooth-Wibree depends on the existing Bluetooth RF and allows ultra-low power consumption.
 
 
 \subsubsection{Industrial Wireless Communications: WirelessHART and ISA100.11a}
@@ -173,30 +159,22 @@ According to \cite{Radmand2010}, it is identified the following "Industrial Requ
 	
 \end{description}
 
-\subsection{Emerging Technologies and Research Trends}
+%\subsection{Emerging Technologies and Research Trends}
 
-ver livro khan
+%%ver livro khan
 
 \subsection{Network Simulators and Network Emulators}
 
-Several techniques have been introduced for performance evaluation of protocols and algorithms in USN, including analytical modeling,
-simulation, emulation, testbed, and real-world experimentation (Imran
-et al., 2010). Analytical models are a set of equations that represent the
-performance of a system. Although analytical models simplify the
-modeling procedure, they cannot accurately represent the inherent
-complexity of sensor networks (Krop, 2007). Simulation has been cited
-as the most frequent and effective method for designing and developing
-network protocols and algorithms (Imran et al., 2010). By using
-simulators various scenarios of the real environment can be modeled.
-Also, they provide the possibility of testing and debugging protocols at
-any stage of design. Emulation, as a hybrid method, is a combination of
-hardware and software components accompanying simulation possibilities for network modeling (Kiess and Mauve, 2007). 
+
+In this subsection is covered the network simulators. The usage of network simulators allows the modeling of various scenarios of real environment. However, pure network simulators avoids the interaction with real environment, which leads space for network emulators, as a hybrid method to combine simulation capabilities with hardware and software components of real networks. Therefore, in this subsection is referred the simulators that allows integration with hardware and software network components, to have an overview on the network emulators.
+
+In figure \ref{fig:simul_VS_emul} is presented the framework on the mechanisms to evaluate the performance of networks.
 
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=1\textwidth,keepaspectratio]{figures/simul_VS_emul}
 	\caption{Simulation \& emulation framework.}
-	
+	\label{fig:simul_VS_emul}
 \end{figure}
 
 An extensive review on simulation tools, made by \cite{nayyar2015}, is presented as following:
@@ -209,7 +187,7 @@ An extensive review on simulation tools, made by \cite{nayyar2015}, is presented
 	
 	%%2
 	\item [NS-3 (network simulator-3)] 
-	Written in pure C++, this simulator has been extensively explored in the literature with various modules like 802.15.4, 6LoWPAN and RPL available.
+	Written in pure C++, this simulator has been extensively explored in the literature with various modules like 802.15.4, 6LoWPAN and RPL available. With the usage of ns-3 in emulation mode, the implementation of real testbeds can be validated since it is possible to generate repeatable experimental results, with the usage of real-world network environment that includes all of the ns-3 tracing, logging, visualization and statistics gathering tools.
 	
 	%%3
 	\item [OMNET++] 
@@ -297,7 +275,7 @@ An extensive review on simulation tools, made by \cite{nayyar2015}, is presented
 	Latest version was released in 2011.
 	
 	%%24
-	\item [WSim/Worldsens Simulater/WSNet Simulator]
+	\item [WSim/Worldsens Simulator/WSNet Simulator]
 	This simulator states for being an event-driven simulator for large scale wireless networks. Latest version was released in 2009.
 
 	%%25
@@ -331,7 +309,17 @@ An extensive review on simulation tools, made by \cite{nayyar2015}, is presented
 \end{description}
 
 
+\subsubsection{Evaluation of network tools}
 
+In the previous list, several tools for the evaluation of network performance was presented. Special attention is given for the tools that has large support either for implementation of several network technologies (wired and wireless) and, with this requirement, the following network simulators will be considered for further research:
+	
+\begin{itemize}
+	\setlength\itemsep{-0.5em}
+	\item NS-3;
+	\item OMNET++;
+	\item QualNet 7.0 + EXata 5;
+	\item MatLab Simulink;
+\end{itemize}
 
 
 
