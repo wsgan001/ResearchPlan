@@ -9,7 +9,7 @@
   number        = {6},
   pages         = {1356},
   __markedentry = {[VMORAIS:1]},
-  file          = {:3.EnergyS\\Feng2017.pdf:PDF},
+  file          = {:32.EnergyS\\Feng2017.pdf:PDF},
   publisher     = {Multidisciplinary Digital Publishing Institute},
 }
 
@@ -32,7 +32,7 @@
   month     = {Dec},
   abstract  = {Hall-effect current sensors are widely used in industrial applications. Characterization of their steady state, dynamic capabilities and thermal endurance verification is important to ensure the sensor performance. It is shown that an H-bridge inverter topology with an RCD snubber, packaged as proposed, can be used for large signal sinusoidal current characterization and step current characterization of the current sensor. Analytical expression of step current is derived and used to produce rising and falling step excitation with controlled peak value and transition time. A hybrid PWM technique with a frequency adaptive proportional-resonant current controller is used to produce large magnitude sinusoidal current with controlled frequency and magnitude. Using IGBT and MOSFET legs in the H-bridge reduces overall power consumption of the current source during sinusoidal current generation. The hardware is fabricated in the laboratory, and its performance is validated using high bandwidth current probe.},
   doi       = {10.1109/PEDES.2014.7042086},
-  file      = {:3.EnergyS\\Kumar2014.pdf:PDF},
+  file      = {:32.EnergyS\\Kumar2014.pdf:PDF},
   keywords  = {MOSFET;PWM invertors;PWM power convertors;adaptive control;electric current control;frequency control;frequency convertors;insulated gate bipolar transistors;power consumption;proportional control;H-bridge inverter topology;IGBT;MOSFET;RCD snubber;frequency adaptive proportional-resonant current controller;frequency control;hall-effect current sensor characterization;hardware fabrication;high bandwidth current probe;hybrid PWM technique;large magnitude sinusoidal current;large signal sinusoidal current characterization;magnitude control;power consumption reduction;power electronic converter;sinusoidal current generation;step current characterization;step excitation;thermal endurance verification;Frequency control;Insulated gate bipolar transistors;MOSFET;Sensor phenomena and characterization;Snubbers;Thermal sensors;Current sensor characterization;Hall-effect current sensor;current source;frequency adaptive PR current controller;power converter;step current, rank1},
 }
 
@@ -47,7 +47,7 @@
   month    = {Sept},
   issn     = {0885-8993},
   doi      = {10.1109/TPEL.2007.904198},
-  file     = {:3.EnergyS\\Dalessandro2007.pdf:PDF},
+  file     = {:32.EnergyS\\Dalessandro2007.pdf:PDF},
   keywords = {current transformers;electric sensing devices;finite element analysis;power electronics;Hall-effect element;current step response;finite-element simulations;frequency bandwidth;high-performance planar isolated current sensor;magnetic current transformer;power electronics;Bandwidth;Costs;Current transformers;Electromagnetic interference;Frequency;Linearity;Magnetic analysis;Magnetic sensors;Power electronics;Robustness;Current measurement;Hall-effect sensor;current transformer;permeance-capacitance analogy},
 }
 
@@ -62,7 +62,7 @@
   note          = {cited By 19},
   document_type = {Article},
   doi           = {10.1109/TPEL.2004.830075},
-  file          = {:3.EnergyS\\mcneill2004.pdf:PDF},
+  file          = {:32.EnergyS\\mcneill2004.pdf:PDF},
   keywords      = {rank2},
   source        = {Scopus},
   url           = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-3843128616&doi=10.1109%2fTPEL.2004.830075&partnerID=40&md5=467780a995d884671406e8d5b03d1c5b},
@@ -77,7 +77,7 @@
   pages     = {105-109},
   month     = {Dec},
   doi       = {10.1109/PEITS.2009.5406806},
-  file      = {:3.EnergyS\\Jian2009.pdf:PDF},
+  file      = {:32.EnergyS\\Jian2009.pdf:PDF},
   keywords  = {current transformers;distribution networks;network topology;power supply quality;circuit topology;compact design;current transformer;distribution automation systems;feeder switches;feeding power supply;insulation design;minimum primary current;Automation;Capacitors;Current transformers;Intelligent transportation systems;Power supplies;Power transformer insulation;Pulse width modulation;Switches;Switching converters;Voltage transformers;DC-DC converters;PWM regulation;current transformers;distribution automation;switching converters},
 }
 
@@ -88,6 +88,24 @@
   author    = {Pallàs-Areny, R. and Webster, J.G.},
   isbn      = {9781118585931},
   url       = {https://books.google.pt/books?id=BDmQDQAAQBAJ},
+}
+
+@TechReport{EN50463,
+  title       = {Railway Applications - Energy Measurement on Board Trains},
+  institution = {European Committee for Electrotechnical Standardization},
+  year        = {2012},
+  type        = {Standard},
+  address     = {Brussels, Belgium},
+  key         = {CENELEC EN50463},
+}
+
+@TechReport{EN50155,
+  title       = {Railway Applications - Electronic equipment used on rolling stock},
+  institution = {European Committee for Electrotechnical Standardization},
+  year        = {2007},
+  type        = {Standard},
+  address     = {Brussels, Belgium},
+  key         = {CENELEC EN50155},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

@@ -59,4 +59,59 @@
   keywords  = {field programmable gate arrays;microcontrollers;photovoltaic power systems;power generation control;power grids;power system transients;wind power plants;FPGA;battery storage;distributed control architectures;electric grid connection;energy sources;field programmable gate arrays;global control;microcontroller;photovoltaic energy;renewable energy system;wind energy;Energy storage;Field programmable gate arrays;Frequency estimation;Generators;Phase locked loops;Renewable energy sources;Voltage control;AC-DC converter;Digital control;FPGA;Renewable energy;Sensorless control},
 }
 
+@InProceedings{ahola2008,
+  author       = {Ahola, J and Ahonen, T and Sarkimaki, V and Kosonen, A and Tamminen, J and Tiainen, R and Lindh, T},
+  title        = {Design considerations for current transformer based energy harvesting for electronics attached to electric motor},
+  booktitle    = {Power Electronics, Electrical Drives, Automation and Motion, 2008. SPEEDAM 2008. International Symposium on},
+  year         = {2008},
+  pages        = {901--905},
+  organization = {IEEE},
+  file         = {:4.Method\\ahola2008.pdf:PDF},
+}
+
+@Article{moon2015,
+  author   = {J. Moon and S. B. Leeb},
+  title    = {Analysis Model for Magnetic Energy Harvesters},
+  journal  = {IEEE Transactions on Power Electronics},
+  year     = {2015},
+  volume   = {30},
+  number   = {8},
+  pages    = {4302-4311},
+  month    = {Aug},
+  issn     = {0885-8993},
+  doi      = {10.1109/TPEL.2014.2357448},
+  file     = {:4.Method\\moon2015.pdf:PDF},
+  keywords = {current transformers;electric sensing devices;energy harvesting;magnetic sensors;batteries;control elements;current sensing;current transformer;custom wiring;design optimization;line cycle;magnetic energy harvester analysis model;magnetic fields;power harvesting maximization;power line;power transfer window;self-powered sensor node;sensor package;Current transformers;IP networks;Mathematical model;Saturation magnetization;Sensors;Transformer cores;Energy;harvest;inductor;magnetic;nonideal;nonlinear;power;saturation;transfer window;transformer},
+}
+
+@Article{amaro2015,
+  author   = {J. P. Amaro and R. Cortesão and J. Landeck and F. J. T. E. Ferreira},
+  title    = {Harvested Power Wireless Sensor Network Solution for Disaggregated Current Estimation in Large Buildings},
+  journal  = {IEEE Transactions on Instrumentation and Measurement},
+  year     = {2015},
+  volume   = {64},
+  number   = {7},
+  pages    = {1847-1857},
+  month    = {July},
+  issn     = {0018-9456},
+  doi      = {10.1109/TIM.2014.2383052},
+  file     = {:4.Method\\amaro2015.pdf:PDF},
+  keywords = {Zigbee;buildings (structures);current transformers;energy consumption;energy harvesting;wireless sensor networks;SCCT;WSN;Zigbee nodes;battery-free wireless node;complex communication software stack;contactless power source;disaggregated consumption monitoring;disaggregated electrical energy monitoring;energy saving strategies;global electrical energy consumption;harvested power wireless sensor network solution;large service buildings;self-powered battery-free current sensor node;split-core toroidal coil current transformer;Capacitors;Coils;Current measurement;SPICE;Toroidal magnetic fields;Wireless sensor networks;Zigbee;Current;IEEE 802.15 standards;Zigbee;Zigbee.;energy harvesting;estimation;wireless sensor networks},
+}
+
+@Article{wu2013,
+  author   = {Z. Wu and Y. Wen and P. Li},
+  title    = {A Power Supply of Self-Powered Online Monitoring Systems for Power Cords},
+  journal  = {IEEE Transactions on Energy Conversion},
+  year     = {2013},
+  volume   = {28},
+  number   = {4},
+  pages    = {921-928},
+  month    = {Dec},
+  issn     = {0885-8969},
+  doi      = {10.1109/TEC.2013.2281075},
+  file     = {:4.Method\\wu2013.pdf:PDF},
+  keywords = {energy harvesting;magnetic cores;measurement systems;overvoltage protection;power supply circuits;voltage regulators;C-cores;CMEH;coil-based magnetic energy harvester;low dropout regulator unit function;magnetic core;magnetic field;magnetic flux leakage;overvoltage protective unit;power cords;power management;power supply circuit;self-powered online monitoring systems;supercapacitor;tooth profile;wire-carrying currents;Energy harvesting;Magnetic cores;Magnetic flux leakage;Monitoring;Power supplies;Supercapacitors;Voltage control;Low dropout regulator;magnetic energy harvester;magnetic flux leakage;online monitoring system;power cord;power supply},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

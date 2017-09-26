@@ -1,0 +1,45 @@
+% Encoding: UTF-8
+
+@Article{brunelli2016,
+  author   = {Brunelli, Davide and Villani, Clemente and Balsamo, Domenico and Benini, Luca},
+  title    = {Non-invasive voltage measurement in a three-phase autonomous meter},
+  journal  = {Microsystem Technologies},
+  year     = {2016},
+  volume   = {22},
+  number   = {7},
+  pages    = {1915--1926},
+  month    = {Jul},
+  issn     = {1432-1858},
+  abstract = {Monitoring current and voltage waveforms is essential to evaluate the energy consumption of a system and to improve its efficiency. In this paper we present a smart meter for power consumption which can measure both current and voltage without any physical contact to the electric load or to the conductors of the power cables. This makes the power metering much safer and easier; furthermore an energy harvesting module based on inductive coupling provides power supply to the meter without any need of batteries or plugs to the mains. We describe the innovative contact-less voltage measurement system, which is based on capacitive coupling and uses an algorithm with two pre-processing channels for self-calibration and to provide accurate measurements regardless the cable type. The three-phase version is capable of measuring the three-phase power consumption of an electric load in a complete contact-less manner. In comparison with commercial high-cost instruments, experimental results of our low-cost smart meter demonstrate similar high performance with maximum 3 {\%} deviation from the reference value.},
+  day      = {01},
+  doi      = {10.1007/s00542-016-2890-7},
+  file     = {:4.Method\\brunelli2016.pdf:PDF},
+  url      = {https://doi.org/10.1007/s00542-016-2890-7},
+}
+
+@InProceedings{martins2016,
+  author    = {A. Martins and V. Morais and M. Ferreira and A. Carvalho},
+  title     = {Control architecture based on {FPGA} for a renewable energy system},
+  booktitle = {IECON 2016 - 42nd Annual Conference of the IEEE Industrial Electronics Society},
+  year      = {2016},
+  pages     = {4048-4053},
+  month     = {Oct},
+  doi       = {10.1109/IECON.2016.7793902},
+  file      = {:4.Method\\martins2016.pdf:PDF},
+  keywords  = {field programmable gate arrays;microcontrollers;photovoltaic power systems;power generation control;power grids;power system transients;wind power plants;FPGA;battery storage;distributed control architectures;electric grid connection;energy sources;field programmable gate arrays;global control;microcontroller;photovoltaic energy;renewable energy system;wind energy;Energy storage;Field programmable gate arrays;Frequency estimation;Generators;Phase locked loops;Renewable energy sources;Voltage control;AC-DC converter;Digital control;FPGA;Renewable energy;Sensorless control},
+}
+
+@InProceedings{noori2013,
+  author    = {H. Noori and M. Valkama},
+  title     = {Impact of VANET-based V2X communication using IEEE 802.11p on reducing vehicles traveling time in realistic large scale urban area},
+  booktitle = {2013 International Conference on Connected Vehicles and Expo (ICCVE)},
+  year      = {2013},
+  pages     = {654-661},
+  month     = {Dec},
+  doi       = {10.1109/ICCVE.2013.6799873},
+  file      = {:5.Preliminary\\noori2013.pdf:PDF},
+  issn      = {2378-1289},
+  keywords  = {automobiles;intelligent transportation systems;road traffic;telecommunication network planning;telecommunication network routing;vehicular ad hoc networks;wireless LAN;CTT;I2V communication;IEEE 802.11p standard;ITS;OMNET++;RSU;SUMO;V2I communication;V2V communication;VANET;VANET-based V2X communication;car to car communication;current traveling time;dynamic route planning;intelligent transportation systems;large scale urban area;microscopic traffic simulation;real-time monitoring;real-time traffic information;roadside units;traffic monitoring;vehicle to infrastructure communication;vehicle to vehicle communication;vehicle traveling time reduction;Cities and towns;Planning;Real-time systems;Roads;Vehicle dynamics;Vehicles;802.11p;Dynamic Route Planning;Intelligent Transportation Systems (ITSs);OMNET++;SUMO;VANET;Veins;vehicle-to-infrastructure communications(V2I);vehicle-to-vehicle communication (V2V)},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

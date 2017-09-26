@@ -34,6 +34,14 @@ Almagro, F. and A.~Marano (2017).
   Transportation Electrification Conference}.
 \newblock cited By 0.
 
+\bibitem[\protect\citeauthoryear{Amaro, Cortesão, Landeck, and Ferreira}{Amaro
+  et~al.}{2015}]{amaro2015}
+Amaro, J.~P., R.~Cortesão, J.~Landeck, and F.~J. T.~E. Ferreira (2015, July).
+\newblock Harvested power wireless sensor network solution for disaggregated
+  current estimation in large buildings.
+\newblock {\em IEEE Transactions on Instrumentation and Measurement\/}~{\em
+  64\/}(7), 1847--1857.
+
 \bibitem[\protect\citeauthoryear{Birol and Loubinoux}{Birol and
   Loubinoux}{2016}]{iea-uic2016}
 Birol, F. and J.-P. Loubinoux (2016).
@@ -55,6 +63,18 @@ Branch, J., B.~Szymanski, C.~Giannella, R.~Wolff, and H.~Kargupta (2006).
 Brunelli, D., C.~Villani, D.~Balsamo, and L.~Benini (2016, Jul).
 \newblock Non-invasive voltage measurement in a three-phase autonomous meter.
 \newblock {\em Microsystem Technologies\/}~{\em 22\/}(7), 1915--1926.
+
+\bibitem[\protect\citeauthoryear{??}{CENELEC EN50155}{2007}]{EN50155}
+CENELEC EN50155 (2007).
+\newblock Railway applications - electronic equipment used on rolling stock.
+\newblock Standard, European Committee for Electrotechnical Standardization,
+  Brussels, Belgium.
+
+\bibitem[\protect\citeauthoryear{??}{CENELEC EN50463}{2012}]{EN50463}
+CENELEC EN50463 (2012).
+\newblock Railway applications - energy measurement on board trains.
+\newblock Standard, European Committee for Electrotechnical Standardization,
+  Brussels, Belgium.
 
 \bibitem[\protect\citeauthoryear{Chandola, Banerjee, and Kumar}{Chandola
   et~al.}{2009}]{gen:chandola:2009}
@@ -115,6 +135,12 @@ Freling, R., R.~Lentink, and A.~Wagelmans ({2004}, {MAR}).
   transportation using a flexible branch-and-price algorithm}.
 \newblock {\em {ANNALS OF OPERATIONS RESEARCH}\/}~{\em {127}\/}({1-4}),
   {203--222}.
+
+\bibitem[\protect\citeauthoryear{Gatti and Ghelardini}{Gatti and
+  Ghelardini}{2011}]{gatti2011}
+Gatti, A. and A.~Ghelardini (2011).
+\newblock The european energy measurement system on board of trains.
+\newblock In {\em Procedings of World Congres on Railway Research 2011}.
 
 \bibitem[\protect\citeauthoryear{Ghorbel, Ayedi, Snoussi, and Abid}{Ghorbel
   et~al.}{2015}]{stat:ghorbel:2015}
@@ -192,6 +218,12 @@ Mohassel, R.~R., A.~Fung, F.~Mohammadi, and K.~Raahemifar (2014).
 \newblock {\em INTERNATIONAL JOURNAL OF ELECTRICAL POWER AND ENERGY
   SYSTEMS\/}~{\em 63}, 473--484.
 
+\bibitem[\protect\citeauthoryear{Moon and Leeb}{Moon and Leeb}{2015}]{moon2015}
+Moon, J. and S.~B. Leeb (2015, Aug).
+\newblock Analysis model for magnetic energy harvesters.
+\newblock {\em IEEE Transactions on Power Electronics\/}~{\em 30\/}(8),
+  4302--4311.
+
 \bibitem[\protect\citeauthoryear{Nayyar and Singh}{Nayyar and
   Singh}{2015}]{nayyar2015}
 Nayyar, A. and R.~Singh (2015).
@@ -199,6 +231,14 @@ Nayyar, A. and R.~Singh (2015).
   networks (wsns).
 \newblock {\em Journal of Wireless Networking and Communications\/}~{\em
   5\/}(1), 19--47.
+
+\bibitem[\protect\citeauthoryear{Noori and Valkama}{Noori and
+  Valkama}{2013}]{noori2013}
+Noori, H. and M.~Valkama (2013, Dec).
+\newblock Impact of vanet-based v2x communication using ieee 802.11p on
+  reducing vehicles traveling time in realistic large scale urban area.
+\newblock In {\em 2013 International Conference on Connected Vehicles and Expo
+  (ICCVE)}, pp.\  654--661.
 
 \bibitem[\protect\citeauthoryear{Pallàs-Areny and Webster}{Pallàs-Areny and
   Webster}{2012}]{webster2012}
@@ -312,6 +352,13 @@ Usman, A. and S.~Haider (2013).
 \newblock {Evolution of Communication Technologies for Smart Grid
   applications}.
 \newblock {\em Renewable and Sustainable Energy Reviews\/}~{\em 19}, 191--199.
+
+\bibitem[\protect\citeauthoryear{Wu, Wen, and Li}{Wu et~al.}{2013}]{wu2013}
+Wu, Z., Y.~Wen, and P.~Li (2013, Dec).
+\newblock A power supply of self-powered online monitoring systems for power
+  cords.
+\newblock {\em IEEE Transactions on Energy Conversion\/}~{\em 28\/}(4),
+  921--928.
 
 \bibitem[\protect\citeauthoryear{Zhang, Meratnia, and Havinga}{Zhang
   et~al.}{2010}]{gen:zhang:2010}

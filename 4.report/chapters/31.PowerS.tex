@@ -96,7 +96,7 @@ The DC supply system depends on rectifier converters (controlled or uncontrolled
 
 \paragraph{2. AC 50Hz (or 60Hz) supply system\\}
 
-With AC catenaries, low frequency single-phase transformer is required to step down the catenary voltage (25 kV or 15 kV) to the rectifier operating voltage (the rectifier is a single-phase voltage source converter, usually with bi-directional power flow).
+With AC catenaries, low frequency single-phase on-board transformer is required to step down the catenary voltage (25 kV or 15 kV) to the rectifier operating voltage (the rectifier is a single-phase voltage source converter, usually with bi-directional power flow).
 
 On the traction substation, a special setup of power transformers avoids the usage of complete power converters. In figure \ref{fig:abad2016d} is presented the substation setup to supply a single-phase 50Hz catenary.
 
@@ -208,6 +208,16 @@ An important market share in railway traction is occupied by diesel trains. This
 
 \subsection{Train Power Components}
 \label{subs:314}
+
+In figure \ref{fig:train_finale}, the train power components are illustrated.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=\textwidth,keepaspectratio]{figures/31.PowerS/train_finale}
+	\caption{Train Power Components.}
+	\label{fig:train_finale}
+\end{figure}
+
 \paragraph{1. Pantograph\\}
 
 	The pantograph is a device capable of maintain an electrical contact between train and catenary while in motion.
@@ -230,7 +240,8 @@ An important market share in railway traction is occupied by diesel trains. This
 
 \paragraph{6. Filter Inductor and DC-link Capacitor\\}
 
-	Coupled with electronic power converters/inverters, the filter inductor and DC-link capacitor allows the rectification of the AC voltage into DC. (?)
+	The filter inductor and DC-link capacitor are part of the power converter box. These devices are responsible for the filtration of the DC waveforms.
+%	Coupled with electronic power converters/inverters, the filter inductor and DC-link capacitor allows the rectification of the AC voltage into DC. (?)
 	
 \paragraph{7. Power Semiconductors\\}
 

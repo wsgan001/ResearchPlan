@@ -32,6 +32,15 @@ I'm skipping whatever remains of this entry
 Database file #7: bib/35.DSS.bib
 Database file #8: bib/36.OutlierD.bib
 Database file #9: bib/4.Method.bib
+Database file #10: bib/5.Preliminary.bib
+Repeated entry---line 3 of file bib/5.Preliminary.bib
+ : @article{brunelli2016
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 20 of file bib/5.Preliminary.bib
+ : @inproceedings{martins2016
+ :                           ,
+I'm skipping whatever remains of this entry
 Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
 while executing---line 1563 of file chicago.bst
 Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
@@ -62,6 +71,8 @@ Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agi
 while executing---line 1563 of file chicago.bst
 Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
 while executing---line 1563 of file chicago.bst
+Warning--no author, editor, or organization in EN50463
+Warning--no author, editor, or organization in EN50155
 Name 1 in "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," has a comma at the end for entry pontryagin1963
 while executing---line 1563 of file chicago.bst
 Too many commas in name 1 of "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," for entry pontryagin1963
@@ -114,6 +125,10 @@ Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agi
 while executing---line 1608 of file chicago.bst
 Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
 while executing---line 1608 of file chicago.bst
+Warning--no author, editor, or organization in EN50155
+Warning--no author, editor, or organization in EN50155
+Warning--no author, editor, or organization in EN50463
+Warning--no author, editor, or organization in EN50463
 Name 1 in "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," has a comma at the end for entry pontryagin1963
 while executing---line 1608 of file chicago.bst
 Too many commas in name 1 of "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," for entry pontryagin1963
@@ -161,6 +176,10 @@ while executing---line 1645 of file chicago.bst
 Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
 while executing---line 1645 of file chicago.bst
 Warning--can't use both author and editor fields in abad2016
+Warning--no author, editor, or organization in EN50155
+Warning--empty author in EN50155
+Warning--no author, editor, or organization in EN50463
+Warning--empty author in EN50463
 Warning--empty booktitle in Hackmann2006
 Name 1 in "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," has a comma at the end for entry pontryagin1963
 while executing---line 1645 of file chicago.bst
@@ -176,4 +195,4 @@ Too many commas in name 1 of "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrel
 while executing---line 1645 of file chicago.bst
 Warning--no number and no volume in Seppo2012
 Warning--page numbers missing in Seppo2012
-(There were 75 error messages)
+(There were 77 error messages)

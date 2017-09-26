@@ -2,13 +2,16 @@
 
 This chapter presents the methodology that is intended to be adopted in the development of this PhD thesis. Based on the methodology and expected contributions, a work plan for the upcoming years is presented.
 
-In section \ref{sec:41} is presented an overview of the architecture of proposed work. In sections \ref{sec:42} and \ref{sec:43}, the methodology and expected contributions are detailed. In section \ref{sec:44} is presented the workplan.
+In section \ref{sec:41} is presented an overview of the architecture of proposed work. In sections \ref{sec:42} and \ref{sec:43}, the methodology and expected contributions are detailed.
+In section \ref{sec:44} is presented the workplan.
 
 \section{Architecture of proposed work}
 \label{sec:41}
 
 
-Framed in this PhD work, a smart metering system can be divided in four major areas, as represented in figure \ref{fig:41topLevel}. On lower level, the needed data is \textbf{measured} (such as voltages, currents and so on). Based on this measurements, \textbf{information} can be obtained (such as power, energy, power factor, GPS location). This information can be stored in databases and, a further step is on the analysis of this information towards obtaining \textbf{knowledge} that can be used in a \textbf{Decision Support System} (DSS).
+Framed in this PhD work, a smart metering system can be divided in four major areas, as represented in figure \ref{fig:41topLevel}. On lower level, the needed data is \textbf{measured} (such as voltages, currents and so on).
+Based on this measurements, \textbf{information} can be obtained (such as power, energy, power factor, GPS location).
+This information can be stored in databases and, a further step is on the analysis of this information towards obtaining \textbf{knowledge} that can be used in a \textbf{Decision Support System} (DSS).
 
 \begin{figure}[h!]
 	\centering
@@ -18,7 +21,8 @@ Framed in this PhD work, a smart metering system can be divided in four major ar
 	\label{fig:41topLevel}
 \end{figure}
 
-This work will focus on the first two levels of the smart metering system pyramid. Therefore the energy data must be acquired, processed, transmitted and stored in a centralized database, as represented in figure \ref{fig:41dataFlow}.
+This work will focus on the two lower levels of the smart metering system pyramid. 
+Therefore the energy data must be acquired, processed, transmitted and stored in a centralized database, as represented in figure \ref{fig:41dataFlow}.
 
 \begin{figure}[h!]
 	\centering
@@ -28,9 +32,15 @@ This work will focus on the first two levels of the smart metering system pyrami
 \end{figure}
 
 
-For the acquisition part, a non-intrusive self-powered sensor node will be studied. The processing part depends on an accurate knowledge of the catenary and the traction transformer, which depends on train GPS location and power flow conditions. These two parts are further detailed in the methodology and expected contributions of section \ref{sec:42}.
+A distributed sensor network to perform the acquisition of the energy measurements in each of the transformer's secondary windings is, at this moment, of advanced interest.
+For the acquisition part, a non-intrusive self-powered sensor node will be considered.
+The processing part depends on an accurate knowledge of the modeling parameters of the catenary and the traction transformer, which depends on train GPS location and power flow conditions. 
+It is expected that each of the sensor node contributes to this processing part.
+These two parts are further detailed in the methodology and expected contributions of section \ref{sec:42}.
 
-The definition of the processing part will validate if the proposed acquisition architecture has enough support. At this moment a solution with only a current sensor, for the acquisition in each transformer's secondary, is of advanced interest. 
+%The definition of the processing part will validate if the proposed acquisition architecture has enough support.
+
+% At this moment a solution with only a current sensor, for the acquisition in each transformer's secondary, is of advanced interest. 
 
 The transmission of the generated information to a centralized storage is further detailed in section \ref{sec:43}. Several models will be considered for accurate simulation of such transmission network. The overall architecture of the system is presented in figure \ref{fig:41architecture}.
 
@@ -57,12 +67,12 @@ The transmission of the generated information to a centralized storage is furthe
 
 The purpose of this section is to cover the acquisition and processing parts of the data-flow presented previously. As a starting point, a non-intrusive and self-powered sensor node allows the measurement of AC currents in all transformer secondary windings, as illustrated in figure \ref{fig:4.powerSensing}. This figure is based on the 3400 series train topology of \textit{Comboios de Portugal} (CP) used in urban services.
 
-Based on the field measurements, a data concentrator will receive the current values from each sensor node. This data concentrator generates information based on the estimation of the AC grid voltage and the acquisition of GPS location, as proposed by the European Commission regulation No 1301/2014. For each time-stamp, the active and reactive power is calculated and transmitted together with the geographical position.
+Based on the field measurements, a data concentrator will receive the current and voltage measurements from each sensor node. This data concentrator generates information based on the needed estimations and the acquisition of GPS location, as proposed by the European Commission regulation No 1301/2014. For each time-stamp, the active and reactive power is calculated and transmitted together with the geographical position.
 
 In the scope of Shift2Rail, is expected to develop a smart metering system for RTS. Assuming that a non-intrusive measurement system is of extreme interest, this proposal of a non-intrusive and self powered sensor node goes along the goals of Shif2Rail.
 
 On the field of measurement, non-intrusive technical solutions has been used for several years for current measurement, such as hall-effect current sensors, rogowsky probes or current transformers.
-For self-powering purposes, some studies on using current transformers for energy harvesting has been proposed in the literature (\cite{ahola2008}, \cite{brunelli2016}, MAIS PAPERS).
+For self-powering purposes, some studies on using current transformers for energy harvesting has been proposed in the literature (\cite{ahola2008}, \cite{wu2013}, \cite{moon2015}, \cite{amaro2015}, \cite{brunelli2016}).
 
 
 \begin{figure}[h!]
@@ -75,22 +85,15 @@ For self-powering purposes, some studies on using current transformers for energ
 
 
 
-\subsection{Contributions}
 
-\begin{itemize}
-	\setlength\itemsep{0em}
-	\item New energy metering architecture using a non-intrusive approach.
-	
-	\item Accurate estimation of injected power into catenary, that is needed for train operation, based on on-board measurements.
-
-\end{itemize}
 
 
 \subsection{Methodology}
 
 The methodology is divided into two parts. The first part will be related to the processing of the data generated by the sensor nodes and the second part is the definition of the sensor itself.
 
-As a starting point of the methodology, it is expected to work on the \textbf{development of models} similar to the ones presented in figure \ref{fig:4.methodElectrical}. The modeling of such architecture allows the evaluation of the power contribution of a train, at a certain instant, to the power injected to the catenary. This methodology will contribute to \textbf{implementation of processing algorithms} in the train data concentrator that, based on the measurement of AC secondary winding's voltages and currents, will generate the accurate value of the energy injected in the catenary by the traction substation. The expected result will be the comparison between the estimation and the measured injected power in the catenary.
+As a starting point of the methodology, it is expected to work on the \textbf{development of models using simulation frameworks} similar to the ones presented in figure \ref{fig:4.methodElectrical}. The modeling of such architecture allows the evaluation of the power contribution of a train, at a certain instant, to the power injected to the catenary. This methodology will contribute to \textbf{simulation and implementation of processing algorithms} in the train data concentrator that, based on the measurement of AC secondary winding's voltages and currents, will generate the accurate value of the energy injected in the catenary by the traction substation. The expected result will be the comparison and validation of the energy injected into the catenary (retrieved from the traction substation meter) and the estimated energy (as the outcome of this part of work).
+%The expected result will be the comparison between the estimation and the measured injected energy in the catenary.
 
 In this second part of the methodology, or the acquisition part, the sensor will be defined and validated. As a first step in the methodology, using Ansys or similar Finit Element Method (FEM) software, the \textbf{current and electric field of one winding will be simulated}. With the results of this simulation, the current and voltage sensors will be evaluated. In a further step, \textbf{real experiments on low voltage test-bench} will test the proposed sensor node.
 
@@ -112,65 +115,29 @@ In this second part of the methodology, or the acquisition part, the sensor will
 Mathworks suggests also the usage of \textbf{MatLAB and Simulink} for rail electrical systems modeling. 
 Similarly, \textbf{Ansys} products are suggested for the simulation of railway power systems as well as \textbf{PSIM}. The three previously presented products are also flexible to work in co-simulation, with the advantage of choosing the best software for the most straightforward application.
 
-\subsection{Preliminary work: evaluation of the non-intrusive voltage sensor}
 
-	A critical issue is identified as the measurement of voltage waveforms using a non-intrusive approach. 
-	The work of \cite{brunelli2016} presents a possible non-intrusive voltage measurement for energy meters.
-	In this work is referred that, for the authors knowledge, there is no commercially available non-intrusive sensor for voltage measurement in low-voltage wires (230-400 VAC). 
-	Despite that, some studies are proposed in the literature for extra/high-voltage monitoring systems based on a capacitive cell.
+	\subsection{Contributions}
 	
-	Based on the solution of \cite{brunelli2016}, a voltage sensor was implemented/tested, as presented in figure \ref{fig:4.voltage_sensor}, with the equivalent circuit in \ref{fig:4.voltage_sensor_eq}. 
+	On the energy measurement and information generation of the sensor nodes, two contributions can be considered as follows:
 	
-	
-	
-	\begin{figure}[h!]
-		\centering
-		\begin{minipage}{.45\textwidth}
-			\centering
-			%		\vspace{2.5em}
-			\includegraphics[width=0.8\textwidth,keepaspectratio]{figures/4.Method/voltage_sensor}
-			%		\vspace{2em}
-			\captionof{figure}{Photo of implemented non-intrusive voltage sensor.}
-			\label{fig:4.voltage_sensor}
-		\end{minipage}%
-		\begin{minipage}{.03\textwidth}  ~\end{minipage}	
-		\begin{minipage}{.45\textwidth}
-			\centering
-			\includegraphics[width=0.9\textwidth,keepaspectratio]{figures/4.Method/voltage_sensor_eq}
-			%		\vspace{2em}
-			\captionof{figure}{Equivalent circuit of non-intrusive voltage sensor.}
-			\label{fig:4.voltage_sensor_eq}
-		\end{minipage}
-	\end{figure}
+	\begin{itemize}
+		\setlength\itemsep{0em}
+		
+		\item \textbf{New energy metering architecture}, according to some specifications such as the usage of a non-intrusive approach.
+		This architecture will generate energy information about the powerflow of the railway system.
+		
+		\item \textbf{Accurate estimation of power flow} into catenary, based on on-board measurements. The available parameters will be: (1) the RMS voltage, current and apparent power, (2) the instantaneous active power, reactive power, power factor and frequency, and (3) the cumulative energy consumptions in terms of kVAh, kVARh and KWh.
+		
+		
+	\end{itemize}
 
-	
-	To evaluate this sensor, two tests was performed: one with normal conditions of the grid, and other near a Voltage Source Converter (VSC), respectively in figure \ref{fig:4.scope_0} and \ref{fig:4.scope_2}. 
-	The VSC is connected to the grid with a low-frequency transformer, which results in a line-to-line voltage of 200V (RMS) in the VSC, \cite{martins2016}.
-	
-		\begin{figure}[h!]
-		\centering
-		\begin{minipage}{.45\textwidth}
-			\centering
-			%		\vspace{2.5em}
-			\includegraphics[width=\textwidth,keepaspectratio]{figures/4.Method/scope_0}
-			%		\vspace{2em}
-			\captionof{figure}{Waveforms of acquired and sensed voltages in normal conditions: (orange) AC main voltage and (blue) voltage in sensor.}
-			\label{fig:4.scope_0}
-		\end{minipage}%
-		\begin{minipage}{.03\textwidth}  ~\end{minipage}	
-		\begin{minipage}{.45\textwidth}
-			\centering
-			\includegraphics[width=\textwidth,keepaspectratio]{figures/4.Method/scope_2}
-			%		\vspace{2em}
-			\captionof{figure}{Waveforms of acquired and sensed voltages in inverter: (orange) AC main voltage and (blue) voltage in sensor.}
-			\label{fig:4.scope_2}
-		\end{minipage}
-	\end{figure}
-
-	The purpose of this preliminary work is to evaluate if this solution presented in the state of the art is feasible to be implemented in an environment with huge amount of noise. At first evaluation the answer is negative, due to the need of extra work to estimate the voltage using the blue waveform of figure \ref{fig:4.scope_2}.
-	If it is possible to extract the voltage waveform, this can be considered as a contribution to the field of voltage measurement in noisy environments, and in particular, in the railway environment.
-	Therefore and as previously presented in the second part of the methodology, the future work will start with the simulation of the electric field in a wire subjected to a VSC and the implementation of a solution that extracts the "real" voltage from the signal of the voltage sensor.
-	
+%	\begin{itemize}
+%		\setlength\itemsep{0em}
+%		\item New energy metering architecture using a non-intrusive approach.
+%		
+%		\item Accurate estimation of injected power into catenary, that is needed for train operation, based on on-board measurements.
+%		
+%	\end{itemize}
 	
 %%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%
@@ -184,30 +151,19 @@ Similarly, \textbf{Ansys} products are suggested for the simulation of railway p
 The main purpose of the RTS wireless network is to transmit energy measurements and information generated by the nodes to a centralized storage server. 
 
 As a lower level and as previously presented, each train has current sensors as nodes and a data concentrator. Between nodes and data concentrator, AC voltage and current measurements must be exchanged.
-At this level, the relevant issue will be the energy consumption of nodes.
+At this level, the relevant issue will be the presence of EMI, that will affect the communication link.
 
 Between train data concentrator and ground-level, the train movement should be considered to better comply with the purpose of transmission the information generated at trains to the centralized storage server. 
 
 Further modeling and simulation of a WSN for energy measurement of RTS rolling stock will be made.
 
-\subsection{Contribution}
-%An energy measurement system in rolling stock does not require a broadband real-time/continuous communication (such as LTE), being possible to collect and store data in train data concentrator and, while the train is waiting at station for passenger exchange (which lasts for less than one minute), the data is transferred between train and station AP (and then to a remote server). Therefore, the contribution will be the cost reduction of information transmission of energy sensor network data
 
-\begin{itemize}
-	\setlength\itemsep{0em}
-	
-	\item As a starting point, one contribution will be the availability of measured data from trains where currently no energy measurement is performed.
-	
-	\item A second contribution will be the data-rate increasing of energy measurements, which will result on direct increase on the quality of information of energy.
-	
-	\item A further contribution can be the avoidance of broadband real-time/continuous communication (such as LTE), being possible to collect and store data in train data concentrator and, while the train is waiting at stations, the data is transferred between train and station AP (and then to a remote server). A possible contribution will be the cost reduction of information transmission of energy sensor network data.
-\end{itemize}
 
 \subsection{Methodology}
 
 The methodology for this part will include the \textbf{modeling and simulation} of network blocks similar to the ones presented in figure \ref{fig:4.methodWireless}. An accurate modeling and simulation will define the more appropriate network technologies to implement in this RTS network. 
 The simulation will be performed in a NS-3 simulator or similar.
-The \textbf{results} of such simulation will define the max data-rate of the sensor nodes as well as the energy consumption required for the information transmission.
+The \textbf{results} of such simulation will define the max data-rate of the sensor nodes as well as the nodes energy consumption required for the information transmission.
 
 \begin{figure}[h!]
 	\centering
@@ -221,15 +177,45 @@ The \textbf{results} of such simulation will define the max data-rate of the sen
 Several simulators/emulators were presented in the literature review chapter. From those, special attention is given to the NS-3 simulator and the MatLAB/Simulink tool.  
 %<<necessário avaliar melhor os restantes candidatos>>
 
-\subsection{Preliminary work: implementation of a point-to-point communication between a moving train and a station}
 
+\subsection{Contribution}
+%An energy measurement system in rolling stock does not require a broadband real-time/continuous communication (such as LTE), being possible to collect and store data in train data concentrator and, while the train is waiting at station for passenger exchange (which lasts for less than one minute), the data is transferred between train and station AP (and then to a remote server). Therefore, the contribution will be the cost reduction of information transmission of energy sensor network data
 
+Regarding the energy information transmission and storage into centralized database, the following contributions are expected:
 
+\begin{itemize}
+	\setlength\itemsep{0em}
+	
+	\item \textbf{Availability of measured data} from trains where currently limited/inexistent energy measurement is performed.
+	
+	\item Data-rate increase of energy measurements, which will result on direct \textbf{increase on the quality of information of energy}. This increase will overcome the 5 minute data-rate that currently are used in energy meters.
+	
+\end{itemize}
+
+A further contribution can be the reduction of the dependence of broadband real-time/continuous communication (such as LTE), with the direct cost reduction of information transmission of energy RTS data.
+
+%\begin{itemize}
+%	\setlength\itemsep{0em}
+	
+%	\item As a starting point, one contribution will be the availability of measured data from trains where currently no energy measurement is performed.
+	
+%	\item A second contribution will be the data-rate increasing of energy measurements, which will result on direct increase on the quality of information of energy.
+	
+%	\item A further contribution can be the avoidance of broadband real-time/continuous communication (such as LTE), being possible to collect and store data in train data concentrator and, while the train is waiting at stations, the data is transferred between train and station AP (and then to a remote server). A possible contribution will be the cost reduction of information transmission of energy sensor network data.
+%\end{itemize}
+
+\newpage
 \section{Work plan}
 \label{sec:44}
 
-To be defined.
+Based on the before-mentioned objectives, an annual planning for future developments was built for the next three years. 
+The work plan is presented in Table \ref{workplan}. 
+
 
 Secondary tasks of the work plan are the deliverables for the iRail programme and for the FCT institution, which occurs at end of academic year. 
+
+\input{tables/5.workplan}
+
+
 
 

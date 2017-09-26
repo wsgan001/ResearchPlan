@@ -73,23 +73,25 @@ The energy calculation depends on the voltage and currents measured in the caten
 		\item [Hall Effect] Similarly to magneto-resistive current sensors, the hall effect sensors uses a sensing element to measure the magnetic field in the air-gap of a magnetic circuit. For AC-only current measurement, no compensation of the flux in the magnetic core is made. The implementation of "Zero flux" compensation avoids the saturation of the magnetic core. This active compensation allows the measurement of currents with DC component.
 		
 	\end{description}
+
+	The voltage transducers depends of an indirect measurement of the electric field. In particular, the principle is the combination of the current measurement in a known load (or resistor), connected to the terminals of the circuit intended to be measured and using the principles previously presented in 
 	
 
 \subsection{Energy measurement in RTS}	
 \label{subs:323}
 
-	Currently, the European Commission requires the implementation of mechanisms in RTS for energy liberalization, where the Railway Undertakings (RUs) can purchase energy from suppliers of their choice.
+	Currently, the European Commission requires the implementation of mechanisms in RTS for energy liberalization, where the Railway Undertakings (RUs) can purchase energy from suppliers of their choice, \cite{eur-lex2008}.
 	
 	The impact of such requirement is the liberalization of the energy market, which brings new challenges in the railway sector. In practical, on-board energy metering is important to make energy savings visible and to allocate the profits of these savings to the respective RUs.
 	
-	EcoS energy meter for railway, presented in figure \ref{fig:ecos}, identifies the following requirements to comply with:
+	As an example, EcoS energy meter for railway, presented in figure \ref{fig:ecos}, identifies the following requirements to comply with:
 	
 	\begin{description}
 	\setlength\itemsep{-0em}
 	
-	\item [EN 50463 standard] This standard defines the architecture of the Energy Measurement System. It is composed by two blocks: (1) the Energy Measurement Function, responsible for the measurement of voltage and current and for the calculation of the energy and (2) the Data Handling System, that joins the timestamp and the GPS location to the energy data. In section \textit{3.4: Smart Metering}, the components of this standard are better described;
+	\item [EN 50463 standard \cite{EN50463}] This standard defines the architecture of the Energy Measurement System. It is composed by two blocks: (1) the Energy Measurement Function, responsible for the measurement of voltage and current and for the calculation of the energy and (2) the Data Handling System, that joins the timestamp and the GPS location to the energy data. In section \textit{3.4: Smart Metering}, the components of this standard are better described;
 	
-	\item [EN 50155 standard] This standard defines the aspects of temperature, humidity, shock, vibration, and other parameters that covers electronic equipment used on rolling stock for railway applications;
+	\item [EN 50155 standard \cite{EN50155}] This standard defines the aspects of temperature, humidity, shock, vibration, and other parameters that covers electronic equipment used on rolling stock for railway applications;
 	
 	\item [AC and DC measurement channels] The energy meter comply with multiple catenary topologies;
 	
