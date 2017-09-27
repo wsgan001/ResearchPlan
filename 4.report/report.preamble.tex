@@ -1,12 +1,75 @@
-
 \usepackage[english]{babel}
+%\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{acronym}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{a4wide}
+\usepackage{fancyhdr}
+\usepackage[titles]{tocloft}
+\usepackage{lastpage}
+\usepackage{verbatim}
+\usepackage[nodayofweek]{datetime}
+\usepackage[bookmarks=true,colorlinks=true]{hyperref}
+\numberwithin{figure}{chapter}
+\usepackage{cite}
+
+\usepackage{notoccite}
+
+\usepackage{multirow}
+
+%\usepackage{palatino}
+
+\setcounter{tocdepth}{5} %shows all levels incl. paragraph
+
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{epstopdf}
+\usepackage{xcolor}
+%TESTE
+\usepackage{scrextend}
+\usepackage[absolute,overlay,showboxes]{textpos}
+
+\setlength{\TPHorizModule}{10mm}
+\setlength{\TPVertModule}{30cm}
+\setlength{\parindent}{1mm}
 
 
+%Aparecer até subsubsection no indice
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{2}
+\usepackage{amsmath}
+\usepackage{mathtools}
+
+\newcommand{\HRule}[1]{\hfill \rule{0.1\linewidth}{#1}} % Horizontal rule at the bottom of the page, adjust width here
+
+\usepackage{xcolor}
+\definecolor{FEUP}{RGB}{140,45,25}
+
+\hypersetup{citecolor=black}
+
+\hypersetup{linkcolor=black,urlcolor=black}
+
+\usepackage{graphics}
+
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+  {\normalfont\Large\raggedleft}
+  {\MakeUppercase{\chaptertitlename}%
+    \rlap{ \resizebox{!}{1.5cm}{\thechapter} \rule{5cm}{1.5cm}}}
+  {10pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{30pt}{20pt}
+\usepackage{lipsum}
+\setcounter{chapter}{0}
 
 
-%\bibliographystyle{IEEEtran}
+\setlength\parindent{24pt}
 
-%\usepackage[square]{natbib}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{graphicx}
 \usepackage{framed}
 \usepackage{multirow}
@@ -24,15 +87,6 @@
 \usepackage{booktabs}
 \usepackage{multirow}
 
-
-%\usepackage[oneside,width=17.5cm,height=24cm,left=2cm]{geometry}
-%\usepackage[nolist,nohyperlinks]{acronym}
-
-\usepackage[]{nomencl}
-\usepackage[final]{pdfpages}
-
-%\usepackage{biblatex}
-%\addbibresource{references.bib}
 \usepackage{mdframed}
 
 
@@ -40,39 +94,5 @@
 \newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 
-%%%  para ter capítulos xpto
-%%%  https://hstuart.dk/2007/05/21/styling-the-chapter/
-
-
-\usepackage{tikz, blindtext}
-\usepackage{kpfonts}
-\usepackage[explicit]{titlesec}
-\usepackage{xcolor}
-\definecolor{FEUP_color}{RGB}{140,45,25}
-
-\newcommand*\chapterlabel{}
-\titleformat{\chapter}
-{\gdef\chapterlabel{}
-	\normalfont\sffamily\huge\bfseries\scshape}
-{\gdef\chapterlabel{\thechapter\ }}{0pt}
-{\begin{tikzpicture}[remember picture,overlay]
-	\node[yshift=-6cm] at (current page.north west)
-	{\begin{tikzpicture}[remember picture, overlay]
-		%\draw[fill=white] (-1,0) rectangle
-	%	(1.2\paperwidth,8cm);
-		\node[anchor=west,xshift=3cm,rectangle,
-		rounded corners=1pt,inner sep=11pt,
-		fill=black]
-		{\color{white}\chapterlabel#1};
-		\end{tikzpicture}
-	};
-\end{tikzpicture}
-}
-\titlespacing*{\chapter}{0pt}{50pt}{50pt}
-
-\makenomenclature
-\input{chapters/A.acronyms}
-
-\renewcommand{\bibname}{References}%
 
 

@@ -1,13 +1,11 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: report.main.aux
 A level-1 auxiliary file: report.info.aux
-The style file: chicago.bst
+The style file: IEEEtran.bst
 Database file #1: bib/shift2rail.bib
 Database file #2: bib/references.bib
 Database file #3: bib/31.PowerS.bib
 Database file #4: bib/32.EnergyS.bib
 Database file #5: bib/33.WirelessN.bib
-Warning--entry type for "ieee2012" isn't style-file defined
---line 42 of file bib/33.WirelessN.bib
 Repeated entry---line 167 of file bib/33.WirelessN.bib
  : @inproceedings{Hackmann2006
  :                            ,
@@ -25,7 +23,7 @@ Repeated entry---line 57 of file bib/34.SmartM.bib
  : @article{USMAN2013
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 117 of file bib/34.SmartM.bib
+Repeated entry---line 116 of file bib/34.SmartM.bib
  : @techreport{shift2rail2015
  :                           ,
 I'm skipping whatever remains of this entry
@@ -41,158 +39,26 @@ Repeated entry---line 20 of file bib/5.Preliminary.bib
  : @inproceedings{martins2016
  :                           ,
 I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1563 of file chicago.bst
+while executing---line 2403 of file IEEEtran.bst
 Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1563 of file chicago.bst
+while executing---line 2403 of file IEEEtran.bst
 Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1563 of file chicago.bst
+while executing---line 2403 of file IEEEtran.bst
 Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1563 of file chicago.bst
+while executing---line 2403 of file IEEEtran.bst
 Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1563 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1563 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1563 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1563 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1563 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1563 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1563 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1563 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1563 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1563 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1563 of file chicago.bst
-Warning--no author, editor, or organization in EN50463
-Warning--no author, editor, or organization in EN50155
-Name 1 in "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," has a comma at the end for entry pontryagin1963
-while executing---line 1563 of file chicago.bst
-Too many commas in name 1 of "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," for entry pontryagin1963
-while executing---line 1563 of file chicago.bst
-Name 1 in "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," has a comma at the end for entry pontryagin1963
-while executing---line 1563 of file chicago.bst
-Too many commas in name 1 of "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," for entry pontryagin1963
-while executing---line 1563 of file chicago.bst
-Name 1 in "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," has a comma at the end for entry pontryagin1963
-while executing---line 1563 of file chicago.bst
-Too many commas in name 1 of "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," for entry pontryagin1963
-while executing---line 1563 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1608 of file chicago.bst
-Warning--no author, editor, or organization in EN50155
-Warning--no author, editor, or organization in EN50155
-Warning--no author, editor, or organization in EN50463
-Warning--no author, editor, or organization in EN50463
-Name 1 in "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," has a comma at the end for entry pontryagin1963
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," for entry pontryagin1963
-while executing---line 1608 of file chicago.bst
-Name 1 in "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," has a comma at the end for entry pontryagin1963
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," for entry pontryagin1963
-while executing---line 1608 of file chicago.bst
-Name 1 in "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," has a comma at the end for entry pontryagin1963
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," for entry pontryagin1963
-while executing---line 1608 of file chicago.bst
-Name 1 in "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," has a comma at the end for entry pontryagin1963
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," for entry pontryagin1963
-while executing---line 1608 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1645 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1645 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1645 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1645 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1645 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1645 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1645 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1645 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1645 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1645 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1645 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1645 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1645 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1645 of file chicago.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 1645 of file chicago.bst
-Warning--can't use both author and editor fields in abad2016
-Warning--no author, editor, or organization in EN50155
-Warning--empty author in EN50155
-Warning--no author, editor, or organization in EN50463
+while executing---line 2403 of file IEEEtran.bst
 Warning--empty author in EN50463
+Warning--empty author in EN50155
 Warning--empty booktitle in Hackmann2006
 Name 1 in "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," has a comma at the end for entry pontryagin1963
-while executing---line 1645 of file chicago.bst
+while executing---line 2403 of file IEEEtran.bst
 Too many commas in name 1 of "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," for entry pontryagin1963
-while executing---line 1645 of file chicago.bst
-Name 1 in "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," has a comma at the end for entry pontryagin1963
-while executing---line 1645 of file chicago.bst
-Too many commas in name 1 of "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," for entry pontryagin1963
-while executing---line 1645 of file chicago.bst
-Name 1 in "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," has a comma at the end for entry pontryagin1963
-while executing---line 1645 of file chicago.bst
-Too many commas in name 1 of "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," for entry pontryagin1963
-while executing---line 1645 of file chicago.bst
-Warning--no number and no volume in Seppo2012
-Warning--page numbers missing in Seppo2012
-(There were 77 error messages)
+while executing---line 2403 of file IEEEtran.bst
+
+Done.
+(There were 14 error messages)

@@ -1,36 +1,75 @@
-%%----------------------------------------
-%% Information about the work
-%%----------------------------------------
-\title{Railway Smart Meters}
+\pagenumbering{roman}
+\thispagestyle{empty}
 
-\author{Vítor A. Morais}
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+\pdfbookmark[0]{Title}{Title}
 
-%% Uncomment next line if necessary for degree
-\degree{Doctoral Programme in Electrical and Computer Engineering}
+\begin{textblock}{2}(0,0)%%%Places a vertical line
+	\rule{0mm}{30cm}
+	\textblockcolour{FEUP}
+\end{textblock}
 
-%% Uncomment next line for date of submission
-%\thesisdate{July 31, 2016}
+%FEUP FIGURE
 
-%% Uncomment next line for copyright text
-%\copyrightnotice{Name of the Author, 2016}
+{\color{white} - }
+\vfill
 
-\supervisor{Supervisor}{António P. Martins (FEUP)}
-\supervisor{Co-supervisor}{João L. Afonso (UMinho)}
+\begin{figure}[ht!]
+	\begin{addmargin}[2cm]{1mm}
+		\begin{center}
+			\includegraphics[scale=0.45]{figures/0.Title/FEUP.eps}
+		\end{center}
+	\end{addmargin}
+	
+\end{figure}
 
-%% Uncomment next line if necessary
-%\supervisor{Second Supervisor}{Name of the Supervisor}
+%TITLE OF THE DOCUMENT - Optimizing Energy Efficiency for Train Operation Constrained to Scheduling
+\vspace{25mm}
+\begin{addmargin}[2cm]{1mm}
+	\begin{center}
+		
+		\begin{LARGE}
+			\textbf{\color{FEUP} Railway Smart Meters\\}
+		\end{LARGE}
+		
+		\vspace{5mm}
+		
+		\textbf{Thesis Work Plan\\}
+		
+		\vspace{30mm}
+		
+		\textbf{\Large Vítor A. Morais} \\
+		
+		\vspace{5mm}
+		
+		\textbf{Supervisor:} \textbf{Prof. António P. Martins (FEUP)} \\
+		\textbf{Co-Supervisor:} \textbf{Prof. João L. Afonso (UMinho)}
+		
+		\vfill % Space between the title box and author information
+		
+		\small{Doctoral Program in Electrical and Computer Engineering,}\\
+		\small{Department of Electrical and Computer Engineering}\\
+		\small{Faculty of Engineering, University of Porto\\}
+		\small{\today \par} %$31^{th}$ July, 2016
+		
+	\end{center}
+	
+\end{addmargin}
 
-%% Uncomment committee stuff in the final version if used
-%\committeetext{Approved by \ldots:}
-%\committeemember{President}{Name of the President}
-%\committeemember{Referee}{Name of the Referee}
-%\committeemember{Referee}{Name of the Referee}
+%----------------------------------------------------------------------------------------
 
-%% Uncomment signature line in the final on paper version if used
-%\signature
+\clearpage % Whitespace to the end of the page
 
-%% Specify cover logo (in folder ``figures'')
-\logo{figures/uporto.pdf}
+%\input{Sections/abstract}
+\cleardoublepage
+\pdfbookmark[0]{Contents}{contents}
+\tableofcontents
+\cleardoublepage
+\pdfbookmark[0]{List of Figures}{figures}
+\listoffigures
+\cleardoublepage
+\pdfbookmark[0]{List of Tables}{tables}
+\listoftables
 
-%% Uncomment next line for additional text below the author's name (front page)
-\additionalfronttext{Thesis Research Plan}

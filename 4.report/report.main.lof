@@ -1,0 +1,45 @@
+\select@language {english}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Shif2Rail Innovation Programs. \relax }}{2}{figure.caption.16}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Railway main-line power supply systems in Europe. Adapted from \cite {abad2016}.\relax }}{8}{figure.caption.22}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces \ac {DC} supply system architecture. Adapted from \cite {abad2016}.\relax }}{9}{figure.caption.23}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces 50 Hz 25 kV supply system. Adapted from \cite {abad2016}.\relax }}{9}{figure.caption.24}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces 16.7 Hz 15 kV supply system. Adapted from \cite {abad2016}.\relax }}{9}{figure.caption.25}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Train internal power circuit of a \ac {DC} supply system. Adapted from \cite {steimel2008}.\relax }}{10}{figure.caption.26}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Train internal power circuit of a \ac {AC} supply system. Adapted from \cite {steimel2008}.\relax }}{10}{figure.caption.27}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Train internal power circuit of a Diesel electric locomotive with alternator. Adapted from \cite {steimel2008}.\relax }}{11}{figure.caption.28}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Train Power Components.\relax }}{11}{figure.caption.29}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Waveforms in traction mode.\relax }}{13}{figure.caption.31}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Waveforms in generation mode.\relax }}{13}{figure.caption.31}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces 1h waveforms of active power (black), reactive power (red) and power factor (blue) of {$HX_D1B$} locomotive. Adapted from \cite {liran2014}.\relax }}{14}{figure.caption.32}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces EcoS railway energy meter. Adapted from railware.it\relax }}{15}{figure.caption.36}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces EcoS power calculation function. Adapted from railware.it\relax }}{16}{figure.caption.37}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Representation of data flow in a computer network. Adapted from \cite {comer2008}.\relax }}{17}{figure.caption.39}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Members of the 802.15 family. Adapted from \cite {nancy2014} lecture presentation slides.\relax }}{20}{figure.caption.51}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Overall schema of wireless standards. Adapted from \cite {Radmand2010}.\relax }}{21}{figure.caption.53}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Simulation \& emulation framework.\relax }}{22}{figure.caption.54}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Functions, data flow and regulation scope of on-board energy measurement system.\relax }}{27}{figure.caption.63}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Structure of \ac {EMS} EN 50463 standard. Adapted from \cite {gatti2011}\relax }}{28}{figure.caption.65}
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Optimal traction regimes. Adapted from \cite {scheepmaker2017}.\relax }}{30}{figure.caption.68}
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Integration of the \ac {WSN} with a decision support system. \relax }}{31}{figure.caption.70}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Overall functional architecture of a smart metering system.\relax }}{35}{figure.caption.71}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Data flow of measurement-information layers.\relax }}{36}{figure.caption.72}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Architecture of proposed work.\relax }}{36}{figure.caption.73}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Power architecture of case-study train.\relax }}{37}{figure.caption.74}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Models needed for simulation.\relax }}{38}{figure.caption.76}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Models needed for simulation.\relax }}{39}{figure.caption.77}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Photo of implemented non-intrusive voltage sensor.\relax }}{43}{figure.caption.79}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Equivalent circuit of non-intrusive voltage sensor.\relax }}{43}{figure.caption.79}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Waveforms of acquired and sensed voltages in normal conditions: (orange) AC main voltage and (blue) voltage in sensor.\relax }}{44}{figure.caption.80}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Waveforms of acquired and sensed voltages in inverter: (orange) AC main voltage and (blue) voltage in sensor.\relax }}{44}{figure.caption.80}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Signal conditioning and digital processing architecture.\relax }}{44}{figure.caption.81}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Signal conditioning and digital processing architecture.\relax }}{44}{figure.caption.82}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Waveforms of AC voltage (orange), estimated voltage (pink) and estimated phase angle (blue) without phase compensation.\relax }}{45}{figure.caption.83}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Waveforms of AC voltage (orange), estimated voltage (pink) and estimated phase angle (blue) with phase compensation.\relax }}{45}{figure.caption.83}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Porto-Ca\IeC {\'\i }de railway line: simulation using OMNeT++ network simulator.\relax }}{46}{figure.caption.84}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Simulator layers: proposed solution using OMNeT++ and NS-3.\relax }}{47}{figure.caption.85}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Evaluation of moving node for different 802.11 network standards.\relax }}{47}{figure.caption.86}

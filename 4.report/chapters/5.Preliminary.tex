@@ -14,7 +14,7 @@
 		\begin{minipage}{.45\textwidth}
 			\centering
 			%		\vspace{2.5em}
-			\includegraphics[width=0.8\textwidth,keepaspectratio]{figures/5.PreliminaryW/voltage_sensor}
+			\includegraphics[width=0.7\textwidth,keepaspectratio]{figures/5.PreliminaryW/voltage_sensor}
 			%		\vspace{2em}
 			\captionof{figure}{Photo of implemented non-intrusive voltage sensor.}
 			\label{fig:5.voltage_sensor}
@@ -22,7 +22,7 @@
 		\begin{minipage}{.03\textwidth}  ~\end{minipage}	
 		\begin{minipage}{.45\textwidth}
 			\centering
-			\includegraphics[width=0.9\textwidth,keepaspectratio]{figures/5.PreliminaryW/voltage_sensor_eq}
+			\includegraphics[width=0.8\textwidth,keepaspectratio]{figures/5.PreliminaryW/voltage_sensor_eq}
 			%		\vspace{2em}
 			\captionof{figure}{Equivalent circuit of non-intrusive voltage sensor.}
 			\label{fig:5.voltage_sensor_eq}
@@ -58,11 +58,13 @@
 	
 	If it is possible to extract the voltage waveform, this can be considered as a \textbf{contribution to the field of voltage measurement} in noisy environments, and in particular, in the railway environment.
 
+\newpage
+
 	A second part of this preliminary work is the extraction of information from the sensor, in particular the phase of the voltage. To achieve this goal, a simple conditioning circuit made to amplify the voltage level of sensor to full range of uC ADC. The uC used was an Infineon XMC4500 and is responsible for the digital processing. In figure \ref{fig:5.generalArchitecture} is illustrated the architecture for signal conditioning and digital processing.
 	
 	\begin{figure}[h!]
 		\centering
-		\includegraphics[width=0.9\textwidth,keepaspectratio]{figures/5.PreliminaryW/generalArchitecture}
+		\includegraphics[width=0.7\textwidth,keepaspectratio]{figures/5.PreliminaryW/generalArchitecture}
 		\caption{Signal conditioning and digital processing architecture.}
 		\label{fig:5.generalArchitecture}
 	\end{figure}
@@ -89,7 +91,7 @@
 	\begin{minipage}{.8\textwidth}
 		\centering
 		%		\vspace{2.5em}
-		\includegraphics[width=\textwidth,keepaspectratio]{figures/5.PreliminaryW/scope_9}
+		\includegraphics[width=0.8\textwidth,keepaspectratio]{figures/5.PreliminaryW/scope_9}
 		%		\vspace{2em}
 		\captionof{figure}{Waveforms of AC voltage (orange), estimated voltage (pink) and estimated phase angle (blue) without phase compensation.}
 		\label{fig:5.scope_9}
@@ -97,7 +99,7 @@
 	\begin{minipage}{.03\textwidth}  ~\end{minipage}	
 	\begin{minipage}{.8\textwidth}
 		\centering
-		\includegraphics[width=\textwidth,keepaspectratio]{figures/5.PreliminaryW/scope_10}
+		\includegraphics[width=0.8\textwidth,keepaspectratio]{figures/5.PreliminaryW/scope_10}
 		%		\vspace{2em}
 		\captionof{figure}{Waveforms of AC voltage (orange), estimated voltage (pink) and estimated phase angle (blue) with phase compensation.}
 		\label{fig:5.scope_10}
@@ -125,12 +127,13 @@
 		\item As presented previously in the methodology chapter, the simulation of the sensor module must be performed to evaluate the application of this sensor to the train environment.
 	\end{itemize}}
 	
+\vspace{2em}
 	
 \section{Implementation of a point-to-point communication between a moving train and a station}
 
 For this preliminary work, two network simulators were evaluated: the NS-3 and the OMNeT++. The approach of performing the evaluation of two network simulators allows, at this planning stage, to increase the knowledge on such simulators.
 
-In figure \ref{fig:5.porto-caide} is presented the train mobility model of the case-study: Porto-Caíde railway line operated by \textit{Comboios de Portugal}. This example, the simulator receives the GPS coordinates of the line path and generates the mobility model. In this example, the train velocity is constant, without having in consideration the train stopping in stations. Future work will consider the velocity curves presented in subsection \ref{subs:353}: \textit{"Eco-driving – driving assistant"}.
+In figure \ref{fig:5.porto-caide} is presented the train mobility model of the case-study: Porto-Caíde railway line operated by \textit{Comboios de Portugal} (CP). This example, the simulator receives the \ac{GPS} coordinates of the line path and generates the mobility model. In this example, the train velocity is constant, without having in consideration the train stopping in stations. Future work will consider the velocity curves presented in subsection \ref{subs:353}: \textit{"Eco-driving – driving assistant"}.
 
 
 \begin{figure}[h!]
@@ -147,17 +150,19 @@ This output of the mobility model will be used by the network simulator to perfo
 
 \begin{figure}[h!]
 	\centering
-	\includegraphics[width=0.8\textwidth,keepaspectratio]{figures/5.PreliminaryW/omnetpp+ns3}
+%	\vspace{-1em}
+	\includegraphics[width=0.85\textwidth,keepaspectratio]{figures/5.PreliminaryW/omnetpp+ns3}
 	\caption{Simulator layers: proposed solution using OMNeT++ and NS-3.}
 	\label{fig:5.omnetpp+ns3}
+%		\vspace{-2em}
 \end{figure}
 
-
+The simulation case-study for the NS-3 simulator was defined as a moving node at constant speed of 1 m/s that crosses a stationary node. In figure \ref{fig:5.distance-rate} is illustrated the different data-rates of different  802.11 network standards for the moving node that starts 200 meters away from the stationary node, crosses it and stops 200 meters away.
 
 \begin{figure}[h!]
 	\centering
-	\includegraphics[width=\textwidth,keepaspectratio]{figures/5.PreliminaryW/rate-distance}
+	\includegraphics[width=\textwidth,keepaspectratio]{figures/5.PreliminaryW/distance-rate}
 	\caption{Evaluation of moving node for different 802.11 network standards.}
-	\label{fig:5.rate-distance}
+	\label{fig:5.distance-rate}
 \end{figure}
 

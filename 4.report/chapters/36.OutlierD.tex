@@ -1,41 +1,19 @@
 
-
-
 \section{Section 6: Issues and problems in WSN}
 An important contribution of a wireless sensor network in the railway system is the availability of useful knowledge about energy consumption to the decision support systems.
 
-Therefore, such acquisition systems are required to provide accurate data regardless of the quality of the acquisition sensors, electromagnetic influences (EMI), sensor supply fluctuations, among other error sources.
+Therefore, such acquisition systems are required to provide accurate data regardless of the quality of the acquisition sensors, \ac{EMI}, sensor supply fluctuations, among other error sources.
 
 Through computational algorithms, the increase of communication reliability and fault tolerance is possible. Those computational algorithms detect outliers or, in the scope of this PhD, detect erroneous data that will disturb the outcomes of decision support systems. 
 
-1.	Definition of outlier detection in RTS energy measurement perspective
 
-2.	Literature review of Outlier detection in WSN
-
-a.	Motivation
-
-b.	Research areas
-
-c.	Challenges
-
-3.	Taxonomy of outlier detection techniques
-
-a.	Classification based
-
-b.	Statistical based
-
-c.	NN-based
-
-d.	Clustering based
-
-e.	Spectral decomposition-based
 
 \subsection{Outlier and outlier detection}
 
 \label{sec:def}
 Outlier detection is a computational task to detect and retrieve information from erroneous data values. The definition is usually close to anomaly detection or deviation detection. 
 
-\cite{class:branch:2006} identifies outlier detection as an essential step to either suppress or amplify outliers and precedes most data analysis routine. \cite{nn:abid:2016} points the need of detecting aberrant data and sensors within an WSN. \cite{nn:zhuang:2006} extends the outlier definition to the case where the outliers are introduced in sensing queries and in sensing data analysis.
+\cite{class:branch:2006} identifies outlier detection as an essential step to either suppress or amplify outliers and precedes most data analysis routine. \cite{nn:abid:2016} points the need of detecting aberrant data and sensors within an \ac{WSN}. \cite{nn:zhuang:2006} extends the outlier definition to the case where the outliers are introduced in sensing queries and in sensing data analysis.
 
 %%%%%%%%%%%  outlier defnition in the scope of my phd
 \vspace{1em}
@@ -48,7 +26,7 @@ The threshold of what is an outlier or not (or a value that do represent the cor
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=0.75\textwidth,keepaspectratio]{figures/general}
-	\caption{Integration of the WSN with a decision support system. }
+	\caption{Integration of the \ac{WSN} with a decision support system. }
 	\label{fig:general}
 \end{figure}
 
@@ -66,14 +44,14 @@ Without an outlier detection mechanism, the decision support subsystem may have 
 
 The problem of taking decisions based on wrong considerations of the consumption status is that it may lead to loss in desirable efficiency or increase of costs.
 
-Let us consider a simple and hypothetical example where the DSS will provide an output towards suggesting an action in preventive maintenance based on the usage of a component. Considering that the usage of the component is depending on the counting of situations that the component is working above the nominal conditions. Without an outlier detection mechanism, the outliers will induce the DSS in counting situations of overcharge of the component, where the measurement is not related to working nominal conditions but is related to external influences, such as EMI or temperature. The output of DSS may suggest a preventive maintenance on a component that is working in proper conditions.
+Let us consider a simple and hypothetical example where the \ac{DSS} will provide an output towards suggesting an action in preventive maintenance based on the usage of a component. Considering that the usage of the component is depending on the counting of situations that the component is working above the nominal conditions. Without an outlier detection mechanism, the outliers will induce the \ac{DSS} in counting situations of overcharge of the component, where the measurement is not related to working nominal conditions but is related to external influences, such as \ac{EMI} or temperature. The output of \ac{DSS} may suggest a preventive maintenance on a component that is working in proper conditions.
 
-To conclude, with an outlier detection mechanism in the consumption acquisition subsystem the decision support subsystem may know if the value of consumption is an outlier or not and, with that information, the DSS output will be more accurate with the real conditions of operation.
+To conclude, with an outlier detection mechanism in the consumption acquisition subsystem the decision support subsystem may know if the value of consumption is an outlier or not and, with that information, the \ac{DSS} output will be more accurate with the real conditions of operation.
 
 
-\subsection{Literature review of Outlier detection in WSN}
+\subsection{Literature review of Outlier detection in \ac{WSN}}
 \label{sec:od_wsn}
-Wireless sensor networks (WSNs) has been widely used in several applications in several domains such as industrial, scientific, medical and others. Those applications have been supported by the advances in wireless technologies as well as in the evolution of microcontroller technologies, with enhanced processing capabilities associated with reduced energy consumption.
+\ac{WSN} has been widely used in several applications in several domains such as industrial, scientific, medical and others. Those applications have been supported by the advances in wireless technologies as well as in the evolution of microcontroller technologies, with enhanced processing capabilities associated with reduced energy consumption.
 
 \subsubsection{Motivation}
 
@@ -82,7 +60,7 @@ Wireless sensor networks (WSNs) has been widely used in several applications in 
 Thus, this raises a research opportunity to reduce the communication usage of $\mu C$s, by adding processing features, where the small increase in the computation will significantly reduce the energy consumption in the transmission. These processing features are, among others, the outlier detection algorithms.
 
 
-On the field of the quality of the data acquired by WSNs, the motivation of detecting outliers in data acquired from WSNs has been extensively presented in the literature. The need for acquire data from harsh or "highly dynamic" environments as well as the need to validate and extract knowledge from the acquired data are one of the main points in the motivation to study the outlier detection in WSNs,  \cite{gen:zhang:2010,gen:chandola:2009,stat:ghorbel:2015,class:martins:2015b}.
+On the field of the quality of the data acquired by \ac{WSN}, the motivation of detecting outliers in data acquired from \ac{WSN} has been extensively presented in the literature. The need for acquire data from harsh or "highly dynamic" environments as well as the need to validate and extract knowledge from the acquired data are one of the main points in the motivation to study the outlier detection in \ac{WSN},  \cite{gen:zhang:2010,gen:chandola:2009,stat:ghorbel:2015,class:martins:2015b}.
 
 
 
@@ -125,7 +103,7 @@ Zhang et al. \cite{gen:zhang:2010} lists the challenges as the following:
 
 \cite{class:branch:2006} identifies an important challenge, where the probability of occurrence of outlier events are extremely small. \cite{nn:abid:2016} as well as \cite{stat:sheng:2007} identifies the large amount of data as the main challenge for outlier detection in WSN. \cite{nn:zhuang:2006} identifies the inexpensive and low fidelity sensors as the main reason for the error generation and the main challenge is identified on the distributed streaming data among a large amount of sensors. \cite{stat:ghorbel:2015} points the main challenge as the processing of data from sensors that generate continuously data, that is uncertain and unreliable. 
 
-To conclude, the main challenge will be the usage of inexpensive and low fidelity sensors that will be affected by the rush railway environment. Complementary, the main challenge of using outlier detection mechanisms in the railway WSN is the balance between the detection accuracy and the influence that undetected data-instances will induce in other subsystems (in particular in decision support systems dependent on data from the WSN). In addition, the detection accuracy is directly related with the memory usage, computational requirements, communication overhead, etc. 
+To conclude, the main challenge will be the usage of inexpensive and low fidelity sensors that will be affected by the rush railway environment. Complementary, the main challenge of using outlier detection mechanisms in the railway \ac{WSN} is the balance between the detection accuracy and the influence that undetected data-instances will induce in other subsystems (in particular in decision support systems dependent on data from the \ac{WSN}). In addition, the detection accuracy is directly related with the memory usage, computational requirements, communication overhead, etc. 
 
 
 \subsection{Taxonomy of Outlier Detection Techniques}

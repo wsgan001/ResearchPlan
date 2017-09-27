@@ -4,30 +4,19 @@
 
 \section{Section 3: Wireless networks}
 
-In this section, communication networks are presented, with special attention to wireless technologies. An historic overview is presented 
-
-
-
-1.	Network technologies – historic overview
-
-2.	Current technologies and standards:
-
-3.	Emerging technologies and standards
-
-4.	Network Simulators and Network Emulators
-
-
-
-
+In this section, communication networks are presented, with special attention to wireless technologies. 
+An historic overview is presented in \ref{subs:331} to illustrate the relevant milestones to achieve nowadays communication networks.  
+In \ref{subs:332} and \ref{subs:333} are presented the current solutions for wireless communication.
+The evaluation of wireless networks is presented in \ref{subs:334} and \ref{subs:335}, first with the presentation of the \ac{KPI} and then with the identification of the simulators and emulators.
 
 
 \subsection{Network technologies – historic overview}
-
+\label{subs:331}
 The beginning of modern communication systems is marked with the expansion of the telegraph, having an important milestone happening in 1858 with the first communication between USA and UK. Since then, the telephone has emerged and widely used; the wireless communication was successfully established in 1901 and, decades later, worldwide communication had the support of satellite communication systems.
 
 One important area of communications is the computer networks, and in particular, the internet where it is used in several aspect of business (such as advertising, production, shipping, planning, billing, and accounting, \cite{comer2008}). In 1980 the Internet was a research project involving few dozen sites and currently the Internet is an important part of people’s communication.
 
-Currently, a computer network is well organized, having a well structured Internet Protocol (IP) that defines how data passes through layers, as represented in figure \ref{fig:comer2008}.
+Currently, a computer network is well organized, having a well structured \ac{IP} that defines how data passes through layers, as represented in figure \ref{fig:comer2008}.
 
 	\begin{figure}[h!]
 	\centering
@@ -38,24 +27,22 @@ Currently, a computer network is well organized, having a well structured Intern
 
 
 \subsection{Current Wireless technologies and standards}
-
-The following sections will cover the wireless communications in smart metering systems, starting with the low-rate and low-power communications applied on smart meters and ending with the high-rate communications (and consequently higher costs and power than low rate communications). With the increasing on demand for higher bandwidth, broadband technologies such as mobile WiMAX, IEEE 802.16e and broadband PLC are expected to be considered and used in newer installations, \cite{Mohassel2014}.
+\label{subs:332}
+The following sections will cover the wireless communications in smart metering systems, starting with the low-rate and low-power communications applied on smart meters and ending with the high-rate communications (and consequently higher costs and power than low rate communications). With the increasing on demand for higher bandwidth, broadband technologies such as mobile WiMAX, IEEE 802.16e and broadband \ac{PLC} are expected to be considered and used in newer installations, \cite{Mohassel2014}.
 
 
 %As the demand for bandwidth increases, broadband technologies such as IEEE 802.16e, mobile WiMAX and broadband PLC are going to play a key role in newer installations, \cite{Mohassel2014}.
 
-\subsubsection{IEEE 802.11 (Wireless LAN (WLAN) or Wi-Fi)}
+\subsubsection{IEEE 802.11 (\ac{WLAN} or Wi-Fi)}
 
-IEEE 802.11 is the standard for the information exchange between systems and for the telecommunications. The coverage area of this technology is on local and metropolitan area networks (LANs and MANs). The specific requirements are on the Medium Access Control and on Physical Layer. The most popular versions of this standard is the IEEE 802.11b and IEEE 802.11g, that differs in the modulation technique (Direct Sequence Spread Spectrum (DSSS) technique versus Orthogonal Frequency Division Multiplexing (OFDM) modulation technique). The data rates are, respectively, 11 Mbps and 54 Mbps, \cite{Usman2013, ieee2012}.
+IEEE 802.11 is the standard for the information exchange between systems and for the telecommunications. The coverage area of this technology is on local and metropolitan area networks (LANs and MANs). The specific requirements are on the Medium Access Control and on Physical Layer. The most popular versions of this standard is the IEEE 802.11b and IEEE 802.11g, that differs in the modulation technique (\ac{DSSS} technique versus  \ac{OFDM} modulation technique). The data rates are, respectively, 11 Mbps and 54 Mbps, \cite{Usman2013, ieee2012}.
 
 
 
 \subsubsection{IEEE 802.15.4 (ZigBee)}
 
-The standard IEEE 802.15.4 imposes conditions in the physical layer and media access control focusing on low-rate (up to 300 kHz) wireless personal area networks. Developed by the Zigbee Alliance and covering the specifications of the IEEE 802.15.4 on the physical layer and the medium access control, Zigbee is a commonly used for low power wireless communication technology. It operates on the ISM bands of 868 MHz, 915 MHz and 2.4 GHz adopting direct sequence spread spectrum (DSSS), \cite{Usman2013}.
+The standard IEEE 802.15.4 imposes conditions in the physical layer and media access control focusing on low-rate (up to 300 kHz) wireless personal area networks. Developed by the Zigbee Alliance and covering the specifications of the IEEE 802.15.4 on the physical layer and the medium access control, Zigbee is a commonly used for low power wireless communication technology. It operates on the \ac{ISM} bands of 868 MHz, 915 MHz and 2.4 GHz adopting \ac{DSSS}, \cite{Usman2013}.
 
-%IEEE 802.15.4 is a standard that specifies the physical layer and media access control for low-rate (up to 300kHz) wireless personal area networks. ZigBee is a popular, low power wireless communication technology developed by the ZigBee Alliance based on the Physical Layer and Media Access Control Layer of the IEEE 802.15.4 standard.
-%It operates on the ISM bands of 868 MHz, 915 MHz and 2.4 GHz adopting direct sequence spread spectrum (DSSS), \cite{Usman2013}.
 
 
 \subsubsection{DASH7}
@@ -65,7 +52,7 @@ On the low-rate field of research, an alternative to Zigbee is the DASH7. Using 
 
 \subsubsection{6LoWPAN}
 
-This IETF development group promotes specifications for the usage of IPv6 on IEEE 802.15.4 networks. It allows the connection between low-power devices to IP networks, with the usage of fragmentation and compression of messages. In conclusion, 6LoWPAN creates an adaptation layer between the IEEE 802.15.4 and IPv6.
+This IETF development group promotes specifications for the usage of IPv6 on IEEE 802.15.4 networks. It allows the connection between low-power devices to \ac{IP} networks, with the usage of fragmentation and compression of messages. In conclusion, 6LoWPAN creates an adaptation layer between the IEEE 802.15.4 and IPv6.
 
 
 
@@ -91,19 +78,19 @@ On the field of the broadband wireless communication there is the Worldwide Inte
 
 \subsubsection{Broadband communications: GSM/GPRS and LTE/LTE-Advanced}
 
-Operating at 900 MHz and 1800 MHz, the Global System for Mobile communications (GSM) is the most used cellular network all over the world. The modulation technique is the Gaussian Minimum Shift Keying (GMSK) and it achieves transfer rates up to 270 kbps. Its architecture consists of four components: the Operation Support Substation, the Network Switching Substation, the Base Station Subsystem and the Mobile handset. Due to its level of development around the world being present in remote locations, this advantage makes this  an interesting technology to be applied in Smart Grid applications, \cite{Usman2013}.
+Operating at 900 MHz and 1800 MHz, the \ac{GSM} is the most used cellular network all over the world. The modulation technique is the \ac{GMSK} and it achieves transfer rates up to 270 kbps. Its architecture consists of four components: the Operation Support Substation, the Network Switching Substation, the Base Station Subsystem and the Mobile handset. Due to its level of development around the world being present in remote locations, this advantage makes this an interesting technology to be applied in \ac{SG} applications, \cite{Usman2013}.
 
-Long Term Evolution (LTE) is a recent standard for wireless technology that allows high data rates with high capacity and low latency and with a good Quality of Service (QoS). The improved version of this technology, the LTE-Advanced, admit higher capacity with expanded peak data rate of 1 Gbps for the downlink and 500 Mbps for the uplink, obtained on the increase of the spectral efficiency, higher  number of active subscribers connected at the same time, and better performance at cell edges, \cite{Mohassel2014}. This technology, for the Smart Metering environment where the high bandwidth and good QoS are mandatory at some communication points.
+\ac{LTE} is a recent standard for wireless technology that allows high data rates with high capacity and low latency and with a good \ac{QoS}. The improved version of this technology, the LTE-Advanced, admit higher capacity with expanded peak data rate of 1 Gbps for the downlink and 500 Mbps for the uplink, obtained on the increase of the spectral efficiency, higher  number of active subscribers connected at the same time, and better performance at cell edges, \cite{Mohassel2014}. This technology, for the smart metering environment where the high bandwidth and good \ac{QoS} are mandatory at some communication points.
 
 
 \subsection{Protocols and standards}
 %\lipsum[4]
-
+\label{subs:333}
 In computer networks, a protocol is a set of rules that ensure a communication of specific set of information between two machines. A standard is a document that specifies several aspects of something that has the overwhelming agreement and support of an entity (the standards making body). In the networking area, several protocols are supported by standards. In this section is presented some of the protocols that ensure a coherent communication among the sensor networks.
 
 \subsubsection{IEEE 802.15}
 
-The standard family defines the topologies and network roles. In particular, it defines the physical (frequency and channels, spectrum handling, modulation and bit rate) and MAC (packet formats, operational modes, timing aspects, topologies) layers of the OSI model (\cite{Hackmann2006}).
+The standard family defines the topologies and network roles. In particular, it defines the physical (frequency and channels, spectrum handling, modulation and bit rate) and \ac{MAC} (packet formats, operational modes, timing aspects, topologies) layers of the \ac{OSI} model (\cite{Hackmann2006}).
 
 
 \begin{figure}[h!]
@@ -113,7 +100,7 @@ The standard family defines the topologies and network roles. In particular, it 
 	\label{fig:nancy2014}
 \end{figure}
 
-Based on figure \ref{fig:nancy2014}, the 802.15.4 is the standard that defines the PHY and MAC layers for low rate wireless personal area networks. It supports \textbf{full-function devices} (device capable of being the network coordinator or simple node and can have implemented complex network functionalities) and \textbf{reduced-function device} (limited devices with low-bandwidth limitations and limited or no-network intelligence). The possible network topologies are the following:
+Based on figure \ref{fig:nancy2014}, the 802.15.4 is the standard that defines the \ac{PHY} and \ac{MAC} layers for low rate wireless personal area networks. It supports \textbf{full-function devices} (device capable of being the network coordinator or simple node and can have implemented complex network functionalities) and \textbf{reduced-function device} (limited devices with low-bandwidth limitations and limited or no-network intelligence). The possible network topologies are the following:
 
 \begin{description}
 	\item[Star ---] Each device in the network communicates with the full-function device network coordinator;
@@ -141,9 +128,9 @@ Based on figure \ref{fig:nancy2014}, the 802.15.4 is the standard that defines t
 \end{figure}
 
 
-\subsection{Communication KPI’s}
+\subsection{Communication \ac{KPI}}
 %\lipsum[4]
-
+\label{subs:334}
 According to \cite{Radmand2010}, it is identified the following "Industrial Requirements" for the WSN's:
 
 \begin{description}
@@ -151,9 +138,9 @@ According to \cite{Radmand2010}, it is identified the following "Industrial Requ
 	
 	\item[Latency ---] Latency is the measurement of the time delay and is defined as the time that a data packet takes to be transmitted from the source to the destination. The latency is directly related to the link quality and a high latency link is result of a link with high signal-to-noise ratio. 
 	
-	\item[Sensor Data Update Rates ---] This KPI is not directly related with the communication link. However the update rate of the sensor data affects the power consumption due to the increase of the processing effort. In a SYNC-based update rate, this KPI is related to the frequency of the SYNC event.
+	\item[Sensor Data Update Rates ---] This \ac{KPI} is not directly related with the communication link. However the update rate of the sensor data affects the power consumption due to the increase of the processing effort. In a SYNC-based update rate, this \ac{KPI} is related to the frequency of the SYNC event.
 	
-	\item[Wireless Transmission Range ---] This KPI is the maximum distance that a communication link supports the data transfer with a given reliability and in specific conditions (indoor/outdoor; line-of-sight or LOS).
+	\item[Wireless Transmission Range ---] This \ac{KPI} is the maximum distance that a communication link supports the data transfer with a given reliability and in specific conditions (indoor/outdoor; line-of-sight (LOS)).
 	
 	\item[Power consumption ---] The power consumption is a measurement of the combination of the computational effort of the nodes and the transmission effort. It is directly related with the update rate as well as with the link quality and, if it exists, the routing activity in each node.
 	
@@ -164,7 +151,7 @@ According to \cite{Radmand2010}, it is identified the following "Industrial Requ
 %%ver livro khan
 
 \subsection{Network Simulators and Network Emulators}
-
+\label{subs:335}
 
 In this subsection is covered the network simulators. The usage of network simulators allows the modeling of various scenarios of real environment. However, pure network simulators avoids the interaction with real environment, which leads space for network emulators, as a hybrid method to combine simulation capabilities with hardware and software components of real networks. Therefore, in this subsection is referred the simulators that allows integration with hardware and software network components, to have an overview on the network emulators.
 

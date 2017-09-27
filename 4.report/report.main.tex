@@ -1,8 +1,7 @@
-\documentclass[10pt,a4paper,twoside]{report}
+\documentclass[11pt,a4paper,twoside,openright]{report}
 \usepackage[utf8]{inputenc}
 
-\usepackage[]{feupteses}
-%\usepackage[square,sort,comma,numbers]{natbib}
+
 
 \input{report.preamble}
 
@@ -11,74 +10,70 @@
 
 \begin{document}
 
-\include{report.info}
+	\include{report.info}
 
 
 
-%\chapter*{Abstract}
-%Abstract goes here
-%%
-%%   Section 
-%%
-\begin{Prolog}
-\cleardoublepage
-
-\tableofcontents
+	\input{chapters/A.acronyms}  % the list of abbreviations used
 
 
-%\printnomenclature
+	\newpage
 
-%\chapter*{Symbols}
-%\input{chapters/B.symbols}
+	\chapter{Introduction}
+	\pagenumbering{arabic}
+	\input{chapters/1.Introduction}
+
+
+	\chapter{Objectives and Contributions}
+	\input{chapters/2.Objectives}
+
+	\chapter{Literature Review}
+	\input{chapters/3.Literature}
+
+	\input{chapters/31.PowerS}
+	\newpage
+
+	\input{chapters/32.EnergyS}
+	\newpage
 
 	
-\end{Prolog}
+	\input{chapters/33.WirelessN}
+	\newpage
 
-\StartBody
-
-\chapter{Introduction}
-\input{chapters/1.Introduction}
+	\input{chapters/34.SmartM}
+	\newpage
 
 
-\chapter{Objectives and Contributions}
-\input{chapters/2.Objectives}
+	\input{chapters/35.DSS}
+	\newpage
 
-\chapter{Literature Review}
-\input{chapters/3.Literature}
-
-\input{chapters/31.PowerS}
-\newpage
-
-\input{chapters/32.EnergyS}
-\newpage
-
-\input{chapters/33.WirelessN}
-\newpage
-
-\input{chapters/34.SmartM}
-\newpage
-
-\input{chapters/35.DSS}
-\newpage
-
-\input{chapters/36.OutlierD}
-
-%\chapter{Results and Discussion}
-%\input{chapters/4.Results}
-
-\chapter{Methodology and Work Plan}
-\input{chapters/4.Methodology}
-
-\chapter{Preliminary Work}
-\input{chapters/5.Preliminary}
+	\input{chapters/36.OutlierD}
 
 
 
-\bibliographystyle{chicago}
+	\chapter{Methodology and Work Plan}
+	\input{chapters/4.Methodology}
+
+	\chapter{Preliminary Work}
+	\input{chapters/5.Preliminary}
+
+
+
+	\bibliographystyle{IEEEtran}
+	%nota: não ter espaços entre ficheiros
+	\renewcommand{\bibname}{References}
+	\bibliography{bib/shift2rail,bib/references,bib/31.PowerS,bib/32.EnergyS,bib/33.WirelessN,bib/34.SmartM,bib/35.DSS,bib/36.OutlierD,bib/4.Method,bib/5.Preliminary}
+
+	\pdfbookmark[0]{References}{references}
+	\indent
+
+\end{document}
+
+%\bibliographystyle{chicago}
 %chicago}
 
 %nota: não ter espaços entre ficheiros
-\bibliography{bib/shift2rail,bib/references,bib/31.PowerS,bib/32.EnergyS,bib/33.WirelessN,bib/34.SmartM,bib/35.DSS,bib/36.OutlierD,bib/4.Method,bib/5.Preliminary}
+%\bibliography{bib/shift2rail,bib/references,bib/31.PowerS,bib/32.EnergyS,bib/33.WirelessN,bib/34.SmartM,bib/35.DSS,bib/36.OutlierD,bib/4.Method,bib/5.Preliminary}
 %\bibliography{outliers}
 %\PrintBib{outliers, }
 
@@ -88,6 +83,3 @@
 
 %\chapter*{Attachment 1 --- \large{Overview of communication systems for Smart Grids}}
 %\includepdf[pages=-, scale=0.9, offset=-10 0, pagecommand={\thispagestyle{plain}}]  {chapters/communication}
-
-
-\end{document}

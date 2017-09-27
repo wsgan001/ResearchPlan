@@ -3,10 +3,10 @@
 
 
 
-\section{Section 1: Power system of RTS}
+\section{Section 1: Power system of Railway Transportation System}
 
 
-In this section is started the literature review of this document, with the coverage of the power system of Railway Transportation System (RTS). This system is reported to transport <<need data>> of people and <<data>> goods. With high influence in the transportation of goods and people in the last century, this system had substantial technological enhancements. Currently we have a RTS with substantial differences in the supply system.
+In this section is started the literature review of this document, with the coverage of the power system of \ac{RTS}. This system is reported to transport <<need data>> of people and <<data>> goods. With high influence in the transportation of goods and people in the last century, this system had substantial technological enhancements. Currently we have a \ac{RTS} with substantial differences in the supply system.
 
 In subsection \ref{subs:311} is presented an overview on European railway electrical supply systems. Later on, in subsection \ref{subs:312}, a comparison between different catenary supply systems is presented and in subsection \ref{subs:313} is presented a comparison of the power system architecture of trains. A further detail on train electrical components is presented in subsection \ref{subs:314}.
 
@@ -14,14 +14,14 @@ This section is supported on the chapter 5 of the work of \cite{abad2016}. Furth
 
 \subsection{Overview of Existing European Railway Power Systems}
 \label{subs:311}
-Back to the 19th century, the steam turbine was the main propulsion system for the trains. Later on, electric and diesel propulsion systems were adopted. In recent years occurred a massive introduction of IGBT-based power converters, which allowed an increase of energy efficiency (allowing, for example, regenerative breaking and reduction of power losses in traction motors).
+Back to the 19th century, the steam turbine was the main propulsion system for the trains. Later on, electric and diesel propulsion systems were adopted. In recent years occurred a massive introduction of power converters based on \ac{IGBT}, which allowed an increase of energy efficiency (allowing, for example, regenerative breaking and reduction of power losses in traction motors).
 
-Due to this evolution, different topologies of the railway system exists nowadays. In table \ref{tab:31.t1}, different catenary topologies are visible which results in different power systems for RTS.
+Due to this evolution, different topologies of the railway system exists nowadays. In table \ref{tab:31.t1}, different catenary topologies are visible which results in different power systems for \ac{RTS}.
 
 
 \input{tables/31.overview}
 
-Across the Europe, RTS depends on different types of electrification systems, as it is illustrated in figure \ref{fig:abad2016}.
+Across the Europe, \ac{RTS} depends on different types of electrification systems, as it is illustrated in figure \ref{fig:abad2016}.
 
 
 \begin{figure}[h!]
@@ -55,7 +55,7 @@ As previously referred, the catenary can be divided in three main topologies:
 
 \paragraph{1. DC supply system\\}
 
-The DC supply system depends on rectifier converters (controlled or uncontrolled) and this railway power supply topology requires several traction substations, towards the reduction of power losses in catenary due to the high value of the electric current. In figure \ref{fig:abad2016f} is presented the supply architecture of such lines.
+The \ac{DC} supply system depends on rectifier converters (controlled or uncontrolled) and this railway power supply topology requires several traction substations, towards the reduction of power losses in catenary due to the high value of the electric current. In figure \ref{fig:abad2016f} is presented the supply architecture of such lines.
 
 \begin{comment}
 	\begin{figure}[h!]
@@ -86,7 +86,7 @@ The DC supply system depends on rectifier converters (controlled or uncontrolled
 		\centering
 		\includegraphics[width=0.8\textwidth,keepaspectratio]{figures/31.PowerS/abad2016f}
 		%		\vspace{0.5em}
-		\captionof{figure}{DC supply system architecture. Adapted from \cite{abad2016}.}
+		\captionof{figure}{\ac{DC} supply system architecture. Adapted from \cite{abad2016}.}
 		\label{fig:abad2016f}
 	\end{minipage}
 \end{figure}
@@ -96,9 +96,9 @@ The DC supply system depends on rectifier converters (controlled or uncontrolled
 
 \paragraph{2. AC 50Hz (or 60Hz) supply system\\}
 
-With AC catenaries, low frequency single-phase on-board transformer is required to step down the catenary voltage (25 kV or 15 kV) to the rectifier operating voltage (the rectifier is a single-phase voltage source converter, usually with bi-directional power flow).
+With \ac{AC} catenaries, low frequency single-phase on-board transformer is required to step down the catenary voltage (25 kV or 15 kV) to the rectifier operating voltage (the rectifier is a single-phase voltage source converter, usually with bi-directional power flow).
 
-On the traction substation, a special setup of power transformers avoids the usage of complete power converters. In figure \ref{fig:abad2016d} is presented the substation setup to supply a single-phase 50Hz catenary.
+On the traction substation, a special setup of power transformers avoids the usage of complete power converters. In figure \ref{fig:abad2016d} is presented the substation setup to supply a single-phase 50 Hz catenary.
 
 \begin{figure}[h!]
 	\centering
@@ -106,14 +106,14 @@ On the traction substation, a special setup of power transformers avoids the usa
 		\centering
 		\includegraphics[width=0.8\textwidth,keepaspectratio]{figures/31.PowerS/abad2016d}
 		%		\vspace{0.5em}
-		\captionof{figure}{50Hz 25kV supply system. Adapted from \cite{abad2016}.}
+		\captionof{figure}{50 Hz 25 kV supply system. Adapted from \cite{abad2016}.}
 		\label{fig:abad2016d}
 	\end{minipage}
 \end{figure}
 
 
-\paragraph{3. AC 16.7Hz supply systems\\}
-An alternative setup is presented in figure \ref{fig:abad2016e} where a single-phase 16.7Hz supply voltage is generated with a complete power converter. 
+\paragraph{3. AC 16.7 Hz supply systems\\}
+An alternative setup is presented in figure \ref{fig:abad2016e} where a single-phase 16.7 Hz supply voltage is generated with a complete power converter. 
 %\vspace{-2.5em}
 
 \begin{figure}[h!]
@@ -122,7 +122,7 @@ An alternative setup is presented in figure \ref{fig:abad2016e} where a single-p
 		\centering
 		\includegraphics[width=0.8\textwidth,keepaspectratio]{figures/31.PowerS/abad2016e}
 		%		\vspace{0.5em}
-		\captionof{figure}{16.7Hz 15kV supply system. Adapted from \cite{abad2016}.}
+		\captionof{figure}{16.7 Hz 15 kV supply system. Adapted from \cite{abad2016}.}
 		\label{fig:abad2016e}
 	\end{minipage}
 \end{figure}
@@ -155,10 +155,10 @@ An alternative setup is presented in figure \ref{fig:abad2016e} where a single-p
 In this subsection, three types of powering in trains are presented. The first two require a catenary to supply the train and the third are dependent on on-board energy generation (using diesel internal combustion engine).
 
 
-\paragraph{1. DC supply system\\}
+\paragraph{1. \ac{DC} supply system\\}
 
 
-The DC catenary allows an almost direct connection between train power traction and inverter DC bus, as represented in figure \ref{fig:steimel2008a}.
+The \ac{DC} catenary allows an almost direct connection between train power traction and inverter DC bus, as represented in figure \ref{fig:steimel2008a}.
 
 
 \begin{figure}[h!]
@@ -167,15 +167,15 @@ The DC catenary allows an almost direct connection between train power traction 
 		\centering
 		\includegraphics[width=0.8\textwidth,keepaspectratio]{figures/31.PowerS/steimel2008a}
 		%		\vspace{0.5em}
-		\captionof{figure}{Train internal power circuit of a DC supply system. Adapted from \cite{steimel2008}.}
+		\captionof{figure}{Train internal power circuit of a \ac{DC} supply system. Adapted from \cite{steimel2008}.}
 		\label{fig:steimel2008a}
 	\end{minipage}
 \end{figure}
 
 
-\paragraph{2. AC supply system\\}
+\paragraph{2. \ac{AC} supply system\\}
 
-As previously presented, the catenary voltages can be either AC or DC. On the AC catenaries, a single phase transformer and an rectifier is needed to create a DC bus for traction power converters, as presented in figure \ref{fig:steimel2008b}.
+As previously presented, the catenary voltages can be either \ac{AC} or \ac{DC}. On the AC catenaries, a single phase transformer and an rectifier is needed to create a \ac{DC} bus for traction power converters, as presented in figure \ref{fig:steimel2008b}.
 
 \begin{figure}[h!]
 	\centering
@@ -183,7 +183,7 @@ As previously presented, the catenary voltages can be either AC or DC. On the AC
 		\centering
 		\includegraphics[width=0.8\textwidth,keepaspectratio]{figures/31.PowerS/steimel2008b}
 		%		\vspace{0.5em}
-		\captionof{figure}{Train internal power circuit of a AC supply system. Adapted from \cite{steimel2008}.}
+		\captionof{figure}{Train internal power circuit of a \ac{AC} supply system. Adapted from \cite{steimel2008}.}
 		\label{fig:steimel2008b}
 	\end{minipage}
 \end{figure}
@@ -205,11 +205,12 @@ An important market share in railway traction is occupied by diesel trains. This
 	\end{minipage}
 \end{figure}
 
-
+\newpage
 \subsection{Train Power Components}
 \label{subs:314}
 
-In figure \ref{fig:train_finale}, the train power components are illustrated.
+In figure \ref{fig:train_finale}, the train power components are illustrated. Further description of each of the main components of train internal power circuitry is listed in bellow.
+
 
 \begin{figure}[h!]
 	\centering
@@ -245,7 +246,7 @@ In figure \ref{fig:train_finale}, the train power components are illustrated.
 	
 \paragraph{7. Power Semiconductors\\}
 
-	The power semiconductor devices are present in train power conditioning and they act as on-off switches. The power conditioning is responsible for the conversion between alternate and continuous  electrical waveforms, as they are needed for the interface between traction transformer (AC) and the electric traction motors (AC). The relevant technologies are the Gate Turn-off Thyristors (GTO) and the Insulated Gate Bipolar Transistors (IGBT).
+	The power semiconductor devices are present in train power conditioning and they act as on-off switches. The power conditioning is responsible for the conversion between alternate and continuous  electrical waveforms, as they are needed for the interface between traction transformer (\ac{AC}) and the electric traction motors (\ac{AC}). The relevant technologies are the \ac{GTO} and the \ac{IGBT}.
 
 \paragraph{8. Braking Resistor\\}
 
