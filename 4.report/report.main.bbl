@@ -339,16 +339,16 @@ F.~Almagro and A.~Marano, ``An open source software for railway electrical
   \url{https://www.scopus.com/inward/record.uri?eid=2-s2.0-85015386541&doi=10.1109%2fESARS-ITEC.2016.7841397&partnerID=40&md5=99d8d5442b7f108af9f735e1370dfbb2}
 \BIBentrySTDinterwordspacing
 
-\bibitem{martins2016}
-A.~Martins, V.~Morais, M.~Ferreira, and A.~Carvalho, ``Control architecture
-  based on {FPGA} for a renewable energy system,'' in \emph{IECON 2016 - 42nd
-  Annual Conference of the IEEE Industrial Electronics Society}, Oct 2016, pp.
-  4048--4053.
-
 \bibitem{noori2013}
 H.~Noori and M.~Valkama, ``Impact of vanet-based v2x communication using ieee
   802.11p on reducing vehicles traveling time in realistic large scale urban
   area,'' in \emph{2013 International Conference on Connected Vehicles and Expo
   (ICCVE)}, Dec 2013, pp. 654--661.
+
+\bibitem{martins2016}
+A.~Martins, V.~Morais, M.~Ferreira, and A.~Carvalho, ``Control architecture
+  based on {FPGA} for a renewable energy system,'' in \emph{IECON 2016 - 42nd
+  Annual Conference of the IEEE Industrial Electronics Society}, Oct 2016, pp.
+  4048--4053.
 
 \end{thebibliography}

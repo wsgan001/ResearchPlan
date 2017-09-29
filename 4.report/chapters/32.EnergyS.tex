@@ -1,7 +1,7 @@
 
 
 
-\section{Section 2: Energy Sensors}
+\section{Energy Sensors}
 
 
 In this section is covered the theory behind energy sensors as well as the technologies used. In subsection \ref{subs:321} is started the presentation of the electric energy. Further on, in subsection \ref{subs:322} is covered the energy transducers and in subsection \ref{subs:323} is presented the challenges and requirements of energy measurement in \ac{RTS}. 
@@ -44,10 +44,10 @@ The energy calculation depends on the voltage and currents measured in the caten
 
 \begin{figure}[h!]
 	\centering
-	\begin{minipage}{0.8\textwidth}
+	\begin{minipage}{0.9\textwidth}
 		\centering
 				\vspace{-0.75em}
-		\includegraphics[width=0.75\textwidth,keepaspectratio]{figures/32.EnergyS/liran2014}
+		\includegraphics[width=0.65\textwidth,keepaspectratio]{figures/32.EnergyS/liran2014}
 				\vspace{-0.75em}
 		\captionof{figure}{1h waveforms of active power (black), reactive power (red) and power factor (blue) of {$HX_D1B$} locomotive.  Adapted from \cite{liran2014}.}
 		\label{fig:liran2014}
@@ -58,9 +58,10 @@ The energy calculation depends on the voltage and currents measured in the caten
 
 \subsection{Current transducers and voltage transducers}
 \label{subs:322}	
-	According to \cite{webster2012}, a transducer is a device capable to convert different physical signal forms. In the scope of energy measurements, current and voltage transducers are employed. These devices converts the field energy waveforms into a voltage (or current) waveform capable of be acquired by a processing unit (such as a microcontroller, programmable logic controller, etc).
+	According to Pallàs-Areny and Webster (2012), a transducer is a device capable to convert different physical signal forms, \cite{webster2012}. In the scope of energy measurements, current and voltage transducers are employed. These devices convert the field energy waveforms into a voltage (or current) waveform capable of be acquired by a processing unit (such as a microcontroller, programmable logic controller, etc.).
 	
-	\cite{Dalessandro2007} identifies multiple different physical effects associated to the current sensors\footnote{In the scope of energy measurements, voltage transducers combine the measurement of a current in a given load (or resistor). Therefore this subsection will only cover the measurement of currents} as following:
+	Dalessandro et al. (2007) identifies multiple different physical effects associated to the current sensors %\footnote{In the scope of energy measurements, voltage transducers combine the measurement of a current in a given load (or resistor). Therefore this subsection will only cover the measurement of currents} 
+	as following, \cite{Dalessandro2007}:
 	
 	\begin{description}
 		\setlength\itemsep{-0em}
@@ -74,9 +75,31 @@ The energy calculation depends on the voltage and currents measured in the caten
 		
 	\end{description}
 
-	The voltage transducers depends of an indirect measurement of the electric field. In particular, the principle is the combination of the current measurement in a known load (or resistor), connected to the terminals of the circuit intended to be measured and using the principles previously presented in 
+	The voltage transducers depend of an indirect measurement of the electric field. In particular, the principle is the combination of the current measurement in a known load (or resistor), connected to the terminals of the circuit intended to be measured and using the principles previously presented. In figures \ref{fig:current_t} and \ref{fig:voltage_t} are presented two transducers used for energy measurement in RTS.
 	
-
+	\begin{figure}[h!]
+		\centering
+		\begin{minipage}{0.45\textwidth}
+			\centering
+			%		\vspace{2.5em}
+			\includegraphics[width=0.32\textwidth,keepaspectratio]{figures/32.EnergyS/current_t}
+			%		\vspace{2em}
+			\captionof{figure}{25 kV current transformer. Adapted from www.railware.it}%\footnotetext{www.railware.it}}
+			\label{fig:current_t}
+		\end{minipage}%
+		\begin{minipage}{0.05\textwidth}  ~\end{minipage}	
+		\begin{minipage}{0.45\textwidth}
+			\centering
+			\includegraphics[width=0.25\textwidth,keepaspectratio]{figures/32.EnergyS/voltage_t}
+			
+			
+			%		\vspace{0.5em}
+			\captionof{figure}{25 kV voltage transformer. Adapted from www.railware.it}%\footnotetext{www.railware.it}}
+			\label{fig:voltage_t}
+		\end{minipage}
+	\end{figure}
+	
+%\vspace{-2em}
 \subsection{Energy measurement in RTS}	
 \label{subs:323}
 

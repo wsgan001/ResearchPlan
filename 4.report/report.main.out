@@ -11,31 +11,31 @@
 \BOOKMARK [1][-]{section.2.1}{Objectives}{chapter.2}% 11
 \BOOKMARK [1][-]{section.2.2}{Contributions}{chapter.2}% 12
 \BOOKMARK [0][-]{chapter.3}{Literature Review}{}% 13
-\BOOKMARK [1][-]{section.3.1}{Section 1: Power system of Railway Transportation System}{chapter.3}% 14
+\BOOKMARK [1][-]{section.3.1}{Power system of Railway Transportation System}{chapter.3}% 14
 \BOOKMARK [2][-]{subsection.3.1.1}{Overview of Existing European Railway Power Systems}{section.3.1}% 15
 \BOOKMARK [2][-]{subsection.3.1.2}{Railway Power Supply System}{section.3.1}% 16
 \BOOKMARK [2][-]{subsection.3.1.3}{Train Power Supply System}{section.3.1}% 17
 \BOOKMARK [2][-]{subsection.3.1.4}{Train Power Components}{section.3.1}% 18
-\BOOKMARK [1][-]{section.3.2}{Section 2: Energy Sensors}{chapter.3}% 19
+\BOOKMARK [1][-]{section.3.2}{Energy Sensors}{chapter.3}% 19
 \BOOKMARK [2][-]{subsection.3.2.1}{Electric Energy Overview}{section.3.2}% 20
 \BOOKMARK [2][-]{subsection.3.2.2}{Current transducers and voltage transducers}{section.3.2}% 21
 \BOOKMARK [2][-]{subsection.3.2.3}{Energy measurement in RTS}{section.3.2}% 22
 \BOOKMARK [2][-]{subsection.3.2.4}{Energy measurement function}{section.3.2}% 23
-\BOOKMARK [1][-]{section.3.3}{Section 3: Wireless networks}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.3}{Wireless networks}{chapter.3}% 24
 \BOOKMARK [2][-]{subsection.3.3.1}{Network technologies \205 historic overview}{section.3.3}% 25
 \BOOKMARK [2][-]{subsection.3.3.2}{Current Wireless technologies and standards}{section.3.3}% 26
 \BOOKMARK [2][-]{subsection.3.3.3}{Protocols and standards}{section.3.3}% 27
 \BOOKMARK [2][-]{subsection.3.3.4}{Communication KPI}{section.3.3}% 28
 \BOOKMARK [2][-]{subsection.3.3.5}{Network Simulators and Network Emulators}{section.3.3}% 29
-\BOOKMARK [1][-]{section.3.4}{Section 4: Smart metering}{chapter.3}% 30
+\BOOKMARK [1][-]{section.3.4}{Smart metering}{chapter.3}% 30
 \BOOKMARK [2][-]{subsection.3.4.1}{Smart grids and the need for smart meters}{section.3.4}% 31
 \BOOKMARK [2][-]{subsection.3.4.2}{Features of smart meters and metering systems}{section.3.4}% 32
 \BOOKMARK [2][-]{subsection.3.4.3}{Metering systems in railways}{section.3.4}% 33
-\BOOKMARK [1][-]{section.3.5}{Section 5: Decision Support Systems}{chapter.3}% 34
+\BOOKMARK [1][-]{section.3.5}{Decision Support Systems}{chapter.3}% 34
 \BOOKMARK [2][-]{subsection.3.5.1}{The information and knowledge as the base of DSS}{section.3.5}% 35
 \BOOKMARK [2][-]{subsection.3.5.2}{Eco-driving \205 driving assistant}{section.3.5}% 36
 \BOOKMARK [2][-]{subsection.3.5.3}{Timetable scheduling}{section.3.5}% 37
-\BOOKMARK [1][-]{section.3.6}{Section 6: Issues and problems in WSN}{chapter.3}% 38
+\BOOKMARK [1][-]{section.3.6}{Issues and problems in WSN}{chapter.3}% 38
 \BOOKMARK [2][-]{subsection.3.6.1}{Outlier and outlier detection}{section.3.6}% 39
 \BOOKMARK [2][-]{subsection.3.6.2}{Literature review of Outlier detection in WSN}{section.3.6}% 40
 \BOOKMARK [2][-]{subsection.3.6.3}{Taxonomy of Outlier Detection Techniques}{section.3.6}% 41
@@ -53,7 +53,8 @@
 \BOOKMARK [2][-]{subsection.4.3.4}{Contributions}{section.4.3}% 53
 \BOOKMARK [1][-]{section.4.4}{Work plan}{chapter.4}% 54
 \BOOKMARK [0][-]{chapter.5}{Preliminary Work}{}% 55
-\BOOKMARK [1][-]{section.5.1}{Evaluation of the non-intrusive voltage sensor}{chapter.5}% 56
+\BOOKMARK [1][-]{section.5.1}{Implementation of a point-to-point communication between a moving train and a station}{chapter.5}% 56
 \BOOKMARK [2][-]{subsection.5.1.1}{Conclusions and future work}{section.5.1}% 57
-\BOOKMARK [1][-]{section.5.2}{Implementation of a point-to-point communication between a moving train and a station}{chapter.5}% 58
-\BOOKMARK [0][-]{references.0}{References}{}% 59
+\BOOKMARK [1][-]{section.5.2}{Evaluation of the non-intrusive voltage sensor}{chapter.5}% 58
+\BOOKMARK [2][-]{subsection.5.2.1}{Conclusions and future work}{section.5.2}% 59
+\BOOKMARK [0][-]{references.0}{References}{}% 60

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.6)  27 SEP 2017 16:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.6)  29 SEP 2017 15:57
 entering extended mode
 **./report.main.tex
 (report.main.tex
@@ -1301,7 +1301,7 @@ nverted-to.pdf figures/0.Title/FEUP.eps>
 (epstopdf)             \includegraphics on input line 22.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/0.Title/FEUP-eps-converted-to.pdf, id=239, 563.10374pt x 174.6525pt>
+<figures/0.Title/FEUP-eps-converted-to.pdf, id=243, 563.10374pt x 174.6525pt>
 File: figures/0.Title/FEUP-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/0.Title/FEUP-eps-converted-to.pdf>
@@ -1350,7 +1350,7 @@ although it is yet undefined on input line 7.
 Package acronym Info: Label `acro:AC' newly defined as it shall be overridden
 although it is yet undefined on input line 11.
 Package acronym Info: Label `acro:EMS' newly defined as it shall be overridden
-although it is yet undefined on input line 24.
+although it is yet undefined on input line 26.
  [5
 
 
@@ -1394,7 +1394,7 @@ although it is yet undefined on input line 27.
 Package acronym Info: Label `acro:SMD' newly defined as it shall be overridden
 although it is yet undefined on input line 27.
 
-<figures/1.Intro/IPs.jpg, id=480, 602.25pt x 332.24126pt>
+<figures/1.Intro/IPs.jpg, id=488, 602.25pt x 332.24126pt>
 File: figures/1.Intro/IPs.jpg Graphic file (type jpg)
 
 <use figures/1.Intro/IPs.jpg>
@@ -1426,7 +1426,7 @@ Underfull \hbox (badness 1117) in paragraph at lines 10--10
 []|\OT1/cmr/m/n/9 600V DC, 750V DC,
  []
 
-) <figures/31.PowerS/abad2016.pdf, id=526, 313.65181pt x 317.12076pt>
+) <figures/31.PowerS/abad2016.pdf, id=535, 313.65181pt x 317.12076pt>
 File: figures/31.PowerS/abad2016.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/abad2016.pdf>
@@ -1439,33 +1439,33 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [7
 
 
-] <figures/31.PowerS/abad2016f.pdf, id=535, 296.31424pt x 172.46414pt>
+] <figures/31.PowerS/abad2016f.pdf, id=544, 296.31424pt x 172.46414pt>
 File: figures/31.PowerS/abad2016f.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/abad2016f.pdf>
 Package pdftex.def Info: figures/31.PowerS/abad2016f.pdf used on input line 87.
 
-(pdftex.def)             Requested size: 212.47676pt x 123.66618pt.
+(pdftex.def)             Requested size: 247.88594pt x 144.27678pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [8 <./figures/31.PowerS/abad2016.pdf>]
-<figures/31.PowerS/abad2016d.pdf, id=551, 369.23532pt x 127.32253pt>
+<figures/31.PowerS/abad2016d.pdf, id=560, 369.23532pt x 127.32253pt>
 File: figures/31.PowerS/abad2016d.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/abad2016d.pdf>
 Package pdftex.def Info: figures/31.PowerS/abad2016d.pdf used on input line 107
 .
-(pdftex.def)             Requested size: 212.47676pt x 73.2662pt.
+(pdftex.def)             Requested size: 247.88594pt x 85.4766pt.
 
-<figures/31.PowerS/abad2016e.pdf, id=555, 373.86523pt x 144.6847pt>
+<figures/31.PowerS/abad2016e.pdf, id=564, 373.86523pt x 144.6847pt>
 File: figures/31.PowerS/abad2016e.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/abad2016e.pdf>
 Package pdftex.def Info: figures/31.PowerS/abad2016e.pdf used on input line 123
 .
-(pdftex.def)             Requested size: 212.47676pt x 82.22827pt.
+(pdftex.def)             Requested size: 247.88594pt x 95.93152pt.
  [9 <./figures/31.PowerS/abad2016f.pdf> <./figures/31.PowerS/abad2016d.pdf
 
 pdfTeX warning: pdflatex.exe (file ./figures/31.PowerS/abad2016d.pdf): PDF incl
@@ -1474,29 +1474,29 @@ usion: multiple pdfs with page group included in a single page
 
 pdfTeX warning: pdflatex.exe (file ./figures/31.PowerS/abad2016e.pdf): PDF incl
 usion: multiple pdfs with page group included in a single page
->] <figures/31.PowerS/steimel2008a.pdf, id=583, 192.38274pt x 79.85835pt>
+>] <figures/31.PowerS/steimel2008a.pdf, id=592, 192.38274pt x 79.85835pt>
 File: figures/31.PowerS/steimel2008a.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/steimel2008a.pdf>
 Package pdftex.def Info: figures/31.PowerS/steimel2008a.pdf used on input line 
 168.
-(pdftex.def)             Requested size: 212.47676pt x 88.20268pt.
+(pdftex.def)             Requested size: 247.88594pt x 102.9007pt.
 
-<figures/31.PowerS/steimel2008b.pdf, id=587, 191.22641pt x 77.90706pt>
+<figures/31.PowerS/steimel2008b.pdf, id=596, 191.22641pt x 77.90706pt>
 File: figures/31.PowerS/steimel2008b.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/steimel2008b.pdf>
 Package pdftex.def Info: figures/31.PowerS/steimel2008b.pdf used on input line 
 184.
-(pdftex.def)             Requested size: 212.47676pt x 86.56699pt.
+(pdftex.def)             Requested size: 247.88594pt x 100.99382pt.
 
-<figures/31.PowerS/steimel2008c.pdf, id=591, 199.89882pt x 63.95895pt>
+<figures/31.PowerS/steimel2008c.pdf, id=600, 199.89882pt x 63.95895pt>
 File: figures/31.PowerS/steimel2008c.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/steimel2008c.pdf>
 Package pdftex.def Info: figures/31.PowerS/steimel2008c.pdf used on input line 
 202.
-(pdftex.def)             Requested size: 212.47676pt x 67.98547pt.
+(pdftex.def)             Requested size: 247.88594pt x 79.3151pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1506,7 +1506,7 @@ f
 
 pdfTeX warning: pdflatex.exe (file ./figures/31.PowerS/steimel2008b.pdf): PDF i
 nclusion: multiple pdfs with page group included in a single page
->] <figures/31.PowerS/train_finale.png, id=612, 9199.36874pt x 5393.14874pt>
+>] <figures/31.PowerS/train_finale.png, id=621, 9199.36874pt x 5393.14874pt>
 File: figures/31.PowerS/train_finale.png Graphic file (type png)
 
 <use figures/31.PowerS/train_finale.png>
@@ -1519,7 +1519,7 @@ Package acronym Info: Label `acro:GTO' newly defined as it shall be overridden
 although it is yet undefined on input line 249.
 ) [12]
 (chapters/32.EnergyS.tex
-<figures/32.EnergyS/traction.pdf, id=634, 321.69786pt x 174.56017pt>
+<figures/32.EnergyS/traction.pdf, id=643, 321.69786pt x 174.56017pt>
 File: figures/32.EnergyS/traction.pdf Graphic file (type pdf)
 
 <use figures/32.EnergyS/traction.pdf>
@@ -1527,7 +1527,7 @@ Package pdftex.def Info: figures/32.EnergyS/traction.pdf used on input line 25.
 
 (pdftex.def)             Requested size: 212.4719pt x 115.29262pt.
 
-<figures/32.EnergyS/generation.pdf, id=635, 321.69786pt x 174.56017pt>
+<figures/32.EnergyS/generation.pdf, id=644, 321.69786pt x 174.56017pt>
 File: figures/32.EnergyS/generation.pdf Graphic file (type pdf)
 
 <use figures/32.EnergyS/generation.pdf>
@@ -1535,51 +1535,73 @@ Package pdftex.def Info: figures/32.EnergyS/generation.pdf used on input line 3
 3.
 (pdftex.def)             Requested size: 212.4719pt x 115.29262pt.
 
-<figures/32.EnergyS/liran2014.pdf, id=637, 230.90265pt x 137.45753pt>
+<figures/32.EnergyS/liran2014.pdf, id=646, 230.90265pt x 137.45753pt>
 File: figures/32.EnergyS/liran2014.pdf Graphic file (type pdf)
 
 <use figures/32.EnergyS/liran2014.pdf>
 Package pdftex.def Info: figures/32.EnergyS/liran2014.pdf used on input line 50
 .
-(pdftex.def)             Requested size: 265.59325pt x 158.12735pt.
+(pdftex.def)             Requested size: 258.94824pt x 154.1695pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [13 <./figures/32.EnergyS/traction.pdf> <./figures/32.EnergyS/generation.pdf>]
-Package acronym Info: Label `acro:RUs' newly defined as it shall be overridden
-although it is yet undefined on input line 83.
+<figures/32.EnergyS/current_t.pdf, id=677, 162.46297pt x 191.37097pt>
+File: figures/32.EnergyS/current_t.pdf Graphic file (type pdf)
 
-[14 <./figures/32.EnergyS/liran2014.pdf>]
-Overfull \hbox (3.4761pt too wide) in paragraph at lines 94--95
+<use figures/32.EnergyS/current_t.pdf>
+Package pdftex.def Info: figures/32.EnergyS/current_t.pdf used on input line 85
+.
+(pdftex.def)             Requested size: 63.74315pt x 75.08406pt.
+
+<figures/32.EnergyS/voltage_t.pdf, id=678, 130.37508pt x 192.81636pt>
+File: figures/32.EnergyS/voltage_t.pdf Graphic file (type pdf)
+
+<use figures/32.EnergyS/voltage_t.pdf>
+Package pdftex.def Info: figures/32.EnergyS/voltage_t.pdf used on input line 93
+.
+(pdftex.def)             Requested size: 49.7982pt x 73.64755pt.
+Package acronym Info: Label `acro:RUs' newly defined as it shall be overridden
+although it is yet undefined on input line 106.
+ [14 <./figures/32.EnergyS/liran2014.pdf> <./figures/32.EnergyS/current_t.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/32.EnergyS/current_t.pdf): PDF inc
+lusion: multiple pdfs with page group included in a single page
+> <./figures/32.EnergyS/voltage_t.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/32.EnergyS/voltage_t.pdf): PDF inc
+lusion: multiple pdfs with page group included in a single page
+>]
+Overfull \hbox (3.4761pt too wide) in paragraph at lines 117--118
 []\OT1/cmr/m/n/10.95 This stan-dard de-fines the as-pects of tem-per-a-ture, hu
 -mid-ity, shock,
  []
 
 Package acronym Info: Label `acro:GPS' newly defined as it shall be overridden
-although it is yet undefined on input line 98.
+although it is yet undefined on input line 121.
 Package acronym Info: Label `acro:TCMS' newly defined as it shall be overridden
 
-although it is yet undefined on input line 98.
-<figures/32.EnergyS/ecos.pdf, id=687, 190.35918pt x 195.77943pt>
+although it is yet undefined on input line 121.
+<figures/32.EnergyS/ecos.pdf, id=706, 190.35918pt x 195.77943pt>
 File: figures/32.EnergyS/ecos.pdf Graphic file (type pdf)
 
 <use figures/32.EnergyS/ecos.pdf>
-Package pdftex.def Info: figures/32.EnergyS/ecos.pdf used on input line 109.
+Package pdftex.def Info: figures/32.EnergyS/ecos.pdf used on input line 132.
 (pdftex.def)             Requested size: 123.94568pt x 127.47916pt.
  [15 <./figures/32.EnergyS/ecos.pdf>]
-<figures/32.EnergyS/energy_calculation.pdf, id=708, 424.36943pt x 283.87657pt>
+<figures/32.EnergyS/energy_calculation.pdf, id=729, 424.36943pt x 283.87657pt>
 File: figures/32.EnergyS/energy_calculation.pdf Graphic file (type pdf)
 
 <use figures/32.EnergyS/energy_calculation.pdf>
 Package pdftex.def Info: figures/32.EnergyS/energy_calculation.pdf used on inpu
-t line 128.
+t line 151.
 (pdftex.def)             Requested size: 354.12434pt x 236.89964pt.
 ) [16 <./figures/32.EnergyS/energy_calculation.pdf>] (chapters/33.WirelessN.tex
 Package acronym Info: Label `acro:IP' newly defined as it shall be overridden
 although it is yet undefined on input line 19.
 
-<figures/33.WirelessN/comer2008.pdf, id=729, 387.94536pt x 207.27036pt>
+<figures/33.WirelessN/comer2008.pdf, id=750, 387.94536pt x 207.27036pt>
 File: figures/33.WirelessN/comer2008.pdf Graphic file (type pdf)
 
 <use figures/33.WirelessN/comer2008.pdf>
@@ -1614,14 +1636,16 @@ Package acronym Info: Label `acro:MAC' newly defined as it shall be overridden
 although it is yet undefined on input line 93.
 Package acronym Info: Label `acro:OSI' newly defined as it shall be overridden
 although it is yet undefined on input line 93.
- <figures/nancy2014.png, id=774, 1118.67938pt x 577.40718pt>
-File: figures/nancy2014.png Graphic file (type png)
 
-<use figures/nancy2014.png>
-Package pdftex.def Info: figures/nancy2014.png used on input line 98.
-(pdftex.def)             Requested size: 486.92181pt x 251.32869pt.
+<figures/33.WirelessN/nancy2014.png, id=795, 1118.67938pt x 577.40718pt>
+File: figures/33.WirelessN/nancy2014.png Graphic file (type png)
 
-Overfull \hbox (44.26807pt too wide) in paragraph at lines 98--99
+<use figures/33.WirelessN/nancy2014.png>
+Package pdftex.def Info: figures/33.WirelessN/nancy2014.png used on input line 
+98.
+(pdftex.def)             Requested size: 464.78778pt x 239.90144pt.
+
+Overfull \hbox (22.13403pt too wide) in paragraph at lines 98--99
  [][] 
  []
 
@@ -1630,24 +1654,27 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Package acronym Info: Label `acro:PHY' newly defined as it shall be overridden
 although it is yet undefined on input line 103.
-[19] <figures/radmand2010.png, id=796, 534.49687pt x 352.31625pt>
-File: figures/radmand2010.png Graphic file (type png)
+[19] <figures/33.WirelessN/radmand2010.png, id=817, 534.49687pt x 352.31625pt>
+File: figures/33.WirelessN/radmand2010.png Graphic file (type png)
 
-<use figures/radmand2010.png>
-Package pdftex.def Info: figures/radmand2010.png used on input line 125.
+<use figures/33.WirelessN/radmand2010.png>
+Package pdftex.def Info: figures/33.WirelessN/radmand2010.png used on input lin
+e 125.
 (pdftex.def)             Requested size: 265.59494pt x 175.07175pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[20 <./figures/nancy2014.png>] [21 <./figures/radmand2010.png>]
-<figures/simul_VS_emul.png, id=812, 935.495pt x 305.14pt>
-File: figures/simul_VS_emul.png Graphic file (type png)
+[20 <./figures/33.WirelessN/nancy2014.png>] [21 <./figures/33.WirelessN/radmand
+2010.png>]
+<figures/33.WirelessN/simul_VS_emul.png, id=833, 935.495pt x 305.14pt>
+File: figures/33.WirelessN/simul_VS_emul.png Graphic file (type png)
 
-<use figures/simul_VS_emul.png>
-Package pdftex.def Info: figures/simul_VS_emul.png used on input line 162.
+<use figures/33.WirelessN/simul_VS_emul.png>
+Package pdftex.def Info: figures/33.WirelessN/simul_VS_emul.png used on input l
+ine 162.
 (pdftex.def)             Requested size: 442.65375pt x 144.38426pt.
- [22 <./figures/simul_VS_emul.png>]
+ [22 <./figures/33.WirelessN/simul_VS_emul.png>]
 Overfull \hbox (9.9326pt too wide) in paragraph at lines 266--267
 []\OT1/cmr/m/n/10.95 This sim-u-la-tor states for be-ing an event-
  []
@@ -1673,7 +1700,7 @@ although it is yet undefined on input line 66.
 Package acronym Info: Label `acro:DHS' newly defined as it shall be overridden
 although it is yet undefined on input line 67.
  [26]
-<figures/34.SmartM/EMS.png, id=864, 813.0375pt x 429.605pt>
+<figures/34.SmartM/EMS.png, id=885, 813.0375pt x 429.605pt>
 File: figures/34.SmartM/EMS.png Graphic file (type png)
 
 <use figures/34.SmartM/EMS.png>
@@ -1683,7 +1710,7 @@ Package acronym Info: Label `acro:CEBD' newly defined as it shall be overridden
 
 although it is yet undefined on input line 91.
  [27 <./figures/34.SmartM/EMS.png>]
-<figures/34.SmartM/gatti2011.pdf, id=874, 704.3434pt x 345.81194pt>
+<figures/34.SmartM/gatti2011.pdf, id=895, 704.3434pt x 345.81194pt>
 File: figures/34.SmartM/gatti2011.pdf Graphic file (type pdf)
 
 <use figures/34.SmartM/gatti2011.pdf>
@@ -1698,7 +1725,7 @@ Package acronym Info: Label `acro:EETT' newly defined as it shall be overridden
 
 although it is yet undefined on input line 30.
 
-<figures/35.DSS/scheepmaker2017a.pdf, id=899, 256.41396pt x 152.63423pt>
+<figures/35.DSS/scheepmaker2017a.pdf, id=920, 256.41396pt x 152.63423pt>
 File: figures/35.DSS/scheepmaker2017a.pdf Graphic file (type pdf)
 
 <use figures/35.DSS/scheepmaker2017a.pdf>
@@ -1713,32 +1740,37 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Package acronym Info: Label `acro:EMI' newly defined as it shall be overridden
 although it is yet undefined on input line 5.
 
-<figures/general.png, id=930, 4979.60374pt x 3319.40125pt>
-File: figures/general.png Graphic file (type png)
+<figures/36.Outlier/general.png, id=951, 9976.27126pt x 7071.41875pt>
+File: figures/36.Outlier/general.png Graphic file (type png)
 
-<use figures/general.png>
-Package pdftex.def Info: figures/general.png used on input line 28.
-(pdftex.def)             Requested size: 331.99031pt x 221.28949pt.
- [31 <./figures/general.png (PNG copy)>]
+<use figures/36.Outlier/general.png>
+Package pdftex.def Info: figures/36.Outlier/general.png used on input line 28.
+(pdftex.def)             Requested size: 331.99031pt x 235.22423pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[31]
 Overfull \hbox (1.2543pt too wide) in paragraph at lines 42--43
 []\OT1/cmr/m/n/10.95 The De-ci-sion Sup-port Sub-
  []
 
-[32] [33]) [34]
+[32 <./figures/36.Outlier/general.png (PNG copy)>] [33]) [34]
 Chapter 4.
 (chapters/4.Methodology.tex
-<figures/4.Method/pyramid.png, id=978, 2903.84875pt x 2867.71375pt>
-File: figures/4.Method/pyramid.png Graphic file (type png)
+<figures/40.Method/pyramid.png, id=999, 2903.84875pt x 2867.71375pt>
+File: figures/40.Method/pyramid.png Graphic file (type png)
 
-<use figures/4.Method/pyramid.png>
-Package pdftex.def Info: figures/4.Method/pyramid.png used on input line 19.
+<use figures/40.Method/pyramid.png>
+Package pdftex.def Info: figures/40.Method/pyramid.png used on input line 19.
 (pdftex.def)             Requested size: 132.79747pt x 131.14192pt.
 
-<figures/4.Method/data_flow.png, id=980, 6516.345pt x 741.77126pt>
-File: figures/4.Method/data_flow.png Graphic file (type png)
+<figures/40.Method/data_flow.png, id=1001, 6516.345pt x 741.77126pt>
+File: figures/40.Method/data_flow.png Graphic file (type png)
 
-<use figures/4.Method/data_flow.png>
-Package pdftex.def Info: figures/4.Method/data_flow.png used on input line 29.
+<use figures/40.Method/data_flow.png>
+Package pdftex.def Info: figures/40.Method/data_flow.png used on input line 29.
+
 (pdftex.def)             Requested size: 354.12434pt x 40.30519pt.
 
 
@@ -1747,183 +1779,184 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [35
 
 
- <./figures/4.Method/pyramid.png (PNG copy)>]
-Package epstopdf Info: Source file: <figures/architecture.eps>
-(epstopdf)                    date: 2017-07-27 14:26:06
-(epstopdf)                    size: 159697 bytes
-(epstopdf)             Output file: <figures/architecture-eps-converted-to.pdf>
-
-(epstopdf)                    date: 2017-07-27 14:26:30
-(epstopdf)                    size: 85283 bytes
-(epstopdf)             Command: <epstopdf --outfile=figures/architecture-eps-co
-nverted-to.pdf figures/architecture.eps>
+ <./figures/40.Method/pyramid.png (PNG copy)>]
+Package epstopdf Info: Source file: <figures/40.Method/architecture.eps>
+(epstopdf)                    date: 2017-09-29 12:04:34
+(epstopdf)                    size: 209998 bytes
+(epstopdf)             Output file: <figures/40.Method/architecture-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2017-09-29 12:05:03
+(epstopdf)                    size: 130792 bytes
+(epstopdf)             Command: <epstopdf --outfile=figures/40.Method/architect
+ure-eps-converted-to.pdf figures/40.Method/architecture.eps>
 (epstopdf)             \includegraphics on input line 49.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/architecture-eps-converted-to.pdf, id=988, 543.02875pt x 228.855pt>
-File: figures/architecture-eps-converted-to.pdf Graphic file (type pdf)
+<figures/40.Method/architecture-eps-converted-to.pdf, id=1009, 543.02875pt x 22
+3.83624pt>
+File: figures/40.Method/architecture-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use figures/40.Method/architecture-eps-converted-to.pdf>
+Package pdftex.def Info: figures/40.Method/architecture-eps-converted-to.pdf us
+ed on input line 49.
+(pdftex.def)             Requested size: 442.65375pt x 182.46762pt.
+ [36 <./figures/40.Method/data_flow.png (PNG copy)> <./figures/40.Method/archit
+ecture-eps-converted-to.pdf>]
+<figures/40.Method/powerSensing.pdf, id=1040, 7833.265pt x 7924.60625pt>
+File: figures/40.Method/powerSensing.pdf Graphic file (type pdf)
 
-<use figures/architecture-eps-converted-to.pdf>
-Package pdftex.def Info: figures/architecture-eps-converted-to.pdf used on inpu
-t line 49.
-(pdftex.def)             Requested size: 442.65375pt x 186.55882pt.
- [36 <./figures/4.Method/data_flow.png (PNG copy)> <./figures/architecture-eps-
-converted-to.pdf>]
-<figures/4.Method/powerSensing.pdf, id=1012, 7050.34pt x 7132.6475pt>
-File: figures/4.Method/powerSensing.pdf Graphic file (type pdf)
-
-<use figures/4.Method/powerSensing.pdf>
-Package pdftex.def Info: figures/4.Method/powerSensing.pdf used on input line 8
-1.
-(pdftex.def)             Requested size: 309.85626pt x 313.44566pt.
+<use figures/40.Method/powerSensing.pdf>
+Package pdftex.def Info: figures/40.Method/powerSensing.pdf used on input line 
+81.
+(pdftex.def)             Requested size: 309.85626pt x 313.4236pt.
 Package acronym Info: Label `acro:FEM' newly defined as it shall be overridden
 although it is yet undefined on input line 98.
- [37 <./figures/4.Method/powerSensing.pdf>]
-<figures/4.Method/methodElectrical.pdf, id=1030, 15638.425pt x 7754.9725pt>
-File: figures/4.Method/methodElectrical.pdf Graphic file (type pdf)
+ [37 <./figures/40.Method/powerSensing.pdf>]
+<figures/40.Method/methodElectrical.pdf, id=1055, 15638.425pt x 7754.9725pt>
+File: figures/40.Method/methodElectrical.pdf Graphic file (type pdf)
 
-<use figures/4.Method/methodElectrical.pdf>
-Package pdftex.def Info: figures/4.Method/methodElectrical.pdf used on input li
-ne 104.
+<use figures/40.Method/methodElectrical.pdf>
+Package pdftex.def Info: figures/40.Method/methodElectrical.pdf used on input l
+ine 104.
 (pdftex.def)             Requested size: 398.38567pt x 197.49477pt.
- [38 <./figures/4.Method/methodElectrical.pdf>]
-<figures/4.Method/methodWireless.pdf, id=1050, 9170.26pt x 4653.385pt>
-File: figures/4.Method/methodWireless.pdf Graphic file (type pdf)
+ [38 <./figures/40.Method/methodElectrical.pdf>]
+<figures/40.Method/methodWireless.pdf, id=1075, 9170.26pt x 4653.385pt>
+File: figures/40.Method/methodWireless.pdf Graphic file (type pdf)
 
-<use figures/4.Method/methodWireless.pdf>
-Package pdftex.def Info: figures/4.Method/methodWireless.pdf used on input line
- 170.
+<use figures/40.Method/methodWireless.pdf>
+Package pdftex.def Info: figures/40.Method/methodWireless.pdf used on input lin
+e 171.
 (pdftex.def)             Requested size: 398.38567pt x 202.15079pt.
- [39 <./figures/4.Method/methodWireless.pdf>] [40] (tables/5.workplan.tex)) [41
-] [42
+ [39 <./figures/40.Method/methodWireless.pdf>] [40] (tables/5.workplan.tex)) [4
+1] [42
 
 
 ]
 Chapter 5.
 (chapters/5.Preliminary.tex
-<figures/5.PreliminaryW/voltage_sensor.jpg, id=1080, 730.22812pt x 508.90125pt>
-File: figures/5.PreliminaryW/voltage_sensor.jpg Graphic file (type jpg)
-<use figures/5.PreliminaryW/voltage_sensor.jpg>
-Package pdftex.def Info: figures/5.PreliminaryW/voltage_sensor.jpg used on inpu
-t line 17.
-(pdftex.def)             Requested size: 139.43436pt x 97.17368pt.
-
-<figures/5.PreliminaryW/voltage_sensor_eq.pdf, id=1081, 148.94847pt x 92.57787p
-t>
-File: figures/5.PreliminaryW/voltage_sensor_eq.pdf Graphic file (type pdf)
- <use figures/5.PreliminaryW/voltage_sensor_eq.pdf>
-Package pdftex.def Info: figures/5.PreliminaryW/voltage_sensor_eq.pdf used on i
-nput line 25.
-(pdftex.def)             Requested size: 159.35486pt x 99.05167pt.
-
-<figures/5.PreliminaryW/scope_0.png, id=1085, 803.0pt x 504.88625pt>
-File: figures/5.PreliminaryW/scope_0.png Graphic file (type png)
-
-<use figures/5.PreliminaryW/scope_0.png>
-Package pdftex.def Info: figures/5.PreliminaryW/scope_0.png used on input line 
-41.
-(pdftex.def)             Requested size: 199.19283pt x 125.24284pt.
-
-<figures/5.PreliminaryW/scope_2.png, id=1086, 803.0pt x 504.88625pt>
-File: figures/5.PreliminaryW/scope_2.png Graphic file (type png)
-
-<use figures/5.PreliminaryW/scope_2.png>
-Package pdftex.def Info: figures/5.PreliminaryW/scope_2.png used on input line 
-49.
-(pdftex.def)             Requested size: 199.19283pt x 125.24284pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[43 <./figures/5.PreliminaryW/voltage_sensor.jpg> <./figures/5.PreliminaryW/vol
-tage_sensor_eq.pdf>]
-<figures/5.PreliminaryW/generalArchitecture.pdf, id=1101, 9415.175pt x 3013.257
-5pt>
-File: figures/5.PreliminaryW/generalArchitecture.pdf Graphic file (type pdf)
- <use figures/5.PreliminaryW/generalArchitecture.pdf>
-Package pdftex.def Info: figures/5.PreliminaryW/generalArchitecture.pdf used on
- input line 67.
-(pdftex.def)             Requested size: 309.85626pt x 99.12975pt.
-
-<figures/5.PreliminaryW/processingArchitecture.pdf, id=1103, 13415.11874pt x 21
-67.09625pt>
-File: figures/5.PreliminaryW/processingArchitecture.pdf Graphic file (type pdf)
-
- <use figures/5.PreliminaryW/processingArchitecture.pdf>
-Package pdftex.def Info: figures/5.PreliminaryW/processingArchitecture.pdf used
- on input line 76.
-(pdftex.def)             Requested size: 442.65375pt x 71.49124pt.
- [44 <./figures/5.PreliminaryW/scope_0.png (PNG copy)> <./figures/5.Preliminary
-W/scope_2.png (PNG copy)> <./figures/5.PreliminaryW/generalArchitecture.pdf> <.
-/figures/5.PreliminaryW/processingArchitecture.pdf
-
-pdfTeX warning: pdflatex.exe (file ./figures/5.PreliminaryW/processingArchitect
-ure.pdf): PDF inclusion: multiple pdfs with page group included in a single pag
-e
->] <figures/5.PreliminaryW/scope_9.png, id=1127, 803.0pt x 504.88625pt>
-File: figures/5.PreliminaryW/scope_9.png Graphic file (type png)
-
-<use figures/5.PreliminaryW/scope_9.png>
-Package pdftex.def Info: figures/5.PreliminaryW/scope_9.png used on input line 
-94.
-(pdftex.def)             Requested size: 283.30055pt x 178.13034pt.
-
-<figures/5.PreliminaryW/scope_10.png, id=1128, 803.0pt x 504.88625pt>
-File: figures/5.PreliminaryW/scope_10.png Graphic file (type png)
-
-<use figures/5.PreliminaryW/scope_10.png>
-Package pdftex.def Info: figures/5.PreliminaryW/scope_10.png used on input line
- 102.
-(pdftex.def)             Requested size: 283.30055pt x 178.13034pt.
- [45 <./figures/5.PreliminaryW/scope_9.png (PNG copy)> <./figures/5.Preliminary
-W/scope_10.png (PNG copy)>]
-! Too many }'s.
-l.128 	\end{itemize}}
-                     
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-
-Overfull \hbox (9.16223pt too wide) in paragraph at lines 132--132
+Overfull \hbox (9.16223pt too wide) in paragraph at lines 1--1
 |[]\OT1/cmr/bx/n/14.4 Implementation of a point-to-point com-mu-ni-ca-tion be-t
 ween
  []
 
-<figures/5.PreliminaryW/porto-caide2.pdf, id=1137, 1923.185pt x 702.625pt>
-File: figures/5.PreliminaryW/porto-caide2.pdf Graphic file (type pdf)
+<figures/50.PreliminaryW/porto-caide2.pdf, id=1103, 1923.185pt x 702.625pt>
+File: figures/50.PreliminaryW/porto-caide2.pdf Graphic file (type pdf)
 
-<use figures/5.PreliminaryW/porto-caide2.pdf>
-Package pdftex.def Info: figures/5.PreliminaryW/porto-caide2.pdf used on input 
-line 141.
+<use figures/50.PreliminaryW/porto-caide2.pdf>
+Package pdftex.def Info: figures/50.PreliminaryW/porto-caide2.pdf used on input
+ line 10.
 (pdftex.def)             Requested size: 442.65375pt x 161.71828pt.
 
-<figures/5.PreliminaryW/omnetpp+ns3.pdf, id=1140, 13773.4575pt x 9770.5025pt>
-File: figures/5.PreliminaryW/omnetpp+ns3.pdf Graphic file (type pdf)
+<figures/50.PreliminaryW/omnetpp+ns3.pdf, id=1106, 13773.4575pt x 9770.5025pt>
+File: figures/50.PreliminaryW/omnetpp+ns3.pdf Graphic file (type pdf)
 
-<use figures/5.PreliminaryW/omnetpp+ns3.pdf>
-Package pdftex.def Info: figures/5.PreliminaryW/omnetpp+ns3.pdf used on input l
-ine 154.
+<use figures/50.PreliminaryW/omnetpp+ns3.pdf>
+Package pdftex.def Info: figures/50.PreliminaryW/omnetpp+ns3.pdf used on input 
+line 23.
 (pdftex.def)             Requested size: 376.25838pt x 266.86336pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[46 <./figures/5.PreliminaryW/porto-caide2.pdf>]
-<figures/5.PreliminaryW/distance-rate.pdf, id=1168, 1910.13625pt x 878.28125pt>
-File: figures/5.PreliminaryW/distance-rate.pdf Graphic file (type pdf)
-<use figures/5.PreliminaryW/distance-rate.pdf>
-Package pdftex.def Info: figures/5.PreliminaryW/distance-rate.pdf used on input
- line 164.
+[43 <./figures/50.PreliminaryW/porto-caide2.pdf>]
+<figures/50.PreliminaryW/distance-rate.pdf, id=1134, 1910.13625pt x 878.28125pt
+>
+File: figures/50.PreliminaryW/distance-rate.pdf Graphic file (type pdf)
+ <use figures/50.PreliminaryW/distance-rate.pdf>
+Package pdftex.def Info: figures/50.PreliminaryW/distance-rate.pdf used on inpu
+t line 33.
 (pdftex.def)             Requested size: 442.65375pt x 203.5282pt.
-) (report.main.bbl [47 <./figures/5.PreliminaryW/omnetpp+ns3.pdf> <./figures/5.
-PreliminaryW/distance-rate.pdf
 
-pdfTeX warning: pdflatex.exe (file ./figures/5.PreliminaryW/distance-rate.pdf):
- PDF inclusion: multiple pdfs with page group included in a single page
->] [48
+Underfull \vbox (badness 7486) has occurred while \output is active []
+
+ [44 <./figures/50.PreliminaryW/omnetpp+ns3.pdf> <./figures/50.PreliminaryW/dis
+tance-rate.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/50.PreliminaryW/distance-rate.pdf)
+: PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<figures/50.PreliminaryW/voltage_sensor.jpg, id=1158, 730.22812pt x 508.90125pt
+>
+File: figures/50.PreliminaryW/voltage_sensor.jpg Graphic file (type jpg)
+ <use figures/50.PreliminaryW/voltage_sensor.jpg>
+Package pdftex.def Info: figures/50.PreliminaryW/voltage_sensor.jpg used on inp
+ut line 64.
+(pdftex.def)             Requested size: 139.43436pt x 97.17368pt.
+
+<figures/50.PreliminaryW/voltage_sensor_eq.pdf, id=1159, 148.94847pt x 92.57787
+pt>
+File: figures/50.PreliminaryW/voltage_sensor_eq.pdf Graphic file (type pdf)
+ <use figures/50.PreliminaryW/voltage_sensor_eq.pdf>
+Package pdftex.def Info: figures/50.PreliminaryW/voltage_sensor_eq.pdf used on 
+input line 72.
+(pdftex.def)             Requested size: 159.35486pt x 99.05167pt.
+Package acronym Info: Label `acro:VSC' newly defined as it shall be overridden
+although it is yet undefined on input line 80.
+
+<figures/50.PreliminaryW/scope_0.png, id=1162, 803.0pt x 504.88625pt>
+File: figures/50.PreliminaryW/scope_0.png Graphic file (type png)
+
+<use figures/50.PreliminaryW/scope_0.png>
+Package pdftex.def Info: figures/50.PreliminaryW/scope_0.png used on input line
+ 88.
+(pdftex.def)             Requested size: 199.19283pt x 125.24284pt.
+
+<figures/50.PreliminaryW/scope_2.png, id=1163, 803.0pt x 504.88625pt>
+File: figures/50.PreliminaryW/scope_2.png Graphic file (type png)
+
+<use figures/50.PreliminaryW/scope_2.png>
+Package pdftex.def Info: figures/50.PreliminaryW/scope_2.png used on input line
+ 96.
+(pdftex.def)             Requested size: 199.19283pt x 125.24284pt.
 
 
-] [49]
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[45 <./figures/50.PreliminaryW/voltage_sensor.jpg> <./figures/50.PreliminaryW/v
+oltage_sensor_eq.pdf>]
+<figures/50.PreliminaryW/generalArchitecture.pdf, id=1181, 9415.175pt x 3013.25
+75pt>
+File: figures/50.PreliminaryW/generalArchitecture.pdf Graphic file (type pdf)
+ <use figures/50.PreliminaryW/generalArchitecture.pdf>
+Package pdftex.def Info: figures/50.PreliminaryW/generalArchitecture.pdf used o
+n input line 117.
+(pdftex.def)             Requested size: 309.85626pt x 99.12975pt.
+
+<figures/50.PreliminaryW/processingArchitecture.pdf, id=1183, 13415.11874pt x 2
+167.09625pt>
+File: figures/50.PreliminaryW/processingArchitecture.pdf Graphic file (type pdf
+)
+ <use figures/50.PreliminaryW/processingArchitecture.pdf>
+Package pdftex.def Info: figures/50.PreliminaryW/processingArchitecture.pdf use
+d on input line 128.
+(pdftex.def)             Requested size: 442.65375pt x 71.49124pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[46 <./figures/50.PreliminaryW/scope_0.png (PNG copy)> <./figures/50.Preliminar
+yW/scope_2.png (PNG copy)> <./figures/50.PreliminaryW/generalArchitecture.pdf>]
+<figures/50.PreliminaryW/scope_9.png, id=1200, 803.0pt x 504.88625pt>
+File: figures/50.PreliminaryW/scope_9.png Graphic file (type png)
+
+<use figures/50.PreliminaryW/scope_9.png>
+Package pdftex.def Info: figures/50.PreliminaryW/scope_9.png used on input line
+ 145.
+(pdftex.def)             Requested size: 283.30055pt x 178.13034pt.
+
+<figures/50.PreliminaryW/scope_10.png, id=1201, 803.0pt x 504.88625pt>
+File: figures/50.PreliminaryW/scope_10.png Graphic file (type png)
+
+<use figures/50.PreliminaryW/scope_10.png>
+Package pdftex.def Info: figures/50.PreliminaryW/scope_10.png used on input lin
+e 153.
+(pdftex.def)             Requested size: 283.30055pt x 178.13034pt.
+ [47 <./figures/50.PreliminaryW/processingArchitecture.pdf> <./figures/50.Preli
+minaryW/scope_9.png (PNG copy)> <./figures/50.PreliminaryW/scope_10.png (PNG co
+py)>]) (report.main.bbl [48] [49
+
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 169--173
 [][]$\OT1/cmr/m/n/10.95 http : / / eur-[]lex . europa . eu / legal-[]content / 
 EN / TXT / ?uri = uriserv : OJ . L[] . 2014 . 356 . 01 . 0179 .
@@ -1991,33 +2024,31 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 70.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
 Package rerunfilecheck Info: File `report.main.out' has not changed.
-(rerunfilecheck)             Checksum: F5B76319777683E8E35280B641C2245B;4523.
+(rerunfilecheck)             Checksum: 8AF1ED7EB1C3464DC86D1F3B8AF7ABE3;4539.
  ) 
 Here is how much of TeX's memory you used:
- 22402 strings out of 493333
- 378255 string characters out of 3139189
- 619836 words of memory out of 3000000
- 25183 multiletter control sequences out of 15000+200000
- 14918 words of font info for 57 fonts, out of 3000000 for 9000
+ 22421 strings out of 493333
+ 379006 string characters out of 3139189
+ 620114 words of memory out of 3000000
+ 25199 multiletter control sequences out of 15000+200000
+ 14609 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,17n,92p,10426b,512s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,17n,92p,10426b,511s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmti10.pfb>
-Output written on report.main.pdf (63 pages, 16793815 bytes).
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on report.main.pdf (63 pages, 22841379 bytes).
 PDF statistics:
- 1347 PDF objects out of 1440 (max. 8388607)
- 277 named destinations out of 1000 (max. 500000)
- 673 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1371 PDF objects out of 1440 (max. 8388607)
+ 279 named destinations out of 1000 (max. 500000)
+ 691 words of extra memory for PDF output out of 10000 (max. 10000000)
 
