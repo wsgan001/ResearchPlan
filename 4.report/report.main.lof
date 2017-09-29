@@ -25,7 +25,11 @@
 \contentsline {figure}{\numberline {3.20}{\ignorespaces Functions, data flow and regulation scope of on-board energy measurement system.\relax }}{27}{figure.caption.64}
 \contentsline {figure}{\numberline {3.21}{\ignorespaces Structure of \ac {EMS} EN 50463 standard. Adapted from \cite {gatti2011}\relax }}{28}{figure.caption.66}
 \contentsline {figure}{\numberline {3.22}{\ignorespaces Optimal traction regimes. Adapted from \cite {scheepmaker2017}.\relax }}{30}{figure.caption.69}
+<<<<<<< HEAD
 \contentsline {figure}{\numberline {3.23}{\ignorespaces Integration of the \ac {WSN} with a decision support system. \relax }}{31}{figure.caption.71}
+=======
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Integration of the \ac {WSN} with a decision support system. \relax }}{32}{figure.caption.71}
+>>>>>>> master
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {4.1}{\ignorespaces Overall functional architecture of a smart metering system.\relax }}{35}{figure.caption.72}
 \contentsline {figure}{\numberline {4.2}{\ignorespaces Data flow of measurement-information layers.\relax }}{36}{figure.caption.73}

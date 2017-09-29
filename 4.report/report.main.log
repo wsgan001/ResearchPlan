@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.6)  29 SEP 2017 16:07
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.6)  29 SEP 2017 15:57
+>>>>>>> master
 entering extended mode
 **./report.main.tex
 (report.main.tex
@@ -1565,11 +1569,19 @@ Package pdftex.def Info: figures/32.EnergyS/voltage_t.pdf used on input line 93
 Package acronym Info: Label `acro:RUs' newly defined as it shall be overridden
 although it is yet undefined on input line 106.
  [14 <./figures/32.EnergyS/liran2014.pdf> <./figures/32.EnergyS/current_t.pdf
+<<<<<<< HEAD
 
 pdfTeX warning: pdflatex.exe (file ./figures/32.EnergyS/current_t.pdf): PDF inc
 lusion: multiple pdfs with page group included in a single page
 > <./figures/32.EnergyS/voltage_t.pdf
 
+=======
+
+pdfTeX warning: pdflatex.exe (file ./figures/32.EnergyS/current_t.pdf): PDF inc
+lusion: multiple pdfs with page group included in a single page
+> <./figures/32.EnergyS/voltage_t.pdf
+
+>>>>>>> master
 pdfTeX warning: pdflatex.exe (file ./figures/32.EnergyS/voltage_t.pdf): PDF inc
 lusion: multiple pdfs with page group included in a single page
 >]
@@ -1639,12 +1651,21 @@ although it is yet undefined on input line 93.
 
 <figures/33.WirelessN/nancy2014.png, id=795, 1118.67938pt x 577.40718pt>
 File: figures/33.WirelessN/nancy2014.png Graphic file (type png)
+<<<<<<< HEAD
 
 <use figures/33.WirelessN/nancy2014.png>
 Package pdftex.def Info: figures/33.WirelessN/nancy2014.png used on input line 
 98.
 (pdftex.def)             Requested size: 464.78778pt x 239.90144pt.
 
+=======
+
+<use figures/33.WirelessN/nancy2014.png>
+Package pdftex.def Info: figures/33.WirelessN/nancy2014.png used on input line 
+98.
+(pdftex.def)             Requested size: 464.78778pt x 239.90144pt.
+
+>>>>>>> master
 Overfull \hbox (22.13403pt too wide) in paragraph at lines 98--99
  [][] 
  []
@@ -1740,6 +1761,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Package acronym Info: Label `acro:EMI' newly defined as it shall be overridden
 although it is yet undefined on input line 5.
 
+<<<<<<< HEAD
 <figures/36.Outlier/general.png, id=951, 3991.91376pt x 2829.57124pt>
 File: figures/36.Outlier/general.png Graphic file (type png)
 
@@ -1747,11 +1769,24 @@ File: figures/36.Outlier/general.png Graphic file (type png)
 Package pdftex.def Info: figures/36.Outlier/general.png used on input line 28.
 (pdftex.def)             Requested size: 309.85626pt x 219.6349pt.
  [31 <./figures/36.Outlier/general.png (PNG copy)>]
+=======
+<figures/36.Outlier/general.png, id=951, 9976.27126pt x 7071.41875pt>
+File: figures/36.Outlier/general.png Graphic file (type png)
+
+<use figures/36.Outlier/general.png>
+Package pdftex.def Info: figures/36.Outlier/general.png used on input line 28.
+(pdftex.def)             Requested size: 331.99031pt x 235.22423pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[31]
+>>>>>>> master
 Overfull \hbox (1.2543pt too wide) in paragraph at lines 42--43
 []\OT1/cmr/m/n/10.95 The De-ci-sion Sup-port Sub-
  []
 
-[32] [33]) [34]
+[32 <./figures/36.Outlier/general.png (PNG copy)>] [33]) [34]
 Chapter 4.
 (chapters/4.Methodology.tex
 <figures/40.Method/pyramid.png, id=999, 2903.84875pt x 2867.71375pt>
@@ -1843,6 +1878,7 @@ Package pdftex.def Info: figures/50.PreliminaryW/porto-caide2.pdf used on input
  line 10.
 (pdftex.def)             Requested size: 442.65375pt x 161.71828pt.
 
+<<<<<<< HEAD
 <figures/50.PreliminaryW/omnetpp+ns32.png, id=1106, 6887.7325pt x 4886.255pt>
 File: figures/50.PreliminaryW/omnetpp+ns32.png Graphic file (type png)
 
@@ -1850,6 +1886,15 @@ File: figures/50.PreliminaryW/omnetpp+ns32.png Graphic file (type png)
 Package pdftex.def Info: figures/50.PreliminaryW/omnetpp+ns32.png used on input
  line 23.
 (pdftex.def)             Requested size: 376.25838pt x 266.91818pt.
+=======
+<figures/50.PreliminaryW/omnetpp+ns3.pdf, id=1106, 13773.4575pt x 9770.5025pt>
+File: figures/50.PreliminaryW/omnetpp+ns3.pdf Graphic file (type pdf)
+
+<use figures/50.PreliminaryW/omnetpp+ns3.pdf>
+Package pdftex.def Info: figures/50.PreliminaryW/omnetpp+ns3.pdf used on input 
+line 23.
+(pdftex.def)             Requested size: 376.25838pt x 266.86336pt.
+>>>>>>> master
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1863,6 +1908,7 @@ Package pdftex.def Info: figures/50.PreliminaryW/distance-rate.pdf used on inpu
 t line 33.
 (pdftex.def)             Requested size: 442.65375pt x 203.5282pt.
 
+<<<<<<< HEAD
 Underfull \vbox (badness 7415) has occurred while \output is active []
 
  [44 <./figures/50.PreliminaryW/omnetpp+ns32.png (PNG copy)> <./figures/50.Prel
@@ -1915,6 +1961,64 @@ n input line 117.
 (pdftex.def)             Requested size: 309.85626pt x 99.12975pt.
 
 <figures/50.PreliminaryW/processingArchitecture.pdf, id=1177, 13415.11874pt x 2
+=======
+Underfull \vbox (badness 7486) has occurred while \output is active []
+
+ [44 <./figures/50.PreliminaryW/omnetpp+ns3.pdf> <./figures/50.PreliminaryW/dis
+tance-rate.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/50.PreliminaryW/distance-rate.pdf)
+: PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<figures/50.PreliminaryW/voltage_sensor.jpg, id=1158, 730.22812pt x 508.90125pt
+>
+File: figures/50.PreliminaryW/voltage_sensor.jpg Graphic file (type jpg)
+ <use figures/50.PreliminaryW/voltage_sensor.jpg>
+Package pdftex.def Info: figures/50.PreliminaryW/voltage_sensor.jpg used on inp
+ut line 64.
+(pdftex.def)             Requested size: 139.43436pt x 97.17368pt.
+
+<figures/50.PreliminaryW/voltage_sensor_eq.pdf, id=1159, 148.94847pt x 92.57787
+pt>
+File: figures/50.PreliminaryW/voltage_sensor_eq.pdf Graphic file (type pdf)
+ <use figures/50.PreliminaryW/voltage_sensor_eq.pdf>
+Package pdftex.def Info: figures/50.PreliminaryW/voltage_sensor_eq.pdf used on 
+input line 72.
+(pdftex.def)             Requested size: 159.35486pt x 99.05167pt.
+Package acronym Info: Label `acro:VSC' newly defined as it shall be overridden
+although it is yet undefined on input line 80.
+
+<figures/50.PreliminaryW/scope_0.png, id=1162, 803.0pt x 504.88625pt>
+File: figures/50.PreliminaryW/scope_0.png Graphic file (type png)
+
+<use figures/50.PreliminaryW/scope_0.png>
+Package pdftex.def Info: figures/50.PreliminaryW/scope_0.png used on input line
+ 88.
+(pdftex.def)             Requested size: 199.19283pt x 125.24284pt.
+
+<figures/50.PreliminaryW/scope_2.png, id=1163, 803.0pt x 504.88625pt>
+File: figures/50.PreliminaryW/scope_2.png Graphic file (type png)
+
+<use figures/50.PreliminaryW/scope_2.png>
+Package pdftex.def Info: figures/50.PreliminaryW/scope_2.png used on input line
+ 96.
+(pdftex.def)             Requested size: 199.19283pt x 125.24284pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[45 <./figures/50.PreliminaryW/voltage_sensor.jpg> <./figures/50.PreliminaryW/v
+oltage_sensor_eq.pdf>]
+<figures/50.PreliminaryW/generalArchitecture.pdf, id=1181, 9415.175pt x 3013.25
+75pt>
+File: figures/50.PreliminaryW/generalArchitecture.pdf Graphic file (type pdf)
+ <use figures/50.PreliminaryW/generalArchitecture.pdf>
+Package pdftex.def Info: figures/50.PreliminaryW/generalArchitecture.pdf used o
+n input line 117.
+(pdftex.def)             Requested size: 309.85626pt x 99.12975pt.
+
+<figures/50.PreliminaryW/processingArchitecture.pdf, id=1183, 13415.11874pt x 2
+>>>>>>> master
 167.09625pt>
 File: figures/50.PreliminaryW/processingArchitecture.pdf Graphic file (type pdf
 )
@@ -1928,6 +2032,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [46 <./figures/50.PreliminaryW/scope_0.png (PNG copy)> <./figures/50.Preliminar
 yW/scope_2.png (PNG copy)> <./figures/50.PreliminaryW/generalArchitecture.pdf>]
+<<<<<<< HEAD
 <figures/50.PreliminaryW/scope_9.png, id=1194, 803.0pt x 504.88625pt>
 File: figures/50.PreliminaryW/scope_9.png Graphic file (type png)
 
@@ -1938,6 +2043,26 @@ Package pdftex.def Info: figures/50.PreliminaryW/scope_9.png used on input line
 
 <figures/50.PreliminaryW/scope_10.png, id=1195, 803.0pt x 504.88625pt>
 File: figures/50.PreliminaryW/scope_10.png Graphic file (type png)
+=======
+<figures/50.PreliminaryW/scope_9.png, id=1200, 803.0pt x 504.88625pt>
+File: figures/50.PreliminaryW/scope_9.png Graphic file (type png)
+
+<use figures/50.PreliminaryW/scope_9.png>
+Package pdftex.def Info: figures/50.PreliminaryW/scope_9.png used on input line
+ 145.
+(pdftex.def)             Requested size: 283.30055pt x 178.13034pt.
+
+<figures/50.PreliminaryW/scope_10.png, id=1201, 803.0pt x 504.88625pt>
+File: figures/50.PreliminaryW/scope_10.png Graphic file (type png)
+
+<use figures/50.PreliminaryW/scope_10.png>
+Package pdftex.def Info: figures/50.PreliminaryW/scope_10.png used on input lin
+e 153.
+(pdftex.def)             Requested size: 283.30055pt x 178.13034pt.
+ [47 <./figures/50.PreliminaryW/processingArchitecture.pdf> <./figures/50.Preli
+minaryW/scope_9.png (PNG copy)> <./figures/50.PreliminaryW/scope_10.png (PNG co
+py)>]) (report.main.bbl [48] [49
+>>>>>>> master
 
 <use figures/50.PreliminaryW/scope_10.png>
 Package pdftex.def Info: figures/50.PreliminaryW/scope_10.png used on input lin
@@ -1947,7 +2072,10 @@ e 153.
 minaryW/scope_9.png (PNG copy)> <./figures/50.PreliminaryW/scope_10.png (PNG co
 py)>]) (report.main.bbl [48] [49
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 169--173
 [][]$\OT1/cmr/m/n/10.95 http : / / eur-[]lex . europa . eu / legal-[]content / 
@@ -2020,7 +2148,11 @@ Package rerunfilecheck Info: File `report.main.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  22421 strings out of 493333
+<<<<<<< HEAD
  379011 string characters out of 3139189
+=======
+ 379006 string characters out of 3139189
+>>>>>>> master
  620114 words of memory out of 3000000
  25199 multiletter control sequences out of 15000+200000
  14609 words of font info for 56 fonts, out of 3000000 for 9000
@@ -2038,9 +2170,15 @@ b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+<<<<<<< HEAD
 Output written on report.main.pdf (63 pages, 21481536 bytes).
 PDF statistics:
  1365 PDF objects out of 1440 (max. 8388607)
+=======
+Output written on report.main.pdf (63 pages, 22841379 bytes).
+PDF statistics:
+ 1371 PDF objects out of 1440 (max. 8388607)
+>>>>>>> master
  279 named destinations out of 1000 (max. 500000)
  691 words of extra memory for PDF output out of 10000 (max. 10000000)
 

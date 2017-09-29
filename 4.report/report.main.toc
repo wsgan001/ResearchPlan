@@ -62,7 +62,7 @@
 \contentsline {section}{\numberline {3.6}Issues and problems in WSN}{31}{section.3.6}
 \contentsline {subsection}{\numberline {3.6.1}Outlier and outlier detection}{31}{subsection.3.6.1}
 \contentsline {subsection}{\numberline {3.6.2}Literature review of Outlier detection in \ac {WSN}}{32}{subsection.3.6.2}
-\contentsline {subsubsection}{\numberline {3.6.2.1}Motivation}{32}{subsubsection.3.6.2.1}
+\contentsline {subsubsection}{\numberline {3.6.2.1}Motivation}{33}{subsubsection.3.6.2.1}
 \contentsline {subsubsection}{\numberline {3.6.2.2}Research areas}{33}{subsubsection.3.6.2.2}
 \contentsline {subsubsection}{\numberline {3.6.2.3}Challenges}{33}{subsubsection.3.6.2.3}
 \contentsline {subsection}{\numberline {3.6.3}Taxonomy of Outlier Detection Techniques}{34}{subsection.3.6.3}
