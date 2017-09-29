@@ -8,20 +8,20 @@
 \contentsline {section}{\numberline {2.1}Objectives}{5}{section.2.1}
 \contentsline {section}{\numberline {2.2}Contributions}{6}{section.2.2}
 \contentsline {chapter}{\numberline {3}Literature Review}{7}{chapter.3}
-\contentsline {section}{\numberline {3.1}Section 1: Power system of Railway Transportation System}{7}{section.3.1}
+\contentsline {section}{\numberline {3.1}Power system of Railway Transportation System}{7}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}Overview of Existing European Railway Power Systems}{7}{subsection.3.1.1}
 \contentsline {subsection}{\numberline {3.1.2}Railway Power Supply System}{7}{subsection.3.1.2}
-\contentsline {paragraph}{1. DC supply system\\}{8}{subsection.3.1.2}
-\contentsline {paragraph}{2. AC 50Hz (or 60Hz) supply system\\}{9}{figure.caption.23}
-\contentsline {paragraph}{3. AC 16.7 Hz supply systems\\}{9}{figure.caption.24}
+\contentsline {paragraph}{$\bullet $ DC supply system\\}{8}{subsection.3.1.2}
+\contentsline {paragraph}{$\bullet $ AC 50Hz (or 60Hz) supply system\\}{9}{figure.caption.23}
+\contentsline {paragraph}{$\bullet $ AC 16.7 Hz supply systems\\}{9}{figure.caption.24}
 \contentsline {subsection}{\numberline {3.1.3}Train Power Supply System}{10}{subsection.3.1.3}
-\contentsline {paragraph}{1. \ac {DC} supply system\\}{10}{subsection.3.1.3}
-\contentsline {paragraph}{2. \ac {AC} supply system\\}{10}{figure.caption.26}
-\contentsline {paragraph}{3. Diesel-electric supply system\\}{10}{figure.caption.27}
+\contentsline {paragraph}{$\bullet $ \ac {DC} supply system\\}{10}{subsection.3.1.3}
+\contentsline {paragraph}{$\bullet $ \ac {AC} supply system\\}{10}{figure.caption.26}
+\contentsline {paragraph}{$\bullet $ Diesel-electric supply system\\}{10}{figure.caption.27}
 \contentsline {subsection}{\numberline {3.1.4}Train Power Components}{11}{subsection.3.1.4}
 \contentsline {paragraph}{1. Pantograph\\}{11}{figure.caption.29}
 \contentsline {paragraph}{2. Surge Arrester\\}{11}{figure.caption.29}
-\contentsline {paragraph}{3. High-speed Circuit Breaker\\}{11}{figure.caption.29}
+\contentsline {paragraph}{3. High-speed Circuit Breaker\\}{12}{figure.caption.29}
 \contentsline {paragraph}{4. Low frequency Traction Transformer\\}{12}{figure.caption.29}
 \contentsline {paragraph}{5. Input LC Filter\\}{12}{figure.caption.29}
 \contentsline {paragraph}{6. Filter Inductor and DC-link Capacitor\\}{12}{figure.caption.29}
@@ -29,12 +29,12 @@
 \contentsline {paragraph}{8. Braking Resistor\\}{12}{figure.caption.29}
 \contentsline {paragraph}{9. Power Converter Box\\}{12}{figure.caption.29}
 \contentsline {paragraph}{10. Electric Traction Motor\\}{12}{figure.caption.29}
-\contentsline {section}{\numberline {3.2}Section 2: Energy Sensors}{13}{section.3.2}
+\contentsline {section}{\numberline {3.2}Energy Sensors}{13}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Electric Energy Overview}{13}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}Current transducers and voltage transducers}{13}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Energy measurement in RTS}{14}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.3}Energy measurement in RTS}{15}{subsection.3.2.3}
 \contentsline {subsection}{\numberline {3.2.4}Energy measurement function}{16}{subsection.3.2.4}
-\contentsline {section}{\numberline {3.3}Section 3: Wireless networks}{17}{section.3.3}
+\contentsline {section}{\numberline {3.3}Wireless networks}{17}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Network technologies \IeC {\textendash } historic overview}{17}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Current Wireless technologies and standards}{17}{subsection.3.3.2}
 \contentsline {subsubsection}{\numberline {3.3.2.1}IEEE 802.11 (\ac {WLAN} or Wi-Fi)}{18}{subsubsection.3.3.2.1}
@@ -51,15 +51,15 @@
 \contentsline {subsection}{\numberline {3.3.4}Communication \ac {KPI}}{21}{subsection.3.3.4}
 \contentsline {subsection}{\numberline {3.3.5}Network Simulators and Network Emulators}{21}{subsection.3.3.5}
 \contentsline {subsubsection}{\numberline {3.3.5.1}Evaluation of network tools}{24}{subsubsection.3.3.5.1}
-\contentsline {section}{\numberline {3.4}Section 4: Smart metering}{25}{section.3.4}
+\contentsline {section}{\numberline {3.4}Smart metering}{25}{section.3.4}
 \contentsline {subsection}{\numberline {3.4.1}Smart grids and the need for smart meters}{25}{subsection.3.4.1}
 \contentsline {subsection}{\numberline {3.4.2}Features of smart meters and metering systems}{25}{subsection.3.4.2}
 \contentsline {subsection}{\numberline {3.4.3}Metering systems in railways}{26}{subsection.3.4.3}
-\contentsline {section}{\numberline {3.5}Section 5: Decision Support Systems}{29}{section.3.5}
+\contentsline {section}{\numberline {3.5}Decision Support Systems}{29}{section.3.5}
 \contentsline {subsection}{\numberline {3.5.1}The information and knowledge as the base of \ac {DSS}}{29}{subsection.3.5.1}
 \contentsline {subsection}{\numberline {3.5.2}Eco-driving \IeC {\textendash } driving assistant}{29}{subsection.3.5.2}
-\contentsline {subsection}{\numberline {3.5.3}Timetable scheduling}{29}{subsection.3.5.3}
-\contentsline {section}{\numberline {3.6}Section 6: Issues and problems in WSN}{31}{section.3.6}
+\contentsline {subsection}{\numberline {3.5.3}Timetable scheduling}{30}{subsection.3.5.3}
+\contentsline {section}{\numberline {3.6}Issues and problems in WSN}{31}{section.3.6}
 \contentsline {subsection}{\numberline {3.6.1}Outlier and outlier detection}{31}{subsection.3.6.1}
 \contentsline {subsection}{\numberline {3.6.2}Literature review of Outlier detection in \ac {WSN}}{32}{subsection.3.6.2}
 \contentsline {subsubsection}{\numberline {3.6.2.1}Motivation}{32}{subsubsection.3.6.2.1}
@@ -80,6 +80,7 @@
 \contentsline {subsection}{\numberline {4.3.4}Contributions}{40}{subsection.4.3.4}
 \contentsline {section}{\numberline {4.4}Work plan}{41}{section.4.4}
 \contentsline {chapter}{\numberline {5}Preliminary Work}{43}{chapter.5}
-\contentsline {section}{\numberline {5.1}Evaluation of the non-intrusive voltage sensor}{43}{section.5.1}
+\contentsline {section}{\numberline {5.1}Implementation of a point-to-point communication between a moving train and a station}{43}{section.5.1}
 \contentsline {subsection}{\numberline {5.1.1}Conclusions and future work}{45}{subsection.5.1.1}
-\contentsline {section}{\numberline {5.2}Implementation of a point-to-point communication between a moving train and a station}{46}{section.5.2}
+\contentsline {section}{\numberline {5.2}Evaluation of the non-intrusive voltage sensor}{45}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Conclusions and future work}{48}{subsection.5.2.1}

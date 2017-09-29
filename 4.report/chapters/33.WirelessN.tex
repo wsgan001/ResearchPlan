@@ -2,7 +2,7 @@
 
 
 
-\section{Section 3: Wireless networks}
+\section{Wireless networks}
 
 In this section, communication networks are presented, with special attention to wireless technologies. 
 An historic overview is presented in \ref{subs:331} to illustrate the relevant milestones to achieve nowadays communication networks.  
@@ -16,7 +16,7 @@ The beginning of modern communication systems is marked with the expansion of th
 
 One important area of communications is the computer networks, and in particular, the internet where it is used in several aspect of business (such as advertising, production, shipping, planning, billing, and accounting, \cite{comer2008}). In 1980 the Internet was a research project involving few dozen sites and currently the Internet is an important part of people’s communication.
 
-Currently, a computer network is well organized, having a well structured \ac{IP} that defines how data passes through layers, as represented in figure \ref{fig:comer2008}.
+Currently, a computer network is well organized, having a well-structured \ac{IP} that defines how data passes through layers, as represented in figure \ref{fig:comer2008}.
 
 	\begin{figure}[h!]
 	\centering
@@ -90,12 +90,12 @@ In computer networks, a protocol is a set of rules that ensure a communication o
 
 \subsubsection{IEEE 802.15}
 
-The standard family defines the topologies and network roles. In particular, it defines the physical (frequency and channels, spectrum handling, modulation and bit rate) and \ac{MAC} (packet formats, operational modes, timing aspects, topologies) layers of the \ac{OSI} model (\cite{Hackmann2006}).
+The standard family defines the topologies and network roles. In particular, it defines the physical (frequency and channels, spectrum handling, modulation and bit rate) and \ac{MAC} (packet formats, operational modes, timing aspects, topologies) layers of the \ac{OSI} model, \cite{Hackmann2006}.
 
 
 \begin{figure}[h!]
 	\centering
-	\includegraphics[width=1.1\textwidth,keepaspectratio]{figures/nancy2014}
+	\includegraphics[width=1.05\textwidth,keepaspectratio]{figures/33.WirelessN/nancy2014}
 	\caption{Members of the 802.15 family. Adapted from \cite{nancy2014} lecture presentation slides.}
 	\label{fig:nancy2014}
 \end{figure}
@@ -109,7 +109,7 @@ Based on figure \ref{fig:nancy2014}, the 802.15.4 is the standard that defines t
 	
 	\item[Multi-hopping ---] This is a technique that allows the usage of two or more wireless nodes to convey data from a source to a destination;
 	
-	\item[Cluster trees] Topology to reduce the routing complexity where each node knows its parent node and all it's child nodes. It has always only one single path between two nodes.
+	\item[Cluster trees] Topology to reduce the routing complexity where each node knows its parent node and all its child nodes. It has always only one single path between two nodes.
 	
 	\item[Wireless mesh] This technique allows data to be propagated along a path by hopping from node to node until it reaches its destination.
 	
@@ -117,12 +117,12 @@ Based on figure \ref{fig:nancy2014}, the 802.15.4 is the standard that defines t
 
 \subsubsection{802.15.4-based wireless standards}
 
-\cite{Radmand2010} presents a comparison of wireless sensor standards for industrial applications. In figure \ref{fig:radmand2010} is present the overall schema of the wireless standards.
+Radmand et al. (2010) presents a comparison of wireless sensor standards for industrial applications, \cite{Radmand2010}. In figure \ref{fig:radmand2010} is present the overall schema of the wireless standards.
 
 
 \begin{figure}[h!]
 	\centering
-	\includegraphics[width=0.6\textwidth,keepaspectratio]{figures/radmand2010}
+	\includegraphics[width=0.6\textwidth,keepaspectratio]{figures/33.WirelessN/radmand2010}
 	\caption{Overall schema of wireless standards. Adapted from \cite{Radmand2010}.}
 	\label{fig:radmand2010}
 \end{figure}
@@ -131,14 +131,14 @@ Based on figure \ref{fig:nancy2014}, the 802.15.4 is the standard that defines t
 \subsection{Communication \ac{KPI}}
 %\lipsum[4]
 \label{subs:334}
-According to \cite{Radmand2010}, it is identified the following "Industrial Requirements" for the WSN's:
+According to Radmand et al. (2010), it is identified the following "Industrial Requirements" for the WSN's, \cite{Radmand2010}:
 
 \begin{description}
 	\item[Reliability ---] Reliability is a measurement of the transmission accuracy, in percentage, that evaluates the amount of data that reach its destination. This measurement uses the properties of data communication, acknowledge-based usually.
 	
 	\item[Latency ---] Latency is the measurement of the time delay and is defined as the time that a data packet takes to be transmitted from the source to the destination. The latency is directly related to the link quality and a high latency link is result of a link with high signal-to-noise ratio. 
 	
-	\item[Sensor Data Update Rates ---] This \ac{KPI} is not directly related with the communication link. However the update rate of the sensor data affects the power consumption due to the increase of the processing effort. In a SYNC-based update rate, this \ac{KPI} is related to the frequency of the SYNC event.
+	\item[Sensor Data Update Rates ---] This \ac{KPI} is not directly related with the communication link. However, the update rate of the sensor data affects the power consumption due to the increase of the processing effort. In a SYNC-based update rate, this \ac{KPI} is related to the frequency of the SYNC event.
 	
 	\item[Wireless Transmission Range ---] This \ac{KPI} is the maximum distance that a communication link supports the data transfer with a given reliability and in specific conditions (indoor/outdoor; line-of-sight (LOS)).
 	
@@ -153,13 +153,13 @@ According to \cite{Radmand2010}, it is identified the following "Industrial Requ
 \subsection{Network Simulators and Network Emulators}
 \label{subs:335}
 
-In this subsection is covered the network simulators. The usage of network simulators allows the modeling of various scenarios of real environment. However, pure network simulators avoids the interaction with real environment, which leads space for network emulators, as a hybrid method to combine simulation capabilities with hardware and software components of real networks. Therefore, in this subsection is referred the simulators that allows integration with hardware and software network components, to have an overview on the network emulators.
+In this subsection is covered the network simulators. The usage of network simulators allows the modeling of various scenarios of real environment. However, pure network simulators avoid the interaction with real environment, which leads space for network emulators, as a hybrid method to combine simulation capabilities with hardware and software components of real networks. Therefore, in this subsection is referred the simulators that allows integration with hardware and software network components, to have an overview on the network emulators.
 
 In figure \ref{fig:simul_VS_emul} is presented the framework on the mechanisms to evaluate the performance of networks.
 
 \begin{figure}[h!]
 	\centering
-	\includegraphics[width=1\textwidth,keepaspectratio]{figures/simul_VS_emul}
+	\includegraphics[width=1\textwidth,keepaspectratio]{figures/33.WirelessN/simul_VS_emul}
 	\caption{Simulation \& emulation framework.}
 	\label{fig:simul_VS_emul}
 \end{figure}
@@ -190,7 +190,7 @@ An extensive review on simulation tools, made by \cite{nayyar2015}, is presented
 
 	%%6
 	\item [SensorSim] 
-	Similarly to Mannasim, this is a framework for WSN based on NS-2 simulator. However it is not available, currently, to the public. 
+	Similarly to Mannasim, this is a framework for WSN based on NS-2 simulator. However, currently it is not available to the public. 
 
 	%%7
 	\item [NRL Sensorsim] 
@@ -275,7 +275,7 @@ An extensive review on simulation tools, made by \cite{nayyar2015}, is presented
 	
 	%%27
 	\item [SIDH]
-	Is a Java-based simulator focused on the simulation of thousand of sensor nodes.
+	Is a Java-based simulator focused on the simulation of thousands of sensor nodes.
 	
 	%%28
 	\item [PROWLER]
