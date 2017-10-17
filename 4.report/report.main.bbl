@@ -22,44 +22,34 @@
 \BIBdecl
 
 \bibitem{iea-uic2016}
-F.~Birol and J.-P. Loubinoux, ``2016 edition of the uic-iea railway handbook on
-  energy consumption and co2 emissions focuses on sustainability targets,'' IEA
-  - International Energy Agency; UIC - International Union of Railways, Tech.
-  Rep., 2016.
+F.~Birol and J.-P. Loubinoux, ``{2016 Edition of the {UIC-IEA} Railway Handbook
+  on Energy Consumption and {CO2} Emissions focuses on sustainability
+  targets},'' IEA and UIC, Tech. Rep., 2016.
 
 \bibitem{shift2rail2015}
-{Shift2Rail Joint Undertaking}, ``Shift2rail joint undertaking multi-annual
-  action plan,'' Shift2Rail, Tech. Rep., 2015.
+{Shift2Rail Joint Undertaking}, ``{Shift2Rail Joint Undertaking Multi-Annual
+  Action Plan},'' Shift2Rail, Tech. Rep., 2015.
 
 \bibitem{abad2016}
-\BIBentryALTinterwordspacing
-F.~M. A. A. X. A. I. G. D. E.~A. Abad, Gonzalo;~Briz, \emph{Power Electronics
-  and Electric Drives for Traction Applications}, G.~Abad, Ed.\hskip 1em plus
-  0.5em minus 0.4em\relax John Wiley \& Sons, Ltd., 2016. [Online]. Available:
-  \url{https://books.google.pt/books?id=HR1NAQAACAAJ}
-\BIBentrySTDinterwordspacing
+G.~Abad and X.~Agirre, \emph{Power Electronics and Electric Drives for Traction
+  Applications}, G.~Abad, Ed.\hskip 1em plus 0.5em minus 0.4em\relax John Wiley
+  \& Sons, Ltd., 2016.
 
 \bibitem{steimel2008}
-\BIBentryALTinterwordspacing
-A.~Steimel, \emph{Electric Traction - Motive Power and Energy Supply: Basics
-  and Practical Experience}.\hskip 1em plus 0.5em minus 0.4em\relax
-  Oldenbourg-Industrieverl., 2008. [Online]. Available:
-  \url{https://books.google.pt/books?id=Hdvr82d23mkC}
-\BIBentrySTDinterwordspacing
+A.~Steimel, \emph{Electric Traction --- Motive Power and Energy Supply: Basics
+  and Practical Experience}.\hskip 1em plus 0.5em minus 0.4em\relax Oldenbourg
+  Industrieverlag, 2008.
 
 \bibitem{liran2014}
 W.~Liran, W.~Mingli, and S.~Kejian, ``Analysis of electrical load
-  characteristics of hx d 1b locomotive based on measured data,'' in
+  characteristics of {HX D 1B} locomotive based on measured data,'' in
   \emph{Transportation Electrification Asia-Pacific (ITEC Asia-Pacific), 2014
   IEEE Conference and Expo}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE, 2014,
   pp. 1--6.
 
 \bibitem{webster2012}
-\BIBentryALTinterwordspacing
 R.~Pallàs-Areny and J.~Webster, \emph{Sensors and Signal Conditioning}.\hskip
-  1em plus 0.5em minus 0.4em\relax Wiley, 2012. [Online]. Available:
-  \url{https://books.google.pt/books?id=BDmQDQAAQBAJ}
-\BIBentrySTDinterwordspacing
+  1em plus 0.5em minus 0.4em\relax Wiley, 2012.
 
 \bibitem{Dalessandro2007}
 L.~Dalessandro, N.~Karrer, and J.~W. Kolar, ``High-performance planar isolated
@@ -67,19 +57,18 @@ L.~Dalessandro, N.~Karrer, and J.~W. Kolar, ``High-performance planar isolated
   on Power Electronics}, vol.~22, no.~5, pp. 1682--1692, Sept 2007.
 
 \bibitem{eur-lex2008}
-{Council of European Union}, ``Directive {2008/57/EC} on the interoperability
-  of the rail system within the {Community},'' 2008,
-  \newline\url{http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0057}.
+{DIRECTIVE {2008/57/EC} - Council of European Union}, ``Directive {2008/57/EC}
+  on the interoperability of the rail system within the {Community},'' 2008.
 
 \bibitem{EN50463}
-``Railway applications - energy measurement on board trains,'' European
-  Committee for Electrotechnical Standardization, Brussels, Belgium, Standard,
-  2012.
+{CENELEC EN50463}, ``Railway applications - energy measurement on board
+  trains,'' European Committee for Electrotechnical Standardization, Brussels,
+  Belgium, Standard, 2012.
 
 \bibitem{EN50155}
-``Railway applications - electronic equipment used on rolling stock,'' European
-  Committee for Electrotechnical Standardization, Brussels, Belgium, Standard,
-  2007.
+{CENELEC EN50155}, ``Railway applications - electronic equipment used on
+  rolling stock,'' European Committee for Electrotechnical Standardization,
+  Brussels, Belgium, Standard, 2007.
 
 \bibitem{comer2008}
 D.~E. Comer, \emph{Computer Networks and Internets}, 5th~ed.\hskip 1em plus
@@ -87,43 +76,30 @@ D.~E. Comer, \emph{Computer Networks and Internets}, 5th~ed.\hskip 1em plus
   2008.
 
 \bibitem{Mohassel2014}
-\BIBentryALTinterwordspacing
 R.~R. Mohassel, A.~Fung, F.~Mohammadi, and K.~Raahemifar, ``{Electrical Power
-  and Energy Systems A survey on Advanced Metering Infrastructure},''
-  \emph{INTERNATIONAL JOURNAL OF ELECTRICAL POWER AND ENERGY SYSTEMS}, vol.~63,
-  pp. 473--484, 2014. [Online]. Available:
-  \url{http://dx.doi.org/10.1016/j.ijepes.2014.06.025}
-\BIBentrySTDinterwordspacing
+  and Energy Systems --- A survey on Advanced Metering Infrastructure},''
+  \emph{International Journal of Electrical Power and Energy Systems}, vol.~63,
+  pp. 473--484, 2014.
 
 \bibitem{Usman2013}
-\BIBentryALTinterwordspacing
 A.~Usman and S.~Haider, ``{Evolution of Communication Technologies for Smart
   Grid applications},'' \emph{Renewable and Sustainable Energy Reviews},
-  vol.~19, pp. 191--199, 2013. [Online]. Available:
-  \url{http://dx.doi.org/10.1016/j.rser.2012.11.002}
-\BIBentrySTDinterwordspacing
+  vol.~19, pp. 191--199, 2013.
 
 \bibitem{ieee2012}
 IEEE, \emph{{\textit{Wireless LAN Medium Access Control (MAC) and Physical
   Layer (PHY) Specifications}}}, IEEE Std. 802.11-2016, IEEE Std., 2016.
 
 \bibitem{Song2008}
-\BIBentryALTinterwordspacing
 J.~Song, S.~Han, A.~Mok, D.~Chen, M.~Lucas, M.~Nixon, and W.~Pratt,
   ``Wirelesshart: Applying wireless technology in real-time industrial process
   control,'' in \emph{Proceedings of the IEEE Real-Time and Embedded Technology
-  and Applications Symposium, RTAS}, 2008, pp. 377--386, cited By 246.
-  [Online]. Available:
-  \url{https://www.scopus.com/inward/record.uri?eid=2-s2.0-51249117686&doi=10.1109%2fRTAS.2008.15&partnerID=40&md5=1e67591bad7917f2a806d684361a3d3e}
-\BIBentrySTDinterwordspacing
+  and Applications Symposium, RTAS}, 2008, pp. 377--386.
 
 \bibitem{Petersen2011}
-\BIBentryALTinterwordspacing
-S.~Petersen and S.~Carlsen, ``Wirelesshart versus isa100.11a: The format war
-  hits the factory floor,'' \emph{IEEE Industrial Electronics Magazine},
-  vol.~5, no.~4, pp. 23--34, 2011, cited By 131. [Online]. Available:
-  \url{https://www.scopus.com/inward/record.uri?eid=2-s2.0-84555217935&doi=10.1109%2fMIE.2011.943023&partnerID=40&md5=59307af5ce4a7b6b7a64ee21256d05cb}
-\BIBentrySTDinterwordspacing
+S.~Petersen and S.~Carlsen, ``{WirelessHART} versus {ISA100.11a}: The format
+  war hits the factory floor,'' \emph{IEEE Industrial Electronics Magazine},
+  vol.~5, no.~4, pp. 23--34, 2011.
 
 \bibitem{Hackmann2006}
 G.~Hackmann, ``802.15 personal area networks,'' 2006.
@@ -140,99 +116,84 @@ P.~Radmand, A.~Talevski, S.~Petersen, and S.~Carlsen, ``Comparison of
 
 \bibitem{nayyar2015}
 A.~Nayyar and R.~Singh, ``A comprehensive review of simulation tools for
-  wireless sensor networks (wsns),'' \emph{Journal of Wireless Networking and
+  wireless sensor networks ({WSNs}),'' \emph{Journal of Wireless Networking and
   Communications}, vol.~5, no.~1, pp. 19--47, 2015.
 
 \bibitem{Seppo2012}
-K.~Seppo and O.~Elektraflex, ``{Task XVII: Integration of Demand Side
-  Management, Distributed Generation, Renewable Energy Sources and Energy
-  Storages — Subtask 5, Report No. 5},'' \emph{International Energy Agency
-  DemandSide Management Programme}, 2012.
+K.~Seppo and O.~Elektraflex, ``{Integration of Demand Side Management,
+  Distributed Generation, Renewable Energy Sources and Energy Storages},''
+  \emph{International Energy Agency Demand Side Management Programme}, 2012.
 
 \bibitem{Siano2014}
-\BIBentryALTinterwordspacing
 P.~Siano, ``{Demand response and smart grids — A survey},'' \emph{Renewable
-  and Sustainable Energy Reviews}, vol.~30, pp. 461--478, 2014. [Online].
-  Available: \url{http://dx.doi.org/10.1016/j.rser.2013.10.022}
-\BIBentrySTDinterwordspacing
+  and Sustainable Energy Reviews}, vol.~30, pp. 461--478, 2014.
 
 \bibitem{Reddy2014}
-\BIBentryALTinterwordspacing
 K.~S. Reddy, M.~Kumar, T.~K. Mallick, H.~Sharon, and S.~Lokeswaran, ``{A review
-  of Integration , Control , Communication and Metering ( ICCM ) of renewable
+  of Integration , Control , Communication and Metering (ICCM) of renewable
   energy based smart grid},'' \emph{Renewable and Sustainable Energy Reviews},
-  vol.~38, pp. 180--192, 2014. [Online]. Available:
-  \url{http://dx.doi.org/10.1016/j.rser.2014.05.049}
-\BIBentrySTDinterwordspacing
+  vol.~38, pp. 180--192, 2014.
 
 \bibitem{eur-lex2014}
-{Council of European Union}, ``Commission regulation ({EU}) no {1301/2014} on
-  the technical specifications for interoperability relating to the
-  ‘energy’ subsystem of the rail system in the union,'' 2014,
-  \newline\url{http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.356.01.0179.01.ENG}.
+``{Commission Regulation ({EU}) No {1301/2014} on the technical specifications
+  for interoperability relating to the ‘energy’ subsystem of the rail
+  system in the Union},'' 2014.
 
 \bibitem{eur-lex2014b}
-------, ``Commission regulation ({EU}) no {1301/2014} on a technical
-  specification for interoperability relating to the ‘rolling stock —
-  locomotives and passenger rolling stock’ subsystem of the rail system in
-  the european union,'' 2014,
-  \newline\url{http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.356.01.0228.01.ENG}.
+``{Commission Regulation ({EU}) No {1301/2014} on a technical specification for
+  interoperability relating to the ‘rolling stock — locomotives and
+  passenger rolling stock’ subsystem of the rail system in the European
+  Union},'' 2014.
 
 \bibitem{metas2015}
 C.~Santschi and J.-P. Braun, ``The certification of railway electricity
   meters,'' METAS - Federal Institute of Metrology, Tech. Rep., 2015.
 
 \bibitem{gatti2011}
-A.~Gatti and A.~Ghelardini, ``The european energy measurement system on board
-  of trains,'' in \emph{Procedings of World Congres on Railway Research 2011},
+A.~Gatti and A.~Ghelardini, ``{The European Energy Measurement System on board
+  of trains},'' in \emph{Procedings of World Congres on Railway Research},
   2011.
 
 \bibitem{dariano2009}
 A.~D{'}Ariano, ``\BIBforeignlanguage{{English}}{{Innovative Decision Support
   System for Railway Traffic Control}},''
-  \emph{\BIBforeignlanguage{{English}}{{IEEE INTELLIGENT TRANSPORTATION SYSTEMS
-  MAGAZINE}}}, vol.~{1}, no.~{4}, pp. {8--16}, {WIN} {2009}.
+  \emph{\BIBforeignlanguage{{English}}{IEEE Intelligent Transportation Systems
+  Magazine}}, vol.~{1}, no.~{4}, pp. {8--16}, {WIN} 2009.
 
 \bibitem{krasemann2012}
 J.~T. Krasemann, ``{Design of an effective algorithm for fast response to the
-  re-scheduling of railway traffic during disturbances},''
-  \emph{{TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES}}, vol.~{20}, no.
-  {1, SI}, pp. {62--78}, {FEB} {2012}.
+  re-scheduling of railway traffic during disturbances},'' \emph{Transportation
+  Research Part C-Emerging Technologies}, vol.~{20}, no. {1, SI}, pp. {62--78},
+  {FEB} 2012.
 
 \bibitem{freling2004}
-R.~Freling, R.~Lentink, and A.~Wagelmans, ``\BIBforeignlanguage{{English}}{{A
+R.~Freling, R.~Lentink, and A.~Wagelmans, ``\BIBforeignlanguage{{English}}{A
   decision support system for crew planning in passenger transportation using a
-  flexible branch-and-price algorithm}},''
-  \emph{\BIBforeignlanguage{{English}}{{ANNALS OF OPERATIONS RESEARCH}}}, vol.
-  {127}, no. {1-4}, pp. {203--222}, {MAR} {2004}.
+  flexible branch-and-price algorithm},''
+  \emph{\BIBforeignlanguage{{English}}{Annals of Operations Research}}, vol.
+  {127}, no. {1-4}, pp. {203--222}, {MAR} 2004.
 
 \bibitem{lai2011}
 Y.-C. Lai and C.~P.~L. Barkan, ``\BIBforeignlanguage{{English}}{{Comprehensive
   Decision Support Framework for Strategic Railway Capacity Planning}},''
-  \emph{\BIBforeignlanguage{{English}}{{JOURNAL OF TRANSPORTATION
-  ENGINEERING-ASCE}}}, vol. {137}, no.~{10}, pp. {738--749}, {OCT} {2011}.
+  \emph{\BIBforeignlanguage{{English}}{Journal of Transportation
+  Engineering-ASCE}}, vol. {137}, no.~{10}, pp. {738--749}, {OCT} {2011}.
 
 \bibitem{guler2013}
 H.~Guler, ``\BIBforeignlanguage{{English}}{{Decision Support System for Railway
   Track Maintenance and Renewal Management}},''
-  \emph{\BIBforeignlanguage{{English}}{{JOURNAL OF COMPUTING IN CIVIL
-  ENGINEERING}}}, vol.~{27}, no.~{3}, pp. {292--306}, {MAY-JUN} {2013}.
+  \emph{\BIBforeignlanguage{{English}}{Journal of Computing in Civil
+  Engineering}}, vol.~27, no.~3, pp. 292--306, MAY-JUN 2013.
 
 \bibitem{scheepmaker2017}
-\BIBentryALTinterwordspacing
 G.~M. Scheepmaker, R.~M. Goverde, and L.~G. Kroon, ``Review of energy-efficient
   train control and timetabling,'' \emph{European Journal of Operational
-  Research}, vol. 257, no.~2, pp. 355 -- 376, 2017. [Online]. Available:
-  \url{http://www.sciencedirect.com/science/article/pii/S0377221716307962}
-\BIBentrySTDinterwordspacing
+  Research}, vol. 257, no.~2, pp. 355 -- 376, 2017.
 
 \bibitem{pontryagin1963}
-\BIBentryALTinterwordspacing
-R.~V. G. E. F.~M. L.~S.~Pontryagin, V. G.~Boltyanskii, ``The mathematical
-  theory of optimal processes.'' \emph{ZAMM - Journal of Applied Mathematics
-  and Mechanics}, vol.~43, no. 10-11, pp. 514--515, 1963. [Online]. Available:
-  \url{http://dx.doi.org/10.1002/zamm.19630431023}
-\BIBentrySTDinterwordspacing
+L.~S. Pontryagin, V.~G. Boltyanskii, R.~V. Gamkrelidze, and E.~F. Mishechenko,
+  ``{The Mathematical Theory of Optimal Processes},'' \emph{ZAMM - Journal of
+  Applied Mathematics and Mechanics}, vol.~43, no. 10-11, pp. 514--515, 1963.
 
 \bibitem{class:branch:2006}
 J.~Branch, B.~Szymanski, C.~Giannella, R.~Wolff, and H.~Kargupta, ``In-network
@@ -290,10 +251,10 @@ B.~Sheng, Q.~Li, W.~Mao, and W.~Jin, ``Outlier detection in sensor networks,''
 \bibitem{ahola2008}
 J.~Ahola, T.~Ahonen, V.~Sarkimaki, A.~Kosonen, J.~Tamminen, R.~Tiainen, and
   T.~Lindh, ``Design considerations for current transformer based energy
-  harvesting for electronics attached to electric motor,'' in \emph{Power
-  Electronics, Electrical Drives, Automation and Motion, 2008. SPEEDAM 2008.
-  International Symposium on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE,
-  2008, pp. 901--905.
+  harvesting for electronics attached to electric motor,'' in
+  \emph{International Symposium on Power Electronics, Electrical Drives,
+  Automation and Motion --- SPEEDAM}.\hskip 1em plus 0.5em minus 0.4em\relax
+  IEEE, 2008, pp. 901--905.
 
 \bibitem{wu2013}
 Z.~Wu, Y.~Wen, and P.~Li, ``A power supply of self-powered online monitoring
@@ -312,38 +273,27 @@ J.~P. Amaro, R.~Cortesão, J.~Landeck, and F.~J. T.~E. Ferreira, ``Harvested
   Measurement}, vol.~64, no.~7, pp. 1847--1857, July 2015.
 
 \bibitem{brunelli2016}
-\BIBentryALTinterwordspacing
 D.~Brunelli, C.~Villani, D.~Balsamo, and L.~Benini, ``Non-invasive voltage
   measurement in a three-phase autonomous meter,'' \emph{Microsystem
-  Technologies}, vol.~22, no.~7, pp. 1915--1926, Jul 2016. [Online]. Available:
-  \url{https://doi.org/10.1007/s00542-016-2890-7}
-\BIBentrySTDinterwordspacing
+  Technologies}, vol.~22, no.~7, pp. 1915--1926, Jul 2016.
 
 \bibitem{pilo2000}
-\BIBentryALTinterwordspacing
 E.~Pilo, L.~Rouco, A.~Fernández, and A.~Hernández-Velilla, ``A simulation
   tool for the design of the electrical supply system of high-speed railway
   lines,'' in \emph{Proceedings of the IEEE Power Engineering Society
-  Transmission and Distribution Conference}, vol.~2, 2000, pp. 1053--1058,
-  cited By 21. [Online]. Available:
-  \url{https://www.scopus.com/inward/record.uri?eid=2-s2.0-0038492670&partnerID=40&md5=515f08ddbfb032a3416afe4261c4f5d0}
-\BIBentrySTDinterwordspacing
+  Transmission and Distribution Conference}, vol.~2, 2000, pp. 1053--1058.
 
 \bibitem{almagro2017}
-\BIBentryALTinterwordspacing
 F.~Almagro and A.~Marano, ``An open source software for railway electrical
   supply system simulation,'' in \emph{Procedings of International Conference
   on Electrical Systems for Aircraft, Railway, Ship Propulsion and Road
-  Vehicles and International Transportation Electrification Conference}, 2017,
-  cited By 0. [Online]. Available:
-  \url{https://www.scopus.com/inward/record.uri?eid=2-s2.0-85015386541&doi=10.1109%2fESARS-ITEC.2016.7841397&partnerID=40&md5=99d8d5442b7f108af9f735e1370dfbb2}
-\BIBentrySTDinterwordspacing
+  Vehicles and International Transportation Electrification Conference}, 2017.
 
 \bibitem{noori2013}
-H.~Noori and M.~Valkama, ``Impact of vanet-based v2x communication using ieee
+H.~Noori and M.~Valkama, ``{Impact of VANET-based V2X communication using IEEE
   802.11p on reducing vehicles traveling time in realistic large scale urban
-  area,'' in \emph{2013 International Conference on Connected Vehicles and Expo
-  (ICCVE)}, Dec 2013, pp. 654--661.
+  area},'' in \emph{2013 International Conference on Connected Vehicles and
+  Expo ({ICCVE})}, Dec 2013, pp. 654--661.
 
 \bibitem{martins2016}
 A.~Martins, V.~Morais, M.~Ferreira, and A.~Carvalho, ``Control architecture

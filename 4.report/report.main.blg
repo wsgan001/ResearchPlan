@@ -1,64 +1,27 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: report.main.aux
 A level-1 auxiliary file: report.info.aux
 The style file: IEEEtran.bst
-Database file #1: bib/shift2rail.bib
-Database file #2: bib/references.bib
-Database file #3: bib/31.PowerS.bib
-Database file #4: bib/32.EnergyS.bib
-Database file #5: bib/33.WirelessN.bib
-Repeated entry---line 167 of file bib/33.WirelessN.bib
- : @inproceedings{Hackmann2006
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 174 of file bib/33.WirelessN.bib
- : @misc{nancy2014
- :                ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 182 of file bib/33.WirelessN.bib
- : @inproceedings{Radmand2010
- :                           ,
-I'm skipping whatever remains of this entry
-Database file #6: bib/34.SmartM.bib
-Repeated entry---line 57 of file bib/34.SmartM.bib
- : @article{USMAN2013
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 116 of file bib/34.SmartM.bib
- : @techreport{shift2rail2015
- :                           ,
-I'm skipping whatever remains of this entry
-Database file #7: bib/35.DSS.bib
-Database file #8: bib/36.OutlierD.bib
-Database file #9: bib/4.Method.bib
-Database file #10: bib/5.Preliminary.bib
+Database file #1: bib/1.Intro.bib
+Database file #2: bib/31.PowerS.bib
+Database file #3: bib/32.EnergyS.bib
+Database file #4: bib/33.WirelessN.bib
+Database file #5: bib/34.SmartM.bib
+Database file #6: bib/35.DSS.bib
+Database file #7: bib/36.OutlierD.bib
+Database file #8: bib/4.Method.bib
+Database file #9: bib/5.Preliminary.bib
 Repeated entry---line 3 of file bib/5.Preliminary.bib
- : @article{brunelli2016
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 20 of file bib/5.Preliminary.bib
  : @inproceedings{martins2016
  :                           ,
 I'm skipping whatever remains of this entry
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 2403 of file IEEEtran.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 2403 of file IEEEtran.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 2403 of file IEEEtran.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 2403 of file IEEEtran.bst
-Too many commas in name 1 of "Abad, Gonzalo; Briz, Fernando; Milicua, Artiz; Agirre, Xabier; Atutxa, Iñigo; Garrido, David; Escalada, Ana" for entry abad2016
-while executing---line 2403 of file IEEEtran.bst
-Warning--empty author in EN50463
-Warning--empty author in EN50155
 Warning--empty booktitle in Hackmann2006
-Name 1 in "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," has a comma at the end for entry pontryagin1963
+Name 4 in "L. S. Pontryagin and V. G. Boltyanskii and R. V. Gamkrelidze and E. F. Mishechenko," has a comma at the end for entry pontryagin1963
 while executing---line 2403 of file IEEEtran.bst
-Too many commas in name 1 of "L. S. Pontryagin, V. G. Boltyanskii, R. V. Gamkrelidze, E. F. Mishechenko," for entry pontryagin1963
+Name 4 in "L. S. Pontryagin and V. G. Boltyanskii and R. V. Gamkrelidze and E. F. Mishechenko," has a comma at the end for entry pontryagin1963
 while executing---line 2403 of file IEEEtran.bst
 
 Done.
-(There were 14 error messages)
+(There were 3 error messages)
