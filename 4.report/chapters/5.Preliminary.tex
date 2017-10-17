@@ -2,7 +2,7 @@
 
 For this preliminary work, two network simulators were evaluated: the NS-3 and the OMNeT++. The approach of performing the evaluation of two network simulators allows, at this planning stage, to increase the knowledge on such simulators.
 
-In figure \ref{fig:5.porto-caide} is presented the train mobility model of the case-study: Porto-Caíde railway line operated by \textit{Comboios de Portugal} (CP). This example, the simulator receives the \ac{GPS} coordinates of the line path and generates the mobility model. In this example, the train velocity is constant, without having in consideration the train stopping in stations. Future work will consider the velocity curves presented in subsection \ref{subs:353}: \textit{"Eco-driving – driving assistant"}.
+Figure \ref{fig:5.porto-caide} presents the train mobility model of the case-study: Porto-Caíde railway line operated by \textit{Comboios de Portugal} (CP). On this case-study, the simulator receives the \ac{GPS} coordinates of the line path and generates the mobility model. In addition, the train velocity is constant, without having in consideration the train stopping in stations. Future work will consider the velocity curves presented in subsection \ref{subs:353}: \textit{"Eco-driving – driving assistant"}.
 
 
 \begin{figure}[h!]
@@ -15,16 +15,12 @@ In figure \ref{fig:5.porto-caide} is presented the train mobility model of the c
 
 The output of this mobility model will be, in the future, a file with the distances of each communication link, for each time-stamp. In this scope, each communication link will be the distance between each train and each of the train stations.
 
-This output of the mobility model will be used by the network simulator to perform the simulation of the network link, that have this variable distance. To perform such simulation, the work of \cite{noori2013} using the OMNeT++ simulator supports a vehicle communication with 802.11p standard. However, in this preliminary work, the NS-3 network simulator was tested. In figure \ref{fig:5.omnetpp+ns3} is illustrated the interaction of both software simulators.
+This output of the mobility model will be used by the network simulator to perform the simulation of the network link, that have this variable distance. To perform such simulation, the work of Noori and Valkama (2013) using the OMNeT++ simulator supports a vehicle communication with 802.11p standard, \cite{noori2013}. However, in this preliminary work, the NS-3 network simulator was tested. Figure \ref{fig:5.omnetpp+ns3} illustrate the interaction of both software simulators.
 
 \begin{figure}[h!]
 	\centering
 	%	\vspace{-1em}
-<<<<<<< HEAD
 	\includegraphics[width=0.85\textwidth,keepaspectratio]{figures/50.PreliminaryW/omnetpp+ns32}
-=======
-	\includegraphics[width=0.85\textwidth,keepaspectratio]{figures/50.PreliminaryW/omnetpp+ns3}
->>>>>>> master
 	\caption{Simulator layers: proposed solution using OMNeT++ and NS-3.}
 	\label{fig:5.omnetpp+ns3}
 	%		\vspace{-2em}
@@ -49,11 +45,15 @@ The simulation case-study for the NS-3 simulator was defined as a moving node at
 	
 	In the second part of this preliminary work, the scenario was set to be a moving node between two points at fixed speed and having a stationary node in the middle. This allows the evaluation of the throughput for different 802.11 standards. With the NS-3 simulator, this scenario was implemented and tested. The results prove that this preliminary work will support the throughput evaluation of each communication link between the train and every base stations near the railway line of case study.
 
+
+
+
 \section{Evaluation of the non-intrusive voltage sensor}
 
-	A critical issue that can be identified is the measurement of voltage waveforms using a non-intrusive approach. 
-	The work of \cite{brunelli2016} presents a possible non-intrusive voltage measurement for energy meters.
-	In this work is referred that, for the authors knowledge, there is no commercially available non-intrusive sensor for voltage measurement in low-voltage wires (230-400 VAC). 
+	%A critical issue that can be identified is the 
+	Measurement of voltage waveforms using a non-intrusive approach is a critical issue in this research plan. 
+	Brunelly et al. (2016) presents a possible non-intrusive voltage measurement for energy meters, \cite{brunelli2016}.
+	On their work, as authors best knowledge, there is no commercially available non-intrusive sensor for voltage measurement in low-voltage wires (230-400 VAC). 
 	Despite that, some studies are proposed in the literature for extra/high-voltage monitoring systems based on a capacitive cell.
 	
 	Based on the solution of \cite{brunelli2016}, a voltage sensor was implemented and tested, as presented in figure \ref{fig:5.voltage_sensor}, with the equivalent circuit in \ref{fig:5.voltage_sensor_eq}. 
@@ -109,10 +109,10 @@ The simulation case-study for the NS-3 simulator was defined as a moving node at
 	
 	The \ac{VSC} is connected to the grid with a low-frequency transformer, which results in a line-to-line voltage of 200V (RMS) in the \ac{VSC}, \cite{martins2016}.
 
-	The purpose of this preliminary work is to evaluate if this solution presented in the state of the art is feasible to be implemented in an environment with huge amount of noise. At first evaluation the answer is negative, due to the need of extra work to estimate the voltage using the blue waveform of figure \ref{fig:5.scope_2}.
+	The purpose of this preliminary work is to evaluate if this solution described in the state of the art is feasible to be implemented in an environment with huge amount of noise. At first evaluation the answer is negative, due to the need of extra work to estimate the voltage using the blue waveform of figure \ref{fig:5.scope_2}.
 	
 	
-	If it is possible to extract the voltage waveform, this can be considered as a \textbf{contribution to the field of voltage measurement} in noisy environments, and in particular, in the railway environment.
+	Allowing the possibility to extract the voltage waveform, would be considered as a \textbf{contribution to the field of voltage measurement} in noisy environments, and in particular, in the railway environment.
 
 	A second part of this preliminary work is the extraction of information from the sensor, in particular the phase of the voltage. To achieve this goal, a simple conditioning circuit made to amplify the voltage level of sensor to full range of $\mu$C ADC. The $\mu$C used was an Infineon XMC4500 and is responsible for the digital processing. In figure \ref{fig:5.generalArchitecture} is illustrated the architecture for signal conditioning and digital processing.
 	
@@ -130,7 +130,7 @@ The simulation case-study for the NS-3 simulator was defined as a moving node at
 	\begin{figure}[h!]
 		\centering
 		\includegraphics[width=\textwidth,keepaspectratio]{figures/50.PreliminaryW/processingArchitecture}
-		\caption{Signal conditioning and digital processing architecture.}
+		\caption{Digital processing structure.}
 		\label{fig:5.processingArchitecture}
 	\end{figure}
 
@@ -138,7 +138,7 @@ The simulation case-study for the NS-3 simulator was defined as a moving node at
 	
 	The angle of the signal is then generated, as presented in figure \ref{fig:5.scope_9} where there is no phase compensation and the output of the phase estimation (in pink waveform) has a phase deviation around 10 degrees, compared with the line voltage (in orange waveform). In blue waveform is presented the estimated angle of voltage.
 	
-	Complementary, in figure \ref{fig:5.scope_10}, the phase was compensated which resulted in an accurate estimation of the voltage phase, with a phase error around 1 degree.
+	In addition, in figure \ref{fig:5.scope_10}, the phase was compensated which resulted in an accurate estimation of the voltage phase, with a phase error around 1 degree.
 	
 	
 	\begin{figure}[h!]
@@ -164,9 +164,9 @@ The simulation case-study for the NS-3 simulator was defined as a moving node at
 	%Therefore and as previously presented in the second part of the methodology, the future work will start with the simulation of the electric field in a wire subjected to a VSC and the implementation of a solution that extracts the "real" voltage from the signal of the voltage sensor.
 	
 \subsection{Conclusions and future work}
-	The work presented in literature that support these experimental results is feasible. \textbf{The voltage phase can be estimated with accuracy of around 1 degree};
+	The work referred in literature that support these experimental results is feasible. \textbf{The voltage phase can be estimated with accuracy of around 1 degree};
 	
-	For the future work, the following steps are identified:
+	For future work, the following steps are identified:
 	
 	\begin{itemize}
 		\setlength\itemsep{0em}

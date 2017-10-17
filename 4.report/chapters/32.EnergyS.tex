@@ -4,7 +4,7 @@
 \section{Energy Sensors}
 
 
-In this section is covered the theory behind energy sensors as well as the technologies used. In subsection \ref{subs:321} is started the presentation of the electric energy. Further on, in subsection \ref{subs:322} is covered the energy transducers and in subsection \ref{subs:323} is presented the challenges and requirements of energy measurement in \ac{RTS}. 
+In this section is covered the theory behind energy sensors as well as the technologies used. In subsection \ref{subs:321} is started the presentation of the electric energy. Further on, in subsection \ref{subs:322} is covered the energy transducers and in subsection \ref{subs:323} are presented the challenges and requirements of energy measurement in \ac{RTS}. 
 %This section is concluded with the presentation of the technologies used in RTS for energy measurement purposes.
 
 \subsection{Electric Energy Overview}
@@ -39,7 +39,7 @@ On \ac{AC} transmission lines, the power flow is directly related to the relatio
 	\end{minipage}
 \end{figure}
 
-The energy calculation depends on the voltage and currents measured in the catenary. This function present in train energy meters evaluates the voltage and currents and generates the active, reactive and power factor information of the train. In figure \ref{fig:liran2014} is presented an example of the energy information 1h operation of {$HX_D1B$} locomotive.
+The energy calculation depends on the voltage and currents measured in the catenary. This function present in train energy meters evaluates the voltage and currents and generates the active, reactive and power factor information of the train. In figure \ref{fig:liran2014} is presented an example of the energy information of an 1h operation of {$HX_D1B$} locomotive, \cite{liran2014}.
 
 
 \begin{figure}[h!]
@@ -58,7 +58,7 @@ The energy calculation depends on the voltage and currents measured in the caten
 
 \subsection{Current transducers and voltage transducers}
 \label{subs:322}	
-	According to Pallàs-Areny and Webster (2012), a transducer is a device capable to convert different physical signal forms, \cite{webster2012}. In the scope of energy measurements, current and voltage transducers are employed. These devices convert the field energy waveforms into a voltage (or current) waveform capable of be acquired by a processing unit (such as a microcontroller, programmable logic controller, etc.).
+	According to Pallàs-Areny and Webster (2012), a transducer is a device capable of converting different physical signal forms, \cite{webster2012}. In the scope of energy measurements, current and voltage transducers are employed. These devices convert the field energy waveforms into a voltage (or current) waveform capable of being acquired by a processing unit (such as a microcontroller, programmable logic controller, etc.).
 	
 	Dalessandro et al. (2007) identifies multiple different physical effects associated to the current sensors %\footnote{In the scope of energy measurements, voltage transducers combine the measurement of a current in a given load (or resistor). Therefore this subsection will only cover the measurement of currents} 
 	as following, \cite{Dalessandro2007}:
@@ -69,7 +69,7 @@ The energy calculation depends on the voltage and currents measured in the caten
 		%5-7
 		\item [Magneto resistance] The anisotropic magneto-resistive current sensors uses a magneto-resistive sensing element (composed of a nickel iron alloy) to measure the magnetic field induced by a current on a conductor;
 		%8,9
-		\item [Faraday induction] Fiber optic current sensors relies on Faraday effect to integrate the magnetic field along the closest path. The magnetic field will cause a magnetooptic phase shift of the light waves and this phase shift is measured with a technique known as fiber gyroscopes;
+		\item [Faraday induction] Fiber optic current sensors relies on the Faraday effect to integrate the magnetic field along the closest path. The magnetic field will cause a magnetooptic phase shift of the light waves and this phase shift is measured with a technique known as fiber gyroscopes;
 		%10
 		\item [Hall Effect] Similarly to magneto-resistive current sensors, the hall effect sensors uses a sensing element to measure the magnetic field in the air-gap of a magnetic circuit. For AC-only current measurement, no compensation of the flux in the magnetic core is made. The implementation of "Zero flux" compensation avoids the saturation of the magnetic core. This active compensation allows the measurement of currents with DC component.
 		
@@ -84,7 +84,7 @@ The energy calculation depends on the voltage and currents measured in the caten
 			%		\vspace{2.5em}
 			\includegraphics[width=0.32\textwidth,keepaspectratio]{figures/32.EnergyS/current_t}
 			%		\vspace{2em}
-			\captionof{figure}{25 kV current transformer. Adapted from www.railware.it}%\footnotetext{www.railware.it}}
+			\captionof{figure}{25 kV current transformer. Adapted from \textit{www.railware.it}}%\footnotetext{www.railware.it}}
 			\label{fig:current_t}
 		\end{minipage}%
 		\begin{minipage}{0.05\textwidth}  ~\end{minipage}	
@@ -94,7 +94,7 @@ The energy calculation depends on the voltage and currents measured in the caten
 			
 			
 			%		\vspace{0.5em}
-			\captionof{figure}{25 kV voltage transformer. Adapted from www.railware.it}%\footnotetext{www.railware.it}}
+			\captionof{figure}{25 kV voltage transformer. Adapted from \textit{www.railware.it}}%\footnotetext{www.railware.it}}
 			\label{fig:voltage_t}
 		\end{minipage}
 	\end{figure}
