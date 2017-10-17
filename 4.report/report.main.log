@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.6)  17 OCT 2017 11:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.6)  17 OCT 2017 11:21
 entering extended mode
 **./report.main.tex
 (report.main.tex
@@ -1742,22 +1742,14 @@ although it is yet undefined on input line 5.
 File: figures/36.Outlier/general.png Graphic file (type png)
 
 <use figures/36.Outlier/general.png>
-Package pdftex.def Info: figures/36.Outlier/general.png used on input line 29.
+Package pdftex.def Info: figures/36.Outlier/general.png used on input line 28.
 (pdftex.def)             Requested size: 309.85626pt x 219.6349pt.
-File: figures/36.Outlier/general.png Graphic file (type png)
- <use figures/36.Outlier/general.png>
-Package pdftex.def Info: figures/36.Outlier/general.png used on input line 31.
-(pdftex.def)             Requested size: 331.99031pt x 235.3077pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Overfull \hbox (1.2543pt too wide) in paragraph at lines 46--47
+ [31 <./figures/36.Outlier/general.png (PNG copy)>]
+Overfull \hbox (1.2543pt too wide) in paragraph at lines 42--43
 []\OT1/cmr/m/n/10.95 The De-ci-sion Sup-port Sub-
  []
 
-[31] [32 <./figures/36.Outlier/general.png (PNG copy)>] [33]) [34]
+[32] [33]) [34]
 Chapter 4.
 (chapters/4.Methodology.tex
 <figures/40.Method/pyramid.png, id=1003, 2903.84875pt x 2867.71375pt>
@@ -2015,7 +2007,7 @@ b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on report.main.pdf (62 pages, 21472408 bytes).
+Output written on report.main.pdf (62 pages, 21472008 bytes).
 PDF statistics:
  1339 PDF objects out of 1440 (max. 8388607)
  278 named destinations out of 1000 (max. 500000)
