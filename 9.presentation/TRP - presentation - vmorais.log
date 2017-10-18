@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.6)  17 OCT 2017 18:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.6)  18 OCT 2017 16:59
 entering extended mode
 **"./TRP - presentation - vmorais.tex"
 ("TRP - presentation - vmorais.tex"
@@ -1026,6 +1026,22 @@ Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
 \c@subfigure=\count157
 \c@subtable=\count158
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\acronym\acronym.sty"
+Package: acronym 2015/03/21 v1.41 Support for acronyms (Tobias Oetiker)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\bigfoot\suffix.sty"
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xstring\xstring.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xstring\xstring.tex"
+\@xs@message=\write5
+\integerpart=\count159
+\decimalpart=\count160
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+\AC@clearlist=\toks47
+)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\themes\theme\beamerthemeMadrid.s
 ty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\themes\color\beamercolorthemewha
@@ -1049,7 +1065,7 @@ Grid set 16 x 16 = 22.7622pt x 17.07166pt
 \TPboxrulesize=\dimen256
 \TP@ox=\dimen257
 \TP@oy=\dimen258
-\TP@tbargs=\toks47
+\TP@tbargs=\toks48
 \TP@prevdepth=\dimen259
 TextBlockOrigin set to 0pt x 0pt
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
@@ -1064,12 +1080,12 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \cmidrulesep=\dimen267
 \cmidrulekern=\dimen268
 \defaultaddspace=\dimen269
-\@cmidla=\count159
-\@cmidlb=\count160
+\@cmidla=\count161
+\@cmidlb=\count162
 \@aboverulesep=\dimen270
 \@belowrulesep=\dimen271
-\@thisruleclass=\count161
-\@lastruleclass=\count162
+\@thisruleclass=\count163
+\@lastruleclass=\count164
 \@thisrulewidth=\dimen272
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\mdframed\mdframed.sty"
@@ -1081,17 +1097,17 @@ Package: expl3 2017/04/01 L3 programming layer (loader)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
 Package: expl3 2017/04/01 L3 programming layer (code)
-\c_max_int=\count163
-\l_tmpa_int=\count164
-\l_tmpb_int=\count165
-\g_tmpa_int=\count166
-\g_tmpb_int=\count167
-\g__prg_map_int=\count168
-\c_log_iow=\count169
-\l_iow_line_count_int=\count170
-\l__iow_line_target_int=\count171
-\l__iow_one_indent_int=\count172
-\l__iow_indent_int=\count173
+\c_max_int=\count165
+\l_tmpa_int=\count166
+\l_tmpb_int=\count167
+\g_tmpa_int=\count168
+\g_tmpb_int=\count169
+\g__prg_map_int=\count170
+\c_log_iow=\count171
+\l_iow_line_count_int=\count172
+\l__iow_line_target_int=\count173
+\l__iow_one_indent_int=\count174
+\l__iow_indent_int=\count175
 \c_zero_dim=\dimen273
 \c_max_dim=\dimen274
 \l_tmpa_dim=\dimen275
@@ -1110,30 +1126,30 @@ Package: expl3 2017/04/01 L3 programming layer (code)
 \l_tmpb_muskip=\muskip15
 \g_tmpa_muskip=\muskip16
 \g_tmpb_muskip=\muskip17
-\l_keys_choice_int=\count174
-\c__fp_leading_shift_int=\count175
-\c__fp_middle_shift_int=\count176
-\c__fp_trailing_shift_int=\count177
-\c__fp_big_leading_shift_int=\count178
-\c__fp_big_middle_shift_int=\count179
-\c__fp_big_trailing_shift_int=\count180
-\c__fp_Bigg_leading_shift_int=\count181
-\c__fp_Bigg_middle_shift_int=\count182
-\c__fp_Bigg_trailing_shift_int=\count183
-\c__fp_rand_size_int=\count184
-\c__fp_rand_four_int=\count185
-\c__fp_rand_eight_int=\count186
-\l__sort_length_int=\count187
-\l__sort_min_int=\count188
-\l__sort_top_int=\count189
-\l__sort_max_int=\count190
-\l__sort_true_max_int=\count191
-\l__sort_block_int=\count192
-\l__sort_begin_int=\count193
-\l__sort_end_int=\count194
-\l__sort_A_int=\count195
-\l__sort_B_int=\count196
-\l__sort_C_int=\count197
+\l_keys_choice_int=\count176
+\c__fp_leading_shift_int=\count177
+\c__fp_middle_shift_int=\count178
+\c__fp_trailing_shift_int=\count179
+\c__fp_big_leading_shift_int=\count180
+\c__fp_big_middle_shift_int=\count181
+\c__fp_big_trailing_shift_int=\count182
+\c__fp_Bigg_leading_shift_int=\count183
+\c__fp_Bigg_middle_shift_int=\count184
+\c__fp_Bigg_trailing_shift_int=\count185
+\c__fp_rand_size_int=\count186
+\c__fp_rand_four_int=\count187
+\c__fp_rand_eight_int=\count188
+\l__sort_length_int=\count189
+\l__sort_min_int=\count190
+\l__sort_top_int=\count191
+\l__sort_max_int=\count192
+\l__sort_true_max_int=\count193
+\l__sort_block_int=\count194
+\l__sort_begin_int=\count195
+\l__sort_end_int=\count196
+\l__sort_A_int=\count197
+\l__sort_B_int=\count198
+\l__sort_C_int=\count199
 \c_empty_box=\box57
 \l_tmpa_box=\box58
 \l_tmpb_box=\box59
@@ -1177,15 +1193,15 @@ Package: expl3 2017/04/01 L3 programming layer (code)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def"
 File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count198
+\l__driver_color_stack_int=\count266
 \l__driver_tmp_box=\box72
 ))
 Package: xparse 2017/04/01 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count199
-\g__xparse_grabber_int=\count266
-\l__xparse_m_args_int=\count267
-\l__xparse_mandatory_args_int=\count268
-\l__xparse_v_nesting_int=\count269
+\l__xparse_current_arg_int=\count267
+\g__xparse_grabber_int=\count268
+\l__xparse_m_args_int=\count269
+\l__xparse_mandatory_args_int=\count270
+\l__xparse_v_nesting_int=\count271
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\zref-abspage.sty"
 Package: zref-abspage 2016/05/21 v2.26 Module abspage for zref (HO)
@@ -1196,14 +1212,14 @@ Package zref Info: New property list: main on input line 759.
 Package zref Info: New property: default on input line 760.
 Package zref Info: New property: page on input line 761.
 )
-\c@abspage=\count270
+\c@abspage=\count272
 Package zref Info: New property: abspage on input line 62.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\needspace\needspace.sty"
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
 \mdf@templength=\skip65
-\c@mdf@globalstyle@cnt=\count271
+\c@mdf@globalstyle@cnt=\count273
 \mdf@skipabove@length=\skip66
 \mdf@skipbelow@length=\skip67
 \mdf@leftmargin@length=\skip68
@@ -1279,7 +1295,7 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \mdf@horizontalspaceofbox=\skip129
 \mdfsubtitleheight=\skip130
 \mdfsubsubtitleheight=\skip131
-\c@mdfcountframes=\count272
+\c@mdfcountframes=\count274
 
 ****** mdframed patching \endmdf@trivlist
 
@@ -1295,10 +1311,10 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 . 
 . Defining command \mdtheorem with sig. ' O{} m o m o ' on line 701.
 .................................................
-\mdf@envdepth=\count273
-\c@mdf@env@i=\count274
-\c@mdf@env@ii=\count275
-\c@mdf@zref@counter=\count276
+\mdf@envdepth=\count275
+\c@mdf@env@i=\count276
+\c@mdf@env@ii=\count277
+\c@mdf@zref@counter=\count278
 Package zref Info: New property: mdf@pagevalue on input line 895.
 )
 
@@ -1309,28 +1325,28 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 34.
 
-("TRP - presentation - vmorais.aux" (Sections/Introduction.aux)
-(Sections/rts.aux
+(Sections/A.acronyms.tex) ("TRP - presentation - vmorais.aux"
+(Sections/Introduction.aux) (Sections/rts.aux
 
 LaTeX Warning: Label `fig:abad2016' multiply defined.
 
 ) (Sections/smartM.aux) (Sections/proposal.aux) (Sections/prelimaryW.aux))
 \openout1 = `"TRP - presentation - vmorais.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1368,20 +1384,20 @@ LaTeX Font Info:    ... okay on input line 77.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count277
+\scratchcounter=\count279
 \scratchdimen=\dimen304
 \scratchbox=\box78
-\nofMPsegments=\count278
-\nofMParguments=\count279
-\everyMPshowfont=\toks48
-\MPscratchCnt=\count280
+\nofMPsegments=\count280
+\nofMParguments=\count281
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count282
 \MPscratchDim=\dimen305
-\MPnumerator=\count281
-\makeMPintoPDFobject=\count282
-\everyMPtoPDFconversion=\toks49
+\MPnumerator=\count283
+\makeMPintoPDFobject=\count284
+\everyMPtoPDFconversion=\toks50
 ) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box79
-Package hyperref Info: Link coloring OFF on input line 77.
+Package hyperref Info: Link coloring OFF on input line 78.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1389,68 +1405,68 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count283
+\c@section@level=\count285
 )
-LaTeX Info: Redefining \ref on input line 77.
-LaTeX Info: Redefining \pageref on input line 77.
-LaTeX Info: Redefining \nameref on input line 77.
+LaTeX Info: Redefining \ref on input line 78.
+LaTeX Info: Redefining \pageref on input line 78.
+LaTeX Info: Redefining \nameref on input line 78.
 
 ("TRP - presentation - vmorais.out") ("TRP - presentation - vmorais.out")
-\@outlinefile=\write5
-\openout5 = `"TRP - presentation - vmorais.out"'.
+\@outlinefile=\write6
+\openout6 = `"TRP - presentation - vmorais.out"'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 77.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 78.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 77.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 78.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 77.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 77.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 78.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 77.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 77.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 77.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 78.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 77.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 77.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 77.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 78.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 77.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 77.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 77.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 78.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 77.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 77.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 78.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 77.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 78.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 77.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 77.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 77.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 77.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 77.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 77.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 77.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 78.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 78.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 7
-7.
+8.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-77.
+78.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 77.
+ut line 78.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\translator\dicts\translator-basi
 c-dictionary\translator-basic-dictionary-English.dict"
@@ -1476,23 +1492,23 @@ Dictionary: translator-numbers-dictionary, Language: English
 rem-dictionary\translator-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 77.
+LaTeX Info: Redefining \includegraphics on input line 78.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
 ("TRP - presentation - vmorais.nav")
-LaTeX Font Info:    Try loading font information for U+msa on input line 81.
+LaTeX Font Info:    Try loading font information for U+msa on input line 82.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 81.
+LaTeX Font Info:    Try loading font information for U+msb on input line 82.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 81.
+line 82.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\sansmathaccent\ot1mathkerncmss.fd"
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
@@ -1500,122 +1516,63 @@ thkerncmss.
 )
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 81.
+(Font)              size <5> substituted on input line 82.
 
 [1
 
 
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-("TRP - presentation - vmorais.toc") [2
+("TRP - presentation - vmorais.toc")
+Overfull \vbox (52.1837pt too high) detected at line 87
+ []
+
+[2
 
 ] ("TRP - presentation - vmorais.toc")
+Overfull \vbox (52.1837pt too high) detected at line 91
+ []
+
 [3
 
 ]
 \openout2 = `Sections/Introduction.aux'.
 
- (Sections/Introduction.tex
-
-LaTeX Warning: Citation `iea-uic2016' on page 4 undefined on input line 13.
-
-[4
+ (Sections/Introduction.tex [4
 
 
 ] [5
 
-]
-
-LaTeX Warning: Citation `shift2rail2015' on page 6 undefined on input line 35.
-
-[6
+] [6
 
 ]
-! Undefined control sequence.
-\beamer@doifinframe ...ation Programmes}} The \ac 
-                                                  {S2R} carries five innovat...
-l.52 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Package acronym Info: Label `acro:S2R' newly defined as it shall be overridden
+although it is yet undefined on input line 46.
 
-! Undefined control sequence.
-\beamer@doifinframe ...ps}. Framed on the S2R \ac 
-                                                  {IP3} with the focus on th...
-l.52 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Undefined control sequence.
-\beamer@doifinframe ...d the development of a \ac 
-                                                  {SMD} that achieves a deta...
-l.52 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Warning: Reference `fig:ips' on page 7 undefined on input line 46.
 
-! Undefined control sequence.
-\beamer@doifinframe ...f embracing the entire \ac 
-                                                  {RTS}. \end {block} \par \...
-l.52 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-<figures/1.Intro/IPs.jpg, id=298, 602.25pt x 332.24126pt>
-File: figures/1.Intro/IPs.jpg Graphic file (type jpg)
-
-<use figures/1.Intro/IPs.jpg>
-Package pdftex.def Info: figures/1.Intro/IPs.jpg used on input line 52.
-(pdftex.def)             Requested size: 205.37926pt x 113.30019pt.
-
-Overfull \vbox (31.0596pt too high) detected at line 52
- []
-
+Package acronym Info: Label `acro:IP3' newly defined as it shall be overridden
+although it is yet undefined on input line 46.
+Package acronym Info: Label `acro:SMD' newly defined as it shall be overridden
+although it is yet undefined on input line 46.
+Package acronym Info: Label `acro:RTS' newly defined as it shall be overridden
+although it is yet undefined on input line 46.
 [7
 
- <./figures/1.Intro/IPs.jpg>]
-! Undefined control sequence.
-\beamer@doifinframe ...y flows. This way, the \ac 
-                                                  {SMD} is required to propo...
-l.64 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+] [8
 
-[8
+]) ("TRP - presentation - vmorais.toc")
+Overfull \vbox (52.1837pt too high) detected at line 95
+ []
 
-]) ("TRP - presentation - vmorais.toc") [9
+[9
 
 
 ]
 \openout2 = `Sections/rts.aux'.
 
- (Sections/rts.tex
-(tables/31.overview.tex
-
-LaTeX Warning: Citation `abad2016' on page 10 undefined on input line 5.
-
-
-LaTeX Warning: Citation `abad2016' on page 10 undefined on input line 5.
-
-
+ (Sections/rts.tex (tables/31.overview.tex
 Underfull \hbox (badness 2884) in paragraph at lines 10--10
 []\OT1/cmss/m/n/6 600V DC, 750V DC,
  []
@@ -1623,59 +1580,26 @@ Underfull \hbox (badness 2884) in paragraph at lines 10--10
 ) [10
 
 
-] <figures/31.PowerS/abad2016.pdf, id=420, 313.65181pt x 317.12076pt>
+] <figures/31.PowerS/abad2016.pdf, id=477, 313.65181pt x 317.12076pt>
 File: figures/31.PowerS/abad2016.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/abad2016.pdf>
 Package pdftex.def Info: figures/31.PowerS/abad2016.pdf used on input line 31.
 (pdftex.def)             Requested size: 136.91603pt x 138.4303pt.
-
-
-LaTeX Warning: Citation `abad2016' on page 11 undefined on input line 31.
-
-
-LaTeX Warning: Citation `abad2016' on page 11 undefined on input line 31.
-
-[11
+ [11
 
  <./figures/31.PowerS/abad2016.pdf>]
-<figures/31.PowerS/abad2016f.pdf, id=454, 296.31424pt x 172.46414pt>
+<figures/31.PowerS/abad2016f.pdf, id=513, 296.31424pt x 172.46414pt>
 File: figures/31.PowerS/abad2016f.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/abad2016f.pdf>
 Package pdftex.def Info: figures/31.PowerS/abad2016f.pdf used on input line 75.
 
 (pdftex.def)             Requested size: 115.00969pt x 66.93706pt.
+Package acronym Info: Label `acro:DC' newly defined as it shall be overridden
+although it is yet undefined on input line 75.
 
-! Undefined control sequence.
-<argument> \ac 
-               {DC} supply system architecture. \cite {abad2016}.
-l.75 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Citation `abad2016' on page 12 undefined on input line 75.
-
-! Undefined control sequence.
-<argument> \ac 
-               {DC} supply system architecture. \cite {abad2016}.
-l.75 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Citation `abad2016' on page 12 undefined on input line 75.
-
-<figures/31.PowerS/abad2016d.pdf, id=455, 369.23532pt x 127.32253pt>
+<figures/31.PowerS/abad2016d.pdf, id=516, 369.23532pt x 127.32253pt>
 File: figures/31.PowerS/abad2016d.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/abad2016d.pdf>
@@ -1683,26 +1607,13 @@ Package pdftex.def Info: figures/31.PowerS/abad2016d.pdf used on input line 75.
 
 (pdftex.def)             Requested size: 164.30028pt x 56.65347pt.
 
-
-LaTeX Warning: Citation `abad2016' on page 12 undefined on input line 75.
-
-
-LaTeX Warning: Citation `abad2016' on page 12 undefined on input line 75.
-
-<figures/31.PowerS/abad2016e.pdf, id=456, 373.86523pt x 144.6847pt>
+<figures/31.PowerS/abad2016e.pdf, id=519, 373.86523pt x 144.6847pt>
 File: figures/31.PowerS/abad2016e.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/abad2016e.pdf>
 Package pdftex.def Info: figures/31.PowerS/abad2016e.pdf used on input line 75.
 
 (pdftex.def)             Requested size: 164.30028pt x 63.58418pt.
-
-
-LaTeX Warning: Citation `abad2016' on page 12 undefined on input line 75.
-
-
-LaTeX Warning: Citation `abad2016' on page 12 undefined on input line 75.
-
 
 Overfull \vbox (3.05066pt too high) detected at line 75
  []
@@ -1717,7 +1628,7 @@ usion: multiple pdfs with page group included in a single page
 
 pdfTeX warning: pdflatex.exe (file ./figures/31.PowerS/abad2016e.pdf): PDF incl
 usion: multiple pdfs with page group included in a single page
->] <figures/31.PowerS/train_finale.png, id=501, 9199.36874pt x 5393.14874pt>
+>] <figures/31.PowerS/train_finale.png, id=566, 9199.36874pt x 5393.14874pt>
 File: figures/31.PowerS/train_finale.png Graphic file (type png)
 
 <use figures/31.PowerS/train_finale.png>
@@ -1732,7 +1643,7 @@ l.93 \end{frame}
                  [13
 
  <./figures/31.PowerS/train_finale.png (PNG copy)>]
-<figures/31.PowerS/steimel2008a.pdf, id=529, 192.38274pt x 79.85835pt>
+<figures/31.PowerS/steimel2008a.pdf, id=594, 192.38274pt x 79.85835pt>
 File: figures/31.PowerS/steimel2008a.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/steimel2008a.pdf>
@@ -1740,85 +1651,24 @@ Package pdftex.def Info: figures/31.PowerS/steimel2008a.pdf used on input line
 138.
 (pdftex.def)             Requested size: 131.44072pt x 54.56248pt.
 
-! Undefined control sequence.
-<argument> Train internal power circuit of a \ac 
-                                                 {DC} supply system. Adapted...
-l.138 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Citation `steimel2008' on page 14 undefined on input line 138.
-
-! Undefined control sequence.
-<argument> Train internal power circuit of a \ac 
-                                                 {DC} supply system. Adapted...
-l.138 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Citation `steimel2008' on page 14 undefined on input line 138.
-
-<figures/31.PowerS/steimel2008b.pdf, id=530, 191.22641pt x 77.90706pt>
+<figures/31.PowerS/steimel2008b.pdf, id=597, 191.22641pt x 77.90706pt>
 File: figures/31.PowerS/steimel2008b.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/steimel2008b.pdf>
 Package pdftex.def Info: figures/31.PowerS/steimel2008b.pdf used on input line 
 138.
 (pdftex.def)             Requested size: 131.44072pt x 53.55144pt.
+Package acronym Info: Label `acro:AC' newly defined as it shall be overridden
+although it is yet undefined on input line 138.
 
-! Undefined control sequence.
-<argument> Train internal power circuit of an \ac 
-                                                  {AC} supply system. Adapte...
-l.138 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Citation `steimel2008' on page 14 undefined on input line 138.
-
-! Undefined control sequence.
-<argument> Train internal power circuit of an \ac 
-                                                  {AC} supply system. Adapte...
-l.138 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-LaTeX Warning: Citation `steimel2008' on page 14 undefined on input line 138.
-
-<figures/31.PowerS/steimel2008c.pdf, id=531, 199.89882pt x 63.95895pt>
+<figures/31.PowerS/steimel2008c.pdf, id=600, 199.89882pt x 63.95895pt>
 File: figures/31.PowerS/steimel2008c.pdf Graphic file (type pdf)
 
 <use figures/31.PowerS/steimel2008c.pdf>
 Package pdftex.def Info: figures/31.PowerS/steimel2008c.pdf used on input line 
 138.
 (pdftex.def)             Requested size: 131.44072pt x 42.05687pt.
-
-
-LaTeX Warning: Citation `steimel2008' on page 14 undefined on input line 138.
-
-
-LaTeX Warning: Citation `steimel2008' on page 14 undefined on input line 138.
-
-[14
+ [14
 
  <./figures/31.PowerS/steimel2008a.pdf> <./figures/31.PowerS/steimel2008b.pdf
 
@@ -1828,7 +1678,7 @@ nclusion: multiple pdfs with page group included in a single page
 
 pdfTeX warning: pdflatex.exe (file ./figures/31.PowerS/steimel2008c.pdf): PDF i
 nclusion: multiple pdfs with page group included in a single page
->] <figures/40.Method/powerSensing.pdf, id=576, 7833.265pt x 7924.60625pt>
+>] <figures/40.Method/powerSensing.pdf, id=648, 7833.265pt x 7924.60625pt>
 File: figures/40.Method/powerSensing.pdf Graphic file (type pdf)
 
 <use figures/40.Method/powerSensing.pdf>
@@ -1836,7 +1686,7 @@ Package pdftex.def Info: figures/40.Method/powerSensing.pdf used on input line
 174.
 (pdftex.def)             Requested size: 139.65623pt x 141.23409pt.
 
-<figures/40.Method/CP3400.jpg, id=577, 200.75pt x 133.6995pt>
+<figures/40.Method/CP3400.jpg, id=649, 200.75pt x 133.6995pt>
 File: figures/40.Method/CP3400.jpg Graphic file (type jpg)
 
 <use figures/40.Method/CP3400.jpg>
@@ -1845,15 +1695,18 @@ Package pdftex.def Info: figures/40.Method/CP3400.jpg used on input line 174.
  [15
 
  <./figures/40.Method/powerSensing.pdf> <./figures/40.Method/CP3400.jpg>]) ("TR
-P - presentation - vmorais.toc") [16
+P - presentation - vmorais.toc")
+Overfull \vbox (52.1837pt too high) detected at line 99
+ []
+
+[16
 
 
 ]
 \openout2 = `Sections/smartM.aux'.
 
-
-(Sections/smartM.tex
-<figures/32.EnergyS/current_t.pdf, id=651, 162.46297pt x 191.37097pt>
+ (Sections/smartM.tex
+<figures/32.EnergyS/current_t.pdf, id=729, 162.46297pt x 191.37097pt>
 File: figures/32.EnergyS/current_t.pdf Graphic file (type pdf)
 
 <use figures/32.EnergyS/current_t.pdf>
@@ -1861,7 +1714,7 @@ Package pdftex.def Info: figures/32.EnergyS/current_t.pdf used on input line 40
 .
 (pdftex.def)             Requested size: 49.29057pt x 58.05998pt.
 
-<figures/32.EnergyS/voltage_t.pdf, id=652, 130.37508pt x 192.81636pt>
+<figures/32.EnergyS/voltage_t.pdf, id=730, 130.37508pt x 192.81636pt>
 File: figures/32.EnergyS/voltage_t.pdf Graphic file (type pdf)
 
 <use figures/32.EnergyS/voltage_t.pdf>
@@ -1880,7 +1733,7 @@ Overfull \vbox (0.74893pt too high) detected at line 40
 pdfTeX warning: pdflatex.exe (file ./figures/32.EnergyS/voltage_t.pdf): PDF inc
 lusion: multiple pdfs with page group included in a single page
 >]
-<figures/32.EnergyS/energy_calculation.pdf, id=692, 424.36943pt x 283.87657pt>
+<figures/32.EnergyS/energy_calculation.pdf, id=770, 424.36943pt x 283.87657pt>
 File: figures/32.EnergyS/energy_calculation.pdf Graphic file (type pdf)
 
 <use figures/32.EnergyS/energy_calculation.pdf>
@@ -1890,24 +1743,17 @@ t line 55.
  [18
 
  <./figures/32.EnergyS/energy_calculation.pdf>]
-<figures/33.WirelessN/comer2008.pdf, id=727, 387.94536pt x 207.27036pt>
+<figures/33.WirelessN/comer2008.pdf, id=805, 387.94536pt x 207.27036pt>
 File: figures/33.WirelessN/comer2008.pdf Graphic file (type pdf)
 
 <use figures/33.WirelessN/comer2008.pdf>
 Package pdftex.def Info: figures/33.WirelessN/comer2008.pdf used on input line 
 68.
 (pdftex.def)             Requested size: 273.83728pt x 146.30588pt.
+ [19
 
-
-LaTeX Warning: Citation `comer2008' on page 19 undefined on input line 68.
-
-
-LaTeX Warning: Citation `comer2008' on page 19 undefined on input line 68.
-
-[19
-
- <./figures/33.WirelessN/comer2008.pdf>]
-<figures/33.WirelessN/simul_VS_emul.png, id=764, 935.495pt x 305.14pt>
+ <./figures/33.WirelessN/comer2008.pdf>] <figures/33.WirelessN/simul_VS_emul.pn
+g, id=845, 935.495pt x 305.14pt>
 File: figures/33.WirelessN/simul_VS_emul.png Graphic file (type png)
 
 <use figures/33.WirelessN/simul_VS_emul.png>
@@ -1916,7 +1762,7 @@ ine 97.
 (pdftex.def)             Requested size: 164.30028pt x 53.59119pt.
  [20
 
- <./figures/33.WirelessN/simul_VS_emul.png>] <figures/34.SmartM/EMS.png, id=792
+ <./figures/33.WirelessN/simul_VS_emul.png>] <figures/34.SmartM/EMS.png, id=873
 , 813.0375pt x 429.605pt>
 File: figures/34.SmartM/EMS.png Graphic file (type png)
 
@@ -1926,193 +1772,252 @@ Package pdftex.def Info: figures/34.SmartM/EMS.png used on input line 112.
  [21
 
  <./figures/34.SmartM/EMS.png>]
-<figures/35.DSS/scheepmaker2017a.pdf, id=819, 256.41396pt x 152.63423pt>
+<figures/35.DSS/scheepmaker2017a.pdf, id=900, 256.41396pt x 152.63423pt>
 File: figures/35.DSS/scheepmaker2017a.pdf Graphic file (type pdf)
 
 <use figures/35.DSS/scheepmaker2017a.pdf>
 Package pdftex.def Info: figures/35.DSS/scheepmaker2017a.pdf used on input line
  140.
 (pdftex.def)             Requested size: 82.15013pt x 48.90216pt.
+ [22
 
-
-LaTeX Warning: Citation `scheepmaker2017' on page 22 undefined on input line 14
-0.
-
-
-LaTeX Warning: Citation `scheepmaker2017' on page 22 undefined on input line 14
-0.
-
-[22
-
- <./figures/35.DSS/scheepmaker2017a.pdf>]
-! Undefined control sequence.
-<recently read> \subitem 
-                         
-l.186 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \subitem 
-                         
-l.186 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \subitem 
-                         
-l.186 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \subitem 
-                         
-l.186 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \subitem 
-                         
-l.186 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \subitem 
-                         
-l.186 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \subitem 
-                         
-l.186 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \subitem 
-                         
-l.186 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-<figures/36.Outlier/general.png, id=852, 3991.91376pt x 2829.57124pt>
+ <./figures/35.DSS/scheepmaker2017a.pdf>] <figures/36.Outlier/general.png, id=9
+38, 3991.91376pt x 2829.57124pt>
 File: figures/36.Outlier/general.png Graphic file (type png)
 
 <use figures/36.Outlier/general.png>
-Package pdftex.def Info: figures/36.Outlier/general.png used on input line 186.
+Package pdftex.def Info: figures/36.Outlier/general.png used on input line 191.
 
 (pdftex.def)             Requested size: 123.56978pt x 87.56036pt.
+Package acronym Info: Label `acro:WSN' newly defined as it shall be overridden
+although it is yet undefined on input line 191.
+ [23
 
-! Undefined control sequence.
-<argument> Integration of the \ac 
-                                  {WSN} with a decision support system. 
-l.186 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+ <./figures/36.Outlier/general.png (PNG copy)>]) ("TRP - presentation - vmorais
+.toc")
+Overfull \vbox (52.1837pt too high) detected at line 103
+ []
 
-! Undefined control sequence.
-<argument> Integration of the \ac 
-                                  {WSN} with a decision support system. 
-l.186 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[23
-
- <./figures/36.Outlier/general.png (PNG copy)>])
-("TRP - presentation - vmorais.toc") [24
+[24
 
 
 ]
 \openout2 = `Sections/proposal.aux'.
 
- (Sections/proposal.tex)
-("TRP - presentation - vmorais.toc") [25
+ (Sections/proposal.tex
+<figures/40.Method/pyramid.png, id=1011, 2903.84875pt x 2867.71375pt>
+File: figures/40.Method/pyramid.png Graphic file (type png)
 
+<use figures/40.Method/pyramid.png>
+Package pdftex.def Info: figures/40.Method/pyramid.png used on input line 37.
+(pdftex.def)             Requested size: 65.7191pt x 64.89272pt.
+
+<figures/40.Method/data_flow.png, id=1012, 6516.345pt x 741.77126pt>
+File: figures/40.Method/data_flow.png Graphic file (type png)
+
+<use figures/40.Method/data_flow.png>
+Package pdftex.def Info: figures/40.Method/data_flow.png used on input line 37.
+
+(pdftex.def)             Requested size: 164.30028pt x 18.69817pt.
+ [25
+
+
+ <./figures/40.Method/pyramid.png (PNG copy)> <./figures/40.Method/data_flow.pn
+g (PNG copy)>]
+Package epstopdf Info: Source file: <figures/40.Method/architecture.eps>
+(epstopdf)                    date: 2017-09-29 12:04:34
+(epstopdf)                    size: 209998 bytes
+(epstopdf)             Output file: <figures/40.Method/architecture-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2017-09-29 12:05:03
+(epstopdf)                    size: 130792 bytes
+(epstopdf)             Command: <epstopdf --outfile=figures/40.Method/architect
+ure-eps-converted-to.pdf figures/40.Method/architecture.eps>
+(epstopdf)             \includegraphics on input line 49.
+Package epstopdf Info: Output file is already uptodate.
+
+<figures/40.Method/architecture-eps-converted-to.pdf, id=1040, 543.02875pt x 22
+3.83624pt>
+File: figures/40.Method/architecture-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use figures/40.Method/architecture-eps-converted-to.pdf>
+Package pdftex.def Info: figures/40.Method/architecture-eps-converted-to.pdf us
+ed on input line 49.
+(pdftex.def)             Requested size: 308.06367pt x 126.98686pt.
+ [26
+
+ <./figures/40.Method/architecture-eps-converted-to.pdf>]
+File: figures/40.Method/powerSensing.pdf Graphic file (type pdf)
+
+<use figures/40.Method/powerSensing.pdf>
+Package pdftex.def Info: figures/40.Method/powerSensing.pdf used on input line 
+64.
+(pdftex.def)             Requested size: 171.14764pt x 173.03595pt.
+
+Overfull \vbox (13.66202pt too high) detected at line 64
+ []
+
+[27
+
+]
+<figures/40.Method/methodElectrical.pdf, id=1116, 15638.425pt x 7754.9725pt>
+File: figures/40.Method/methodElectrical.pdf Graphic file (type pdf)
+
+<use figures/40.Method/methodElectrical.pdf>
+Package pdftex.def Info: figures/40.Method/methodElectrical.pdf used on input l
+ine 77.
+(pdftex.def)             Requested size: 239.60567pt x 118.80452pt.
+ [28
+
+ <./figures/40.Method/methodElectrical.pdf>] [29
+
+]
+Package epstopdf Info: Source file: <figures/40.Method/architecture.eps>
+(epstopdf)                    date: 2017-09-29 12:04:34
+(epstopdf)                    size: 209998 bytes
+(epstopdf)             Output file: <figures/40.Method/architecture-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2017-09-29 12:05:03
+(epstopdf)                    size: 130792 bytes
+(epstopdf)             Command: <epstopdf --outfile=figures/40.Method/architect
+ure-eps-converted-to.pdf figures/40.Method/architecture.eps>
+(epstopdf)             \includegraphics on input line 103.
+Package epstopdf Info: Output file is already uptodate.
+File: figures/40.Method/architecture-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use figures/40.Method/architecture-eps-converted-to.pdf>
+Package pdftex.def Info: figures/40.Method/architecture-eps-converted-to.pdf us
+ed on input line 103.
+(pdftex.def)             Requested size: 273.83728pt x 112.881pt.
+
+[30
+
+] <figures/40.Method/methodWireless.pdf, id=1202, 9170.26pt x 4653.385pt>
+File: figures/40.Method/methodWireless.pdf Graphic file (type pdf)
+
+<use figures/40.Method/methodWireless.pdf>
+Package pdftex.def Info: figures/40.Method/methodWireless.pdf used on input lin
+e 116.
+(pdftex.def)             Requested size: 273.83728pt x 138.95648pt.
+ [31
+
+ <./figures/40.Method/methodWireless.pdf>]
+Package acronym Info: Label `acro:LTE' newly defined as it shall be overridden
+although it is yet undefined on input line 129.
+ [32
+
+]) ("TRP - presentation - vmorais.toc")
+Overfull \vbox (52.1837pt too high) detected at line 107
+ []
+
+[33
 
 
 ]
 \openout2 = `Sections/prelimaryW.aux'.
 
- (Sections/prelimaryW.tex)
+ (Sections/prelimaryW.tex
+<figures/50.PreliminaryW/porto-caide2.pdf, id=1309, 1923.185pt x 702.625pt>
+File: figures/50.PreliminaryW/porto-caide2.pdf Graphic file (type pdf)
+
+<use figures/50.PreliminaryW/porto-caide2.pdf>
+Package pdftex.def Info: figures/50.PreliminaryW/porto-caide2.pdf used on input
+ line 13.
+(pdftex.def)             Requested size: 308.06367pt x 112.54022pt.
+ [34
+
+
+ <./figures/50.PreliminaryW/porto-caide2.pdf>]
+<figures/50.PreliminaryW/distance-rate.pdf, id=1358, 1910.13625pt x 878.28125pt
+>
+File: figures/50.PreliminaryW/distance-rate.pdf Graphic file (type pdf)
+ <use figures/50.PreliminaryW/distance-rate.pdf>
+Package pdftex.def Info: figures/50.PreliminaryW/distance-rate.pdf used on inpu
+t line 25.
+(pdftex.def)             Requested size: 342.2953pt x 157.38692pt.
+ [35
+
+ <./figures/50.PreliminaryW/distance-rate.pdf>]
+<figures/50.PreliminaryW/omnetpp+ns32.png, id=1393, 6887.7325pt x 4886.255pt>
+File: figures/50.PreliminaryW/omnetpp+ns32.png Graphic file (type png)
+
+<use figures/50.PreliminaryW/omnetpp+ns32.png>
+Package pdftex.def Info: figures/50.PreliminaryW/omnetpp+ns32.png used on input
+ line 37.
+(pdftex.def)             Requested size: 239.60567pt x 169.91803pt.
+ [36
+
+ <./figures/50.PreliminaryW/omnetpp+ns32.png (PNG copy)>]
+<figures/50.PreliminaryW/voltage_sensor.jpg, id=1419, 730.22812pt x 508.90125pt
+>
+File: figures/50.PreliminaryW/voltage_sensor.jpg Graphic file (type jpg)
+ <use figures/50.PreliminaryW/voltage_sensor.jpg>
+Package pdftex.def Info: figures/50.PreliminaryW/voltage_sensor.jpg used on inp
+ut line 73.
+(pdftex.def)             Requested size: 71.88399pt x 50.09328pt.
+
+<figures/50.PreliminaryW/generalArchitecture.pdf, id=1420, 9415.175pt x 3013.25
+75pt>
+File: figures/50.PreliminaryW/generalArchitecture.pdf Graphic file (type pdf)
+ <use figures/50.PreliminaryW/generalArchitecture.pdf>
+Package pdftex.def Info: figures/50.PreliminaryW/generalArchitecture.pdf used o
+n input line 73.
+(pdftex.def)             Requested size: 154.03183pt x 49.289pt.
+ [37
+
+ <./figures/50.PreliminaryW/voltage_sensor.jpg> <./figures/50.PreliminaryW/gene
+ralArchitecture.pdf>] <figures/50.PreliminaryW/scope_9.png, id=1457, 803.0pt x 
+504.88625pt>
+File: figures/50.PreliminaryW/scope_9.png Graphic file (type png)
+
+<use figures/50.PreliminaryW/scope_9.png>
+Package pdftex.def Info: figures/50.PreliminaryW/scope_9.png used on input line
+ 96.
+(pdftex.def)             Requested size: 156.08475pt x 98.1327pt.
+
+<figures/50.PreliminaryW/scope_10.png, id=1458, 803.0pt x 504.88625pt>
+File: figures/50.PreliminaryW/scope_10.png Graphic file (type png)
+
+<use figures/50.PreliminaryW/scope_10.png>
+Package pdftex.def Info: figures/50.PreliminaryW/scope_10.png used on input lin
+e 96.
+(pdftex.def)             Requested size: 156.08475pt x 98.1327pt.
+ [38
+
+ <./figures/50.PreliminaryW/scope_9.png (PNG copy)> <./figures/50.PreliminaryW/
+scope_10.png (PNG copy)>])
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 124.
+(hyperref)                setting the option has no effect on input line 125.
 
-[26
+[39
 
+
+] ("TRP - presentation - vmorais.bbl") [40
+
+ <C:/Program Files/MiKTeX 2.9/tex/latex/beamer/art/beamericonarticle.pdf>] [41
 
 
 ]
-No file "TRP - presentation - vmorais".bbl.
-[27
+\tf@nav=\write7
+\openout7 = `"TRP - presentation - vmorais.nav"'.
 
-]
-\tf@nav=\write6
-\openout6 = `"TRP - presentation - vmorais.nav"'.
+\tf@toc=\write8
+\openout8 = `"TRP - presentation - vmorais.toc"'.
 
-\tf@toc=\write7
-\openout7 = `"TRP - presentation - vmorais.toc"'.
+\tf@snm=\write9
+\openout9 = `"TRP - presentation - vmorais.snm"'.
 
-\tf@snm=\write8
-\openout8 = `"TRP - presentation - vmorais.snm"'.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 137.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 137.
- ("TRP - presentation - vmorais.aux" (Sections/Introduction.aux)
-(Sections/rts.aux) (Sections/smartM.aux) (Sections/proposal.aux)
-(Sections/prelimaryW.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 137.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 137.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 138.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 138.
+ ("TRP - presentation - vmorais.aux" (Sections/Introduction.aux) (Sections/rts.
+aux) (Sections/smartM.aux)
+(Sections/proposal.aux) (Sections/prelimaryW.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 138.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 138.
 Package rerunfilecheck Info: File `"TRP - presentation - vmorais".out' has not 
 changed.
-(rerunfilecheck)             Checksum: 1762A82B5BD2ED0586BDE82DCB17A2C6;1043.
+(rerunfilecheck)             Checksum: 23BC582EA2040849392D3ECD0774D041;1521.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -2126,23 +2031,26 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 27163 strings out of 493333
- 525879 string characters out of 3139189
- 582963 words of memory out of 3000000
- 30055 multiletter control sequences out of 15000+200000
- 12526 words of font info for 45 fonts, out of 3000000 for 9000
+ 27925 strings out of 493333
+ 538206 string characters out of 3139189
+ 597972 words of memory out of 3000000
+ 30722 multiletter control sequences out of 15000+200000
+ 14236 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,16n,65p,10452b,802s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmssi10.pfb>
-Output written on "TRP - presentation - vmorais.pdf" (27 pages, 11875350 bytes)
+ 56i,16n,65p,10452b,897s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{fig:ips} has been referenced but does not exist, 
+replaced by a fixed one
+
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmssi10.pfb>
+Output written on "TRP - presentation - vmorais.pdf" (41 pages, 15952347 bytes)
 .
 PDF statistics:
- 1049 PDF objects out of 1200 (max. 8388607)
- 73 named destinations out of 1000 (max. 500000)
- 312 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1620 PDF objects out of 1728 (max. 8388607)
+ 124 named destinations out of 1000 (max. 500000)
+ 413 words of extra memory for PDF output out of 10000 (max. 10000000)
 

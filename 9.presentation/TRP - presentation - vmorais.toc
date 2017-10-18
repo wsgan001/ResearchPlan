@@ -12,4 +12,9 @@
 \beamer@subsectionintoc {3}{4}{Decision Support Systems}{22}{0}{3}
 \beamer@subsectionintoc {3}{5}{Issues and problems in Wireless Networks}{23}{0}{3}
 \beamer@sectionintoc {4}{Thesis Proposal}{24}{0}{4}
-\beamer@sectionintoc {5}{Preliminary Work}{25}{0}{5}
+\beamer@subsectionintoc {4}{1}{Architecture of proposed work}{25}{0}{4}
+\beamer@subsectionintoc {4}{2}{Non-intrusive self-powered sensor node}{27}{0}{4}
+\beamer@subsectionintoc {4}{3}{RTS wireless network}{30}{0}{4}
+\beamer@sectionintoc {5}{Preliminary Work}{33}{0}{5}
+\beamer@subsectionintoc {5}{1}{Implementation of a point-to-point communication between a moving train and a station}{34}{0}{5}
+\beamer@subsectionintoc {5}{2}{Evaluation of the non-intrusive voltage sensor}{37}{0}{5}

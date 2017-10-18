@@ -1,0 +1,21 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: TRP - presentation - vmorais.aux
+A level-1 auxiliary file: Sections/Introduction.aux
+A level-1 auxiliary file: Sections/rts.aux
+A level-1 auxiliary file: Sections/smartM.aux
+A level-1 auxiliary file: Sections/proposal.aux
+A level-1 auxiliary file: Sections/prelimaryW.aux
+The style file: IEEEtran.bst
+Database file #1: bib/1.Intro.bib
+Database file #2: bib/31.PowerS.bib
+Database file #3: bib/32.EnergyS.bib
+Database file #4: bib/33.WirelessN.bib
+Database file #5: bib/34.SmartM.bib
+Database file #6: bib/35.DSS.bib
+Database file #7: bib/36.OutlierD.bib
+Database file #8: bib/4.Method.bib
+Database file #9: bib/5.Preliminary.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+
+Done.
