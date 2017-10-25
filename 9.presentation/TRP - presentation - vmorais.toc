@@ -1,20 +1,15 @@
 \beamer@sectionintoc {1}{Introduction}{3}{0}{1}
-\beamer@subsectionintoc {1}{1}{Context and motivation of PhD}{4}{0}{1}
-\beamer@subsectionintoc {1}{2}{Shift2Rail Framework}{5}{0}{1}
-\beamer@subsectionintoc {1}{3}{Main Goal}{8}{0}{1}
-\beamer@sectionintoc {2}{Railway Transportation System}{9}{0}{2}
-\beamer@subsectionintoc {2}{1}{Power system of Railway Transportation System}{10}{0}{2}
-\beamer@subsectionintoc {2}{2}{Train Power Supply System}{13}{0}{2}
-\beamer@sectionintoc {3}{Remote Monitoring in Railways}{16}{0}{3}
-\beamer@subsectionintoc {3}{1}{Energy sensors}{17}{0}{3}
-\beamer@subsectionintoc {3}{2}{Wireless Networks}{19}{0}{3}
-\beamer@subsectionintoc {3}{3}{Smart metering in railways}{21}{0}{3}
-\beamer@subsectionintoc {3}{4}{Decision Support Systems}{22}{0}{3}
-\beamer@subsectionintoc {3}{5}{Issues and problems in Wireless Networks}{23}{0}{3}
+\beamer@sectionintoc {2}{Railway Transportation System}{10}{0}{2}
+\beamer@subsectionintoc {2}{1}{Power system of Railway Transportation System}{11}{0}{2}
+\beamer@subsectionintoc {2}{2}{Train Power Supply System}{14}{0}{2}
+\beamer@sectionintoc {3}{Remote Monitoring in Railways}{17}{0}{3}
+\beamer@subsectionintoc {3}{1}{Energy Sensors and Smart metering in railways}{18}{0}{3}
+\beamer@subsectionintoc {3}{2}{Wireless Networks and Decision Support Systems}{21}{0}{3}
 \beamer@sectionintoc {4}{Thesis Proposal}{24}{0}{4}
 \beamer@subsectionintoc {4}{1}{Architecture of proposed work}{25}{0}{4}
 \beamer@subsectionintoc {4}{2}{Non-intrusive self-powered sensor node}{27}{0}{4}
 \beamer@subsectionintoc {4}{3}{RTS wireless network}{30}{0}{4}
-\beamer@sectionintoc {5}{Preliminary Work}{33}{0}{5}
-\beamer@subsectionintoc {5}{1}{Implementation of a point-to-point communication between a moving train and a station}{34}{0}{5}
-\beamer@subsectionintoc {5}{2}{Evaluation of the non-intrusive voltage sensor}{37}{0}{5}
+\beamer@subsectionintoc {4}{4}{Thesis Work Plan}{33}{0}{4}
+\beamer@sectionintoc {5}{Preliminary Work}{35}{0}{5}
+\beamer@subsectionintoc {5}{1}{Implementation of a point-to-point communication between a moving train and a station}{36}{0}{5}
+\beamer@subsectionintoc {5}{2}{Evaluation of the non-intrusive voltage sensor}{39}{0}{5}

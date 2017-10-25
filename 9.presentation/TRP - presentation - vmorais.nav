@@ -7,65 +7,59 @@
 \headcommand {\beamer@subsectionpages {1}{2}}
 \headcommand {\slideentry {1}{0}{1}{3/3}{}{0}}
 \headcommand {\beamer@framepages {3}{3}}
-\headcommand {\beamer@subsectionentry {0}{1}{1}{4}{Context and motivation of PhD}}\headcommand {\beamer@subsectionpages {3}{3}}
-\headcommand {\slideentry {1}{1}{1}{4/4}{Context and motivation of PhD}{0}}
+\headcommand {\slideentry {1}{0}{2}{4/4}{}{0}}
 \headcommand {\beamer@framepages {4}{4}}
-\headcommand {\beamer@subsectionentry {0}{1}{2}{5}{Shift2Rail Framework}}\headcommand {\beamer@subsectionpages {4}{4}}
-\headcommand {\slideentry {1}{2}{1}{5/5}{Shift2Rail Framework}{0}}
+\headcommand {\slideentry {1}{0}{3}{5/5}{}{0}}
 \headcommand {\beamer@framepages {5}{5}}
-\headcommand {\slideentry {1}{2}{2}{6/6}{Shift2Rail Framework}{0}}
+\headcommand {\slideentry {1}{0}{4}{6/6}{}{0}}
 \headcommand {\beamer@framepages {6}{6}}
-\headcommand {\slideentry {1}{2}{3}{7/7}{Shift2Rail Framework}{0}}
+\headcommand {\slideentry {1}{0}{5}{7/7}{}{0}}
 \headcommand {\beamer@framepages {7}{7}}
-\headcommand {\beamer@subsectionentry {0}{1}{3}{8}{Main Goal}}\headcommand {\beamer@subsectionpages {5}{7}}
-\headcommand {\slideentry {1}{3}{1}{8/8}{Main Goal}{0}}
+\headcommand {\slideentry {1}{0}{6}{8/8}{}{0}}
 \headcommand {\beamer@framepages {8}{8}}
-\headcommand {\sectionentry {2}{Railway Transportation System}{9}{Railway Transportation System}{0}}
-\headcommand {\beamer@sectionpages {3}{8}}
-\headcommand {\beamer@subsectionpages {8}{8}}
-\headcommand {\slideentry {2}{0}{1}{9/9}{}{0}}
+\headcommand {\slideentry {1}{0}{7}{9/9}{}{0}}
 \headcommand {\beamer@framepages {9}{9}}
-\headcommand {\beamer@subsectionentry {0}{2}{1}{10}{Power system of Railway Transportation System}}\headcommand {\beamer@subsectionpages {9}{9}}
-\headcommand {\slideentry {2}{1}{1}{10/10}{Power system of Railway Transportation System}{0}}
+\headcommand {\sectionentry {2}{Railway Transportation System}{10}{Railway Transportation System}{0}}
+\headcommand {\beamer@sectionpages {3}{9}}
+\headcommand {\beamer@subsectionpages {3}{9}}
+\headcommand {\slideentry {2}{0}{1}{10/10}{}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\slideentry {2}{1}{2}{11/11}{Power system of Railway Transportation System}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{11}{Power system of Railway Transportation System}}\headcommand {\beamer@subsectionpages {10}{10}}
+\headcommand {\slideentry {2}{1}{1}{11/11}{Power system of Railway Transportation System}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\slideentry {2}{1}{3}{12/12}{Power system of Railway Transportation System}{0}}
+\headcommand {\slideentry {2}{1}{2}{12/12}{Power system of Railway Transportation System}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{13}{Train Power Supply System}}\headcommand {\beamer@subsectionpages {10}{12}}
-\headcommand {\slideentry {2}{2}{1}{13/13}{Train Power Supply System}{0}}
+\headcommand {\slideentry {2}{1}{3}{13/13}{Power system of Railway Transportation System}{0}}
 \headcommand {\beamer@framepages {13}{13}}
-\headcommand {\slideentry {2}{2}{2}{14/14}{Train Power Supply System}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{14}{Train Power Supply System}}\headcommand {\beamer@subsectionpages {11}{13}}
+\headcommand {\slideentry {2}{2}{1}{14/14}{Train Power Supply System}{0}}
 \headcommand {\beamer@framepages {14}{14}}
-\headcommand {\slideentry {2}{2}{3}{15/15}{Train Power Supply System}{0}}
+\headcommand {\slideentry {2}{2}{2}{15/15}{Train Power Supply System}{0}}
 \headcommand {\beamer@framepages {15}{15}}
-\headcommand {\sectionentry {3}{Remote Monitoring in Railways}{16}{Remote Monitoring in Railways}{0}}
-\headcommand {\beamer@sectionpages {9}{15}}
-\headcommand {\beamer@subsectionpages {13}{15}}
-\headcommand {\slideentry {3}{0}{1}{16/16}{}{0}}
+\headcommand {\slideentry {2}{2}{3}{16/16}{Train Power Supply System}{0}}
 \headcommand {\beamer@framepages {16}{16}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{17}{Energy sensors}}\headcommand {\beamer@subsectionpages {16}{16}}
-\headcommand {\slideentry {3}{1}{1}{17/17}{Energy sensors}{0}}
+\headcommand {\sectionentry {3}{Remote Monitoring in Railways}{17}{Remote Monitoring in Railways}{0}}
+\headcommand {\beamer@sectionpages {10}{16}}
+\headcommand {\beamer@subsectionpages {14}{16}}
+\headcommand {\slideentry {3}{0}{1}{17/17}{}{0}}
 \headcommand {\beamer@framepages {17}{17}}
-\headcommand {\slideentry {3}{1}{2}{18/18}{Energy sensors}{0}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{18}{Energy Sensors and Smart metering in railways}}\headcommand {\beamer@subsectionpages {17}{17}}
+\headcommand {\slideentry {3}{1}{1}{18/18}{Energy Sensors and Smart metering in railways}{0}}
 \headcommand {\beamer@framepages {18}{18}}
-\headcommand {\beamer@subsectionentry {0}{3}{2}{19}{Wireless Networks}}\headcommand {\beamer@subsectionpages {17}{18}}
-\headcommand {\slideentry {3}{2}{1}{19/19}{Wireless Networks}{0}}
+\headcommand {\slideentry {3}{1}{2}{19/19}{Energy Sensors and Smart metering in railways}{0}}
 \headcommand {\beamer@framepages {19}{19}}
-\headcommand {\slideentry {3}{2}{2}{20/20}{Wireless Networks}{0}}
+\headcommand {\slideentry {3}{1}{3}{20/20}{Energy Sensors and Smart metering in railways}{0}}
 \headcommand {\beamer@framepages {20}{20}}
-\headcommand {\beamer@subsectionentry {0}{3}{3}{21}{Smart metering in railways}}\headcommand {\beamer@subsectionpages {19}{20}}
-\headcommand {\slideentry {3}{3}{1}{21/21}{Smart metering in railways}{0}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{21}{Wireless Networks and Decision Support Systems}}\headcommand {\beamer@subsectionpages {18}{20}}
+\headcommand {\slideentry {3}{2}{1}{21/21}{Wireless Networks and Decision Support Systems}{0}}
 \headcommand {\beamer@framepages {21}{21}}
-\headcommand {\beamer@subsectionentry {0}{3}{4}{22}{Decision Support Systems}}\headcommand {\beamer@subsectionpages {21}{21}}
-\headcommand {\slideentry {3}{4}{1}{22/22}{Decision Support Systems}{0}}
+\headcommand {\slideentry {3}{2}{2}{22/22}{Wireless Networks and Decision Support Systems}{0}}
 \headcommand {\beamer@framepages {22}{22}}
-\headcommand {\beamer@subsectionentry {0}{3}{5}{23}{Issues and problems in Wireless Networks}}\headcommand {\beamer@subsectionpages {22}{22}}
-\headcommand {\slideentry {3}{5}{1}{23/23}{Issues and problems in Wireless Networks}{0}}
+\headcommand {\slideentry {3}{2}{3}{23/23}{Wireless Networks and Decision Support Systems}{0}}
 \headcommand {\beamer@framepages {23}{23}}
 \headcommand {\sectionentry {4}{Thesis Proposal}{24}{Thesis Proposal}{0}}
-\headcommand {\beamer@sectionpages {16}{23}}
-\headcommand {\beamer@subsectionpages {23}{23}}
+\headcommand {\beamer@sectionpages {17}{23}}
+\headcommand {\beamer@subsectionpages {21}{23}}
 \headcommand {\slideentry {4}{0}{1}{24/24}{}{0}}
 \headcommand {\beamer@framepages {24}{24}}
 \headcommand {\beamer@subsectionentry {0}{4}{1}{25}{Architecture of proposed work}}\headcommand {\beamer@subsectionpages {24}{24}}
@@ -87,31 +81,36 @@
 \headcommand {\beamer@framepages {31}{31}}
 \headcommand {\slideentry {4}{3}{3}{32/32}{RTS wireless network}{0}}
 \headcommand {\beamer@framepages {32}{32}}
-\headcommand {\sectionentry {5}{Preliminary Work}{33}{Preliminary Work}{0}}
-\headcommand {\beamer@sectionpages {24}{32}}
-\headcommand {\beamer@subsectionpages {30}{32}}
-\headcommand {\slideentry {5}{0}{1}{33/33}{}{0}}
+\headcommand {\beamer@subsectionentry {0}{4}{4}{33}{Thesis Work Plan}}\headcommand {\beamer@subsectionpages {30}{32}}
+\headcommand {\slideentry {4}{4}{1}{33/33}{Thesis Work Plan}{0}}
 \headcommand {\beamer@framepages {33}{33}}
-\headcommand {\beamer@subsectionentry {0}{5}{1}{34}{Implementation of a point-to-point communication between a moving train and a station}}\headcommand {\beamer@subsectionpages {33}{33}}
-\headcommand {\slideentry {5}{1}{1}{34/34}{Implementation of a point-to-point communication between a moving train and a station}{0}}
+\headcommand {\slideentry {4}{4}{2}{34/34}{Thesis Work Plan}{0}}
 \headcommand {\beamer@framepages {34}{34}}
-\headcommand {\slideentry {5}{1}{2}{35/35}{Implementation of a point-to-point communication between a moving train and a station}{0}}
+\headcommand {\sectionentry {5}{Preliminary Work}{35}{Preliminary Work}{0}}
+\headcommand {\beamer@sectionpages {24}{34}}
+\headcommand {\beamer@subsectionpages {33}{34}}
+\headcommand {\slideentry {5}{0}{1}{35/35}{}{0}}
 \headcommand {\beamer@framepages {35}{35}}
-\headcommand {\slideentry {5}{1}{3}{36/36}{Implementation of a point-to-point communication between a moving train and a station}{0}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{36}{Implementation of a point-to-point communication between a moving train and a station}}\headcommand {\beamer@subsectionpages {35}{35}}
+\headcommand {\slideentry {5}{1}{1}{36/36}{Implementation of a point-to-point communication between a moving train and a station}{0}}
 \headcommand {\beamer@framepages {36}{36}}
-\headcommand {\beamer@subsectionentry {0}{5}{2}{37}{Evaluation of the non-intrusive voltage sensor}}\headcommand {\beamer@subsectionpages {34}{36}}
-\headcommand {\slideentry {5}{2}{1}{37/37}{Evaluation of the non-intrusive voltage sensor}{0}}
+\headcommand {\slideentry {5}{1}{2}{37/37}{Implementation of a point-to-point communication between a moving train and a station}{0}}
 \headcommand {\beamer@framepages {37}{37}}
-\headcommand {\slideentry {5}{2}{2}{38/38}{Evaluation of the non-intrusive voltage sensor}{0}}
+\headcommand {\slideentry {5}{1}{3}{38/38}{Implementation of a point-to-point communication between a moving train and a station}{0}}
 \headcommand {\beamer@framepages {38}{38}}
-\headcommand {\slideentry {5}{2}{3}{39/39}{Evaluation of the non-intrusive voltage sensor}{0}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{39}{Evaluation of the non-intrusive voltage sensor}}\headcommand {\beamer@subsectionpages {36}{38}}
+\headcommand {\slideentry {5}{2}{1}{39/39}{Evaluation of the non-intrusive voltage sensor}{0}}
 \headcommand {\beamer@framepages {39}{39}}
-\headcommand {\slideentry {5}{2}{4}{40/40}{Evaluation of the non-intrusive voltage sensor}{0}}
+\headcommand {\slideentry {5}{2}{2}{40/40}{Evaluation of the non-intrusive voltage sensor}{0}}
 \headcommand {\beamer@framepages {40}{40}}
-\headcommand {\slideentry {5}{2}{4}{40/41}{Evaluation of the non-intrusive voltage sensor}{0}}
-\headcommand {\beamer@framepages {40}{41}}
-\headcommand {\beamer@partpages {1}{41}}
-\headcommand {\beamer@subsectionpages {37}{41}}
-\headcommand {\beamer@sectionpages {33}{41}}
-\headcommand {\beamer@documentpages {41}}
-\headcommand {\def \inserttotalframenumber {41}}
+\headcommand {\slideentry {5}{2}{3}{41/41}{Evaluation of the non-intrusive voltage sensor}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\slideentry {5}{2}{4}{42/42}{Evaluation of the non-intrusive voltage sensor}{0}}
+\headcommand {\beamer@framepages {42}{42}}
+\headcommand {\slideentry {5}{2}{4}{42/43}{Evaluation of the non-intrusive voltage sensor}{0}}
+\headcommand {\beamer@framepages {42}{43}}
+\headcommand {\beamer@partpages {1}{43}}
+\headcommand {\beamer@subsectionpages {39}{43}}
+\headcommand {\beamer@sectionpages {35}{43}}
+\headcommand {\beamer@documentpages {43}}
+\headcommand {\def \inserttotalframenumber {43}}
