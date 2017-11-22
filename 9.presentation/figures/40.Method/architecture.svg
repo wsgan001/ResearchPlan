@@ -83,17 +83,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="493.30971"
-     inkscape:cy="323.38083"
+     inkscape:zoom="5.6"
+     inkscape:cx="82.431446"
+     inkscape:cy="152.97076"
      inkscape:document-units="mm"
-     inkscape:current-layer="g95541"
+     inkscape:current-layer="g97590"
      showgrid="false"
      inkscape:measure-start="174.251,857.178"
      inkscape:measure-end="179.87,857.272"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      fit-margin-top="0"
@@ -129,7 +129,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -154,6 +154,17 @@
            id="g95541-3">
           <g
              id="g97590">
+            <rect
+               style="fill:#ffffff;fill-opacity:0.92916667;stroke:none;stroke-width:1.99838567;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:0.96336999"
+               id="rect77695"
+               width="722.83704"
+               height="300.79327"
+               x="-470.09448"
+               y="-9.0784235"
+               ry="1.2127888e-013"
+               inkscape:export-filename="C:\Users\VMORAIS\Desktop\2nd_semester\ResearchPlan\4.report\figures\40.Method\arch.png"
+               inkscape:export-xdpi="600"
+               inkscape:export-ydpi="600" />
             <g
                transform="translate(-411.08066,172.85977)"
                id="g84279">
@@ -5335,7 +5346,7 @@
               <use
                  id="use87403"
                  transform="matrix(1.5746127,-0.17303517,0.17303517,1.5746127,-4.9046522,35.005413)"
-                 style="fill:#007d00;fill-opacity:0.19215686;stroke:none"
+                 style="fill:#007d00;fill-opacity:0.62352943;stroke:none"
                  xlink:href="#icon-bolt"
                  x="0"
                  y="0"
@@ -5571,7 +5582,7 @@
               <use
                  id="use87403-6"
                  transform="matrix(0.24415605,-1.5293184,2.4953018,10.887018,21.021956,-37.529041)"
-                 style="fill:#007d00;fill-opacity:0.19215686;stroke:none"
+                 style="fill:#007d00;fill-opacity:0.62352943;stroke:none"
                  xlink:href="#icon-bolt"
                  x="0"
                  y="0"
@@ -5580,7 +5591,7 @@
               <use
                  id="use87403-6-3"
                  transform="matrix(0.27010036,-1.6481144,2.7604556,11.732712,417.82944,-35.643053)"
-                 style="fill:#007d00;fill-opacity:0.19215686;stroke:none"
+                 style="fill:#007d00;fill-opacity:0.625;stroke:none"
                  xlink:href="#icon-bolt"
                  x="0"
                  y="0"
@@ -5620,7 +5631,7 @@
             <use
                id="use87403-3"
                transform="matrix(1.5795807,0,0,1.5795807,-8.2609191,191.59386)"
-               style="fill:#ff0000;fill-opacity:0.19607843;stroke:none"
+               style="fill:#ff0000;fill-opacity:0.51666665;stroke:none"
                xlink:href="#icon-bolt"
                x="0"
                y="0"

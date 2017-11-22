@@ -5,11 +5,11 @@
 \beamer@sectionintoc {3}{Remote Monitoring in Railways}{16}{0}{3}
 \beamer@subsectionintoc {3}{1}{Energy transducers and Smart metering in railways}{17}{0}{3}
 \beamer@subsectionintoc {3}{2}{Wireless Networks and Decision Support Systems}{20}{0}{3}
-\beamer@sectionintoc {4}{Thesis Proposal}{22}{0}{4}
-\beamer@subsectionintoc {4}{1}{Architecture of proposed work}{23}{0}{4}
-\beamer@subsectionintoc {4}{2}{Non-intrusive self-powered sensor node}{26}{0}{4}
-\beamer@subsectionintoc {4}{3}{RTS wireless network}{29}{0}{4}
-\beamer@subsectionintoc {4}{4}{Thesis Work Plan}{32}{0}{4}
+\beamer@sectionintoc {4}{Thesis Proposal}{23}{0}{4}
+\beamer@subsectionintoc {4}{1}{Architecture of proposed work}{24}{0}{4}
+\beamer@subsectionintoc {4}{2}{Part 1 --- Energy metering node}{27}{0}{4}
+\beamer@subsectionintoc {4}{3}{Part 2 --- Data transmission \& Storage System}{30}{0}{4}
+\beamer@subsectionintoc {4}{4}{Thesis Work Plan}{33}{0}{4}
 \beamer@sectionintoc {5}{Preliminary Work}{34}{0}{5}
 \beamer@subsectionintoc {5}{1}{Implementation of a point-to-point communication between a moving train and a station}{35}{0}{5}
 \beamer@subsectionintoc {5}{2}{Evaluation of the non-intrusive voltage sensor}{38}{0}{5}
