@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.6)  22 NOV 2017 11:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.6)  22 NOV 2017 16:17
 entering extended mode
 **"./TRP - presentation - vmorais.tex"
 ("TRP - presentation - vmorais.tex"
@@ -1819,84 +1819,90 @@ ine 80.
 
  <./figures/40.Method/methodElectrical.pdf>] [29
 
+] [30
+
 ]
-<figures/40.Method/arch2.png, id=1087, 544.1931pt x 226.446pt>
+<figures/40.Method/arch2.png, id=1113, 544.1931pt x 226.446pt>
 File: figures/40.Method/arch2.png Graphic file (type png)
 
 <use figures/40.Method/arch2.png>
 Package pdftex.def Info: figures/40.Method/arch2.png used on input line 106.
 (pdftex.def)             Requested size: 273.83728pt x 113.94487pt.
- [30
+ [31
 
  <./figures/40.Method/arch2.png>]
-<figures/40.Method/methodWireless.pdf, id=1116, 9170.26pt x 4653.385pt>
+<figures/40.Method/methodWireless.pdf, id=1143, 9170.26pt x 4653.385pt>
 File: figures/40.Method/methodWireless.pdf Graphic file (type pdf)
 
 <use figures/40.Method/methodWireless.pdf>
 Package pdftex.def Info: figures/40.Method/methodWireless.pdf used on input lin
 e 119.
 (pdftex.def)             Requested size: 273.83728pt x 138.95648pt.
- [31
+ [32
 
  <./figures/40.Method/methodWireless.pdf>]
 Package acronym Info: Label `acro:LTE' newly defined as it shall be overridden
-although it is yet undefined on input line 132.
- [32
+although it is yet undefined on input line 134.
+ [33
+
+] [34
+
+] [35
 
 ]
-<figures/40.Method/workplan0.png, id=1177, 6914.83376pt x 5337.9425pt>
+<figures/40.Method/workplan0.png, id=1255, 6914.83376pt x 5337.9425pt>
 File: figures/40.Method/workplan0.png Graphic file (type png)
 
 <use figures/40.Method/workplan0.png>
-Package pdftex.def Info: figures/40.Method/workplan0.png used on input line 144
+Package pdftex.def Info: figures/40.Method/workplan0.png used on input line 146
 .
 (pdftex.def)             Requested size: 239.60567pt x 184.89227pt.
 
-Overfull \vbox (3.61615pt too high) detected at line 144
+Overfull \vbox (3.61615pt too high) detected at line 146
  []
 
-[33
+[36
 
  <./figures/40.Method/workplan0.png (PNG copy)>])
-("TRP - presentation - vmorais.toc") [34
+("TRP - presentation - vmorais.toc") [37
 
 
 ]
 \openout2 = `Sections/prelimaryW.aux'.
 
  (Sections/prelimaryW.tex
-<figures/50.PreliminaryW/porto-caide2.pdf, id=1244, 1923.185pt x 702.625pt>
+<figures/50.PreliminaryW/porto-caide2.pdf, id=1323, 1923.185pt x 702.625pt>
 File: figures/50.PreliminaryW/porto-caide2.pdf Graphic file (type pdf)
 
 <use figures/50.PreliminaryW/porto-caide2.pdf>
 Package pdftex.def Info: figures/50.PreliminaryW/porto-caide2.pdf used on input
  line 13.
 (pdftex.def)             Requested size: 308.06367pt x 112.54022pt.
- [35
+ [38
 
 
  <./figures/50.PreliminaryW/porto-caide2.pdf>]
-<figures/50.PreliminaryW/distance-rate.pdf, id=1293, 1910.13625pt x 878.28125pt
+<figures/50.PreliminaryW/distance-rate.pdf, id=1372, 1910.13625pt x 878.28125pt
 >
 File: figures/50.PreliminaryW/distance-rate.pdf Graphic file (type pdf)
  <use figures/50.PreliminaryW/distance-rate.pdf>
 Package pdftex.def Info: figures/50.PreliminaryW/distance-rate.pdf used on inpu
 t line 25.
 (pdftex.def)             Requested size: 342.2953pt x 157.38692pt.
- [36
+ [39
 
  <./figures/50.PreliminaryW/distance-rate.pdf>]
-<figures/50.PreliminaryW/omnetpp+ns32.png, id=1328, 6887.7325pt x 4886.255pt>
+<figures/50.PreliminaryW/omnetpp+ns32.png, id=1407, 6887.7325pt x 4886.255pt>
 File: figures/50.PreliminaryW/omnetpp+ns32.png Graphic file (type png)
 
 <use figures/50.PreliminaryW/omnetpp+ns32.png>
 Package pdftex.def Info: figures/50.PreliminaryW/omnetpp+ns32.png used on input
  line 37.
 (pdftex.def)             Requested size: 239.60567pt x 169.91803pt.
- [37
+ [40
 
  <./figures/50.PreliminaryW/omnetpp+ns32.png (PNG copy)>]
-<figures/50.PreliminaryW/voltage_sensor.jpg, id=1355, 730.22812pt x 508.90125pt
+<figures/50.PreliminaryW/voltage_sensor.jpg, id=1433, 730.22812pt x 508.90125pt
 >
 File: figures/50.PreliminaryW/voltage_sensor.jpg Graphic file (type jpg)
  <use figures/50.PreliminaryW/voltage_sensor.jpg>
@@ -1904,17 +1910,17 @@ Package pdftex.def Info: figures/50.PreliminaryW/voltage_sensor.jpg used on inp
 ut line 73.
 (pdftex.def)             Requested size: 75.06326pt x 52.30637pt.
 
-<figures/50.PreliminaryW/generalArchitecture.pdf, id=1358, 9415.175pt x 3013.25
+<figures/50.PreliminaryW/generalArchitecture.pdf, id=1436, 9415.175pt x 3013.25
 75pt>
 File: figures/50.PreliminaryW/generalArchitecture.pdf Graphic file (type pdf)
  <use figures/50.PreliminaryW/generalArchitecture.pdf>
 Package pdftex.def Info: figures/50.PreliminaryW/generalArchitecture.pdf used o
 n input line 73.
 (pdftex.def)             Requested size: 164.30028pt x 52.55347pt.
- [38
+ [41
 
  <./figures/50.PreliminaryW/voltage_sensor.jpg> <./figures/50.PreliminaryW/gene
-ralArchitecture.pdf>] <figures/50.PreliminaryW/scope_0.png, id=1395, 803.0pt x 
+ralArchitecture.pdf>] <figures/50.PreliminaryW/scope_0.png, id=1473, 803.0pt x 
 504.88625pt>
 File: figures/50.PreliminaryW/scope_0.png Graphic file (type png)
 
@@ -1923,14 +1929,14 @@ Package pdftex.def Info: figures/50.PreliminaryW/scope_0.png used on input line
  96.
 (pdftex.def)             Requested size: 156.08475pt x 98.1327pt.
 
-<figures/50.PreliminaryW/scope_10.png, id=1396, 803.0pt x 504.88625pt>
+<figures/50.PreliminaryW/scope_10.png, id=1474, 803.0pt x 504.88625pt>
 File: figures/50.PreliminaryW/scope_10.png Graphic file (type png)
 
 <use figures/50.PreliminaryW/scope_10.png>
 Package pdftex.def Info: figures/50.PreliminaryW/scope_10.png used on input lin
 e 96.
 (pdftex.def)             Requested size: 156.08475pt x 98.1327pt.
- [39
+ [42
 
  <./figures/50.PreliminaryW/scope_0.png (PNG copy)> <./figures/50.PreliminaryW/
 scope_10.png (PNG copy)>])
@@ -1938,14 +1944,14 @@ scope_10.png (PNG copy)>])
 Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 134.
 
-[40
+[43
 
 
 ]
 \openout2 = `Sections/aux_data.aux'.
 
  (Sections/aux_data.tex
-<figures/99.aux/voltage_estim.png, id=1451, 6114.845pt x 1609.01125pt>
+<figures/99.aux/voltage_estim.png, id=1530, 6114.845pt x 1609.01125pt>
 File: figures/99.aux/voltage_estim.png Graphic file (type png)
 
 <use figures/99.aux/voltage_estim.png>
@@ -1953,28 +1959,28 @@ Package pdftex.def Info: figures/99.aux/voltage_estim.png used on input line 14
 .
 (pdftex.def)             Requested size: 273.83728pt x 72.0341pt.
 
-<figures/99.aux/train_estim.png, id=1452, 6572.555pt x 1585.925pt>
+<figures/99.aux/train_estim.png, id=1531, 6572.555pt x 1585.925pt>
 File: figures/99.aux/train_estim.png Graphic file (type png)
 
 <use figures/99.aux/train_estim.png>
 Package pdftex.def Info: figures/99.aux/train_estim.png used on input line 14.
 (pdftex.def)             Requested size: 273.83728pt x 66.0639pt.
- [41
+ [44
 
 
  <./figures/99.aux/voltage_estim.png (PNG copy)> <./figures/99.aux/train_estim.
 png (PNG copy)>]
-<figures/99.aux/substation_estim.png, id=1479, 6939.9275pt x 1585.925pt>
+<figures/99.aux/substation_estim.png, id=1558, 6939.9275pt x 1585.925pt>
 File: figures/99.aux/substation_estim.png Graphic file (type png)
 
 <use figures/99.aux/substation_estim.png>
 Package pdftex.def Info: figures/99.aux/substation_estim.png used on input line
  24.
 (pdftex.def)             Requested size: 308.06367pt x 70.39557pt.
- [42
+ [45
 
  <./figures/99.aux/substation_estim.png (PNG copy)>]
-<figures/40.Method/workplan1.png, id=1506, 6482.2175pt x 4523.90125pt>
+<figures/40.Method/workplan1.png, id=1585, 6482.2175pt x 4523.90125pt>
 File: figures/40.Method/workplan1.png Graphic file (type png)
 
 <use figures/40.Method/workplan1.png>
@@ -1985,23 +1991,23 @@ Package pdftex.def Info: figures/40.Method/workplan1.png used on input line 34.
 Overfull \vbox (9.79639pt too high) detected at line 34
  []
 
-[43
+[46
 
  <./figures/40.Method/workplan1.png (PNG copy)>]
-<figures/40.Method/workplan2.png, id=1534, 6482.2175pt x 3440.855pt>
+<figures/40.Method/workplan2.png, id=1612, 6482.2175pt x 3440.855pt>
 File: figures/40.Method/workplan2.png Graphic file (type png)
 
 <use figures/40.Method/workplan2.png>
 Package pdftex.def Info: figures/40.Method/workplan2.png used on input line 43.
 
 (pdftex.def)             Requested size: 273.83728pt x 145.32872pt.
- [44
+ [47
 
  <./figures/40.Method/workplan2.png (PNG copy)>]) ("TRP - presentation - vmorai
-s.bbl") [45
+s.bbl") [48
 
 
- <C:/Program Files/MiKTeX 2.9/tex/latex/beamer/art/beamericonarticle.pdf>] [46
+ <C:/Program Files/MiKTeX 2.9/tex/latex/beamer/art/beamericonarticle.pdf>] [49
 
 
 ]
@@ -2024,7 +2030,7 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 149.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 149.
 Package rerunfilecheck Info: File `"TRP - presentation - vmorais".out' has not 
 changed.
-(rerunfilecheck)             Checksum: B127176AD6E8EA80C461B1AF78ECA22E;1219.
+(rerunfilecheck)             Checksum: 7A7D4DE43C0F66398C06B7AEF2230128;1219.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -2032,10 +2038,10 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 27895 strings out of 493333
- 537859 string characters out of 3139189
- 597358 words of memory out of 3000000
- 30692 multiletter control sequences out of 15000+200000
+ 27899 strings out of 493333
+ 537881 string characters out of 3139189
+ 597390 words of memory out of 3000000
+ 30690 multiletter control sequences out of 15000+200000
  14231 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,16n,65p,10452b,799s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2046,10 +2052,10 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/public/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmssi8.pfb>
-Output written on "TRP - presentation - vmorais.pdf" (46 pages, 17701723 bytes)
+Output written on "TRP - presentation - vmorais.pdf" (49 pages, 17722163 bytes)
 .
 PDF statistics:
- 1672 PDF objects out of 1728 (max. 8388607)
- 122 named destinations out of 1000 (max. 500000)
+ 1752 PDF objects out of 2073 (max. 8388607)
+ 128 named destinations out of 1000 (max. 500000)
  392 words of extra memory for PDF output out of 10000 (max. 10000000)
 
